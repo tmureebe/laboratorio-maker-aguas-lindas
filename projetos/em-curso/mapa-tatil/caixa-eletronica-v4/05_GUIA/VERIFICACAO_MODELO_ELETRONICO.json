@@ -1,0 +1,49 @@
+{
+  "arquivo": "04_MODELO_3D/Caixa_com_sistema_eletronico.scad",
+  "vistas_conferidas": [
+    {
+      "vista": "inspecao",
+      "pedestal": false,
+      "compilado": true,
+      "tamanho_CSG": 199502
+    },
+    {
+      "vista": "fechada",
+      "pedestal": false,
+      "compilado": true,
+      "tamanho_CSG": 199491
+    },
+    {
+      "vista": "aberta",
+      "pedestal": false,
+      "compilado": true,
+      "tamanho_CSG": 199570
+    },
+    {
+      "vista": "sem_tampa",
+      "pedestal": false,
+      "compilado": true,
+      "tamanho_CSG": 194165
+    },
+    {
+      "vista": "eletronica",
+      "pedestal": false,
+      "compilado": true,
+      "tamanho_CSG": 189414
+    },
+    {
+      "vista": "inspecao",
+      "pedestal": true,
+      "compilado": true,
+      "tamanho_CSG": 249104
+    }
+  ],
+  "botoes": 10,
+  "dimensoes_caixa_mm": [
+    500,
+    380,
+    50
+  ],
+  "arquivos_de_corte_preservados": 24,
+  "observacao": "Componentes, pinagem fisica, fios e posicoes dos botoes sao ilustrativos; compilacao CSG sem renderizacao OpenGL. Camera definida no SCAD gera aviso informativo no CLI."
+}

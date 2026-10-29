@@ -1,0 +1,26 @@
+{
+  "montagem": {
+    "redes_conferidas": 14,
+    "fios": 31,
+    "continuidade": "OK",
+    "isolamento_logico_entre_redes": "OK",
+    "GPIOs_vs_firmware": "OK"
+  },
+  "sem_componentes_opcionais": {
+    "redes_conferidas": 14,
+    "fios": 27,
+    "continuidade": "OK",
+    "isolamento_logico_entre_redes": "OK",
+    "GPIOs_vs_firmware": "OK"
+  },
+  "vista_explodida": {
+    "redes_conferidas": 14,
+    "fios": 31,
+    "continuidade": "OK",
+    "isolamento_logico_entre_redes": "OK",
+    "GPIOs_vs_firmware": "OK"
+  },
+  "original_preservado_sha256": "e2859099b93cf882885cd9f0eced58259a7e4c1e852127414914606cc7aedca0",
+  "proximidades_entre_fios_de_redes_distintas": [],
+  "limites": "Proximidade por amostragem de 0,4 mm; não testa colisão com corpos dos módulos, tolerâncias físicas ou comportamento elétrico."
+}

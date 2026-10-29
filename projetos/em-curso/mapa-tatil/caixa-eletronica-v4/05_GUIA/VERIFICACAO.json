@@ -1,0 +1,92 @@
+{
+  "chapa_area_util_mm": [
+    560,
+    360
+  ],
+  "intervalo_minimo_pecas_mm": 8.0,
+  "encaixe_sob_nervuras_mm": 14.0,
+  "furos_tampo_superior": 0,
+  "furos_painel_inferior": 0,
+  "paineis_mm": [
+    [
+      500.0,
+      380.0
+    ],
+    [
+      500.0,
+      380.0
+    ]
+  ],
+  "parafusos_acessiveis_pelas_paredes_frente_tras": 8,
+  "tampo_antigo_intervalo_s_mm": [
+    0,
+    380.0
+  ],
+  "cortes_relidos": [
+    {
+      "id": "C0_BASE",
+      "contornos": 1,
+      "unidade": "mm",
+      "fechados": true
+    },
+    {
+      "id": "C1_TAMPO_LISO",
+      "contornos": 1,
+      "unidade": "mm",
+      "fechados": true
+    },
+    {
+      "id": "C2_FRENTE",
+      "contornos": 14,
+      "unidade": "mm",
+      "fechados": true
+    },
+    {
+      "id": "C3_TRAS_USB",
+      "contornos": 7,
+      "unidade": "mm",
+      "fechados": true
+    },
+    {
+      "id": "C4_ESQUERDA",
+      "contornos": 1,
+      "unidade": "mm",
+      "fechados": true
+    },
+    {
+      "id": "C5_DIREITA",
+      "contornos": 1,
+      "unidade": "mm",
+      "fechados": true
+    },
+    {
+      "id": "C6_NX1",
+      "contornos": 1,
+      "unidade": "mm",
+      "fechados": true
+    },
+    {
+      "id": "C7_NX2",
+      "contornos": 1,
+      "unidade": "mm",
+      "fechados": true
+    },
+    {
+      "id": "C8_NY",
+      "contornos": 1,
+      "unidade": "mm",
+      "fechados": true
+    }
+  ],
+  "reservas_sem_interferencia_com_tacos_e_nervuras": [
+    "ESP32 + protoboard: reserva",
+    "DFPlayer: reserva",
+    "Alto-falante: reserva"
+  ],
+  "altura_face_superior_mm": {
+    "frente": 915.32,
+    "centro": 945.33,
+    "tras": 975.35
+  },
+  "limites": "Verificação dimensional e read-back dos vetores; não é ensaio de resistência, acústica ou encaixe físico. Reservas de componentes precisam de medição."
+}

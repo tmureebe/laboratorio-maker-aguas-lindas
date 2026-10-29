@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24mm" height="180mm" viewBox="0 0 24 180">
+<title>Corte MDF V7: mm, escala 1:1, contornos nominais</title>
+<g id="G19" transform="translate(0 0)" fill="none" stroke="#ff0000" stroke-width="0.1">
+<polygon points="0.0000,0.0000 24.0000,0.0000 24.0000,180.0000 0.0000,180.0000"/>
+<circle cx="12" cy="7" r="2.25"/>
+<circle cx="12" cy="173" r="2.25"/>
+</g>
+</svg>

@@ -1,0 +1,153 @@
+{
+  "colisoes_pecas_novas_e_tacos": [],
+  "originais_com_hash_conferido": 196,
+  "metodo_colisoes": "Decomposição de perfis ortogonais em prismas retangulares; furos circulares conservadoramente preenchidos.",
+  "geometria_OpenSCAD": [
+    {
+      "id": "C0_BASE",
+      "triangulos": 12,
+      "malha_fechada": true,
+      "volume_mm3": 570000.0,
+      "minimo_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "maximo_mm": [
+        500.0,
+        380.0,
+        3.0
+      ]
+    },
+    {
+      "id": "C1_TAMPO_LISO",
+      "triangulos": 12,
+      "malha_fechada": true,
+      "volume_mm3": 570000.0,
+      "minimo_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "maximo_mm": [
+        500.0,
+        380.0,
+        3.0
+      ]
+    },
+    {
+      "id": "C2_FRENTE",
+      "triangulos": 1232,
+      "malha_fechada": true,
+      "volume_mm3": 63904.731,
+      "minimo_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "maximo_mm": [
+        494.0,
+        44.0,
+        3.0
+      ]
+    },
+    {
+      "id": "C3_TRAS_USB",
+      "triangulos": 1108,
+      "malha_fechada": true,
+      "volume_mm3": 63940.731,
+      "minimo_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "maximo_mm": [
+        494.0,
+        44.0,
+        3.0
+      ]
+    },
+    {
+      "id": "C4_ESQUERDA",
+      "triangulos": 12,
+      "malha_fechada": true,
+      "volume_mm3": 50160.0,
+      "minimo_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "maximo_mm": [
+        380.0,
+        44.0,
+        3.0
+      ]
+    },
+    {
+      "id": "C5_DIREITA",
+      "triangulos": 12,
+      "malha_fechada": true,
+      "volume_mm3": 50160.0,
+      "minimo_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "maximo_mm": [
+        380.0,
+        44.0,
+        3.0
+      ]
+    },
+    {
+      "id": "C6_NX1",
+      "triangulos": 28,
+      "malha_fechada": true,
+      "volume_mm3": 44317.541,
+      "minimo_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "maximo_mm": [
+        494.0,
+        30.0,
+        3.0
+      ]
+    },
+    {
+      "id": "C7_NX2",
+      "triangulos": 28,
+      "malha_fechada": true,
+      "volume_mm3": 44317.541,
+      "minimo_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "maximo_mm": [
+        494.0,
+        30.0,
+        3.0
+      ]
+    },
+    {
+      "id": "C8_NY",
+      "triangulos": 44,
+      "malha_fechada": true,
+      "volume_mm3": 33375.082,
+      "minimo_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "maximo_mm": [
+        374.0,
+        30.0,
+        3.0
+      ]
+    }
+  ],
+  "conjunto_CSG_compilado": true,
+  "limites": "Sem ensaios físicos. O modelo de referência conserva os dentes antigos; na montagem real são lixados rentes antes da colagem."
+}

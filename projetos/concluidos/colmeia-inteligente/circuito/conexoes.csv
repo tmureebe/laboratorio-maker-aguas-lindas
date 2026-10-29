@@ -1,0 +1,15 @@
+﻿Rede,Terminais lógicos,Observação
+BAT+,BT1.+; BT2.+; U2.B+,Relatório final e documentação do circuito
+BAT-,BT1.-; BT2.-; U2.B-,"Negativo das células, distinto de GND"
+P+,U2.P+; SW1.1,Documentação do circuito
++SYS,SW1.2; U3.IN+; R1.1,Documentação e firmware v2.8
++5V,U3.OUT+; U1.VIN/5V,Documentação do circuito
++3V3,U1.3V3; U4.VCC; U5.VCC; U6.VDD; R3.1; R4.1,DHT11 e pull-ups: confirmar montagem
+GND,U2.P-; U3.IN-; U3.OUT-; U1.GND; U4.GND; U5.GND; U6.GND; U6.L/R; R2.2; C1.2; SW2.2,Retorno protegido
+BAT_SENSE,R1.2; R2.1; C1.1; U1.GPIO34,R1=R2=100 kΩ; C1=100 nF a confirmar
+DHT_EXT,U1.GPIO4; U4.DATA; R3.2,"R3=4,7 kΩ a confirmar"
+DHT_INT,U1.GPIO21; U5.DATA; R4.2,"R4=4,7 kΩ a confirmar"
+I2S_WS,U1.GPIO25; U6.WS,Firmware v2.8
+I2S_BCLK,U1.GPIO26; U6.SCK,Firmware v2.8
+I2S_SD,U1.GPIO33; U6.SD,Firmware v2.8
+LID_SW,U1.GPIO27; SW2.1,INPUT_PULLUP; MC-38 para GND

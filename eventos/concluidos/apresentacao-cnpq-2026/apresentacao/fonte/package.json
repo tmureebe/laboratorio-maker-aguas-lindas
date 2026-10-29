@@ -1,0 +1,23 @@
+{
+  "name": "laboratorio-maker-ifg-cnpq",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build --base / --out ../04-exportacoes/web",
+    "dev": "slidev --host 127.0.0.1",
+    "export": "node scripts/exportar.mjs",
+    "preview": "node scripts/servir.mjs ../04-exportacoes/web 4173",
+    "validate": "node scripts/validar.mjs"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.19.1",
+    "@slidev/theme-default": "latest",
+    "vue": "^3.5.33",
+    "three": "^0.183.0"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.58.2",
+    "qrcode": "^1.5.4"
+  },
+  "packageManager": "pnpm@10.32.1"
+}

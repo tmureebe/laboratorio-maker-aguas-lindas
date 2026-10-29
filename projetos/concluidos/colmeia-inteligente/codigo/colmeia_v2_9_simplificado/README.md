@@ -1,0 +1,23 @@
+# Firmware 2.9 simplificado
+
+O arquivo `colmeia_v2_9_simplificado.ino` é uma edição didática independente. A versão final tem 581 linhas, contra 1.741 da original: aproximadamente 67% a menos. A redução prioriza funções curtas e nomes em português, mantendo as partes necessárias para medir, guardar, transmitir e dormir.
+
+Comece pela função `setup()` no fim do arquivo: ela mostra o ciclo completo. Depois leia, nesta ordem, `coletar()`, `guardar()`, `enviarFila()` e `dormir()`. Deixe os detalhes de áudio I2S, checksum e recuperação de arquivos para uma segunda leitura. O `loop()` fica vazio porque cada despertar do deep sleep reinicia o `setup()`.
+
+O ESP32 lê dois DHT11, bateria, tampa MC-38 e indicadores de áudio do INMP441. Cada medição entra primeiro numa fila na flash. Quando chega a hora permitida, o ESP32 liga o Wi-Fi, sincroniza o relógio, envia lotes de até 12 medições ao Firebase e dorme. Se um envio falhar, as medições continuam na fila para a próxima tentativa. A abertura da tampa também pode acordar a placa e produzir um evento diurno no Firebase.
+
+Os tempos são os mesmos da versão 2.9: 600 segundos de sono entre coletas regulares, 60 segundos quando a tampa já está aberta, janela de áudio de 3 segundos e tentativas de transmissão na grade das 06h, 08h, 10h, 12h, 14h, 16h, 18h, 20h e 22h no horário UTC−3. A tentativa ocorre no primeiro despertar após o horário programado; a placa não acorda exclusivamente para coincidir com o minuto zero. O intervalo real entre coletas soma o tempo acordado aos 600 segundos de sono. Em uma primeira inicialização diurna, pode haver uma tentativa imediata para estabelecer a agenda.
+
+A janela de envio vai de 06h00 a 22h59. Eventos de despertar pela tampa podem ser transmitidos imediatamente nessa janela; durante a madrugada, a medição fica na fila. Com horário desconhecido, a placa consulta o NTP, mas só acessa o Firebase depois de obter horário válido e diurno. Se o Wi-Fi falhar, a próxima tentativa periódica fica para o próximo horário da grade; sem relógio válido, espera duas horas de sono acumulado. Cada requisição confere novamente a janela, para interromper o envio de uma fila longa ao chegar às 23h.
+
+Para reduzir o código, foram retirados mensagens seriais, contadores e vários metadados enviados ao banco. As verificações essenciais permanecem: falhas de leitura viram `null`, o envio precisa de horário válido, e um lote só sai da fila depois que o histórico recebe resposta HTTP de sucesso. O arquivo da fila foi mantido compacto, com assinatura e checksum por medição.
+
+Os sensores, pinos, cálculos de bateria e áudio e os caminhos `/hives/colmeia_01/readings`, `/latest` e `/events/lid` foram mantidos. O JSON foi reduzido: interfaces que dependam de contadores, RSSI ou outros metadados removidos precisam de ajuste. A fila comporta 2.016 medições; ao lotar, descarta a mais antiga, como a original. Registros corrompidos também são descartados. Uma falha de leitura do arquivo preserva a fila para a próxima tentativa.
+
+Reduzir muito mais exigiria retirar proteção dos dados, funções do equipamento ou esconder a complexidade em outros arquivos. Esta edição mantém essas partes explícitas para o aluno poder estudá-las.
+
+Antes de usar, preencha as seis configurações de Wi-Fi e Firebase no começo do sketch. Na IDE Arduino, coloque somente esta edição numa pasta chamada `colmeia_v2_9_simplificado`, com o `.ino` de mesmo nome. Não reúna as outras versões na mesma pasta do sketch: a IDE tentaria compilá-las juntas. Instale as bibliotecas DHT sensor library (Adafruit), sua dependência Adafruit Unified Sensor e ArduinoJson; use o pacote Arduino-ESP32 3.x e escolha uma partição com área de arquivos para LittleFS. A configuração HTTPS segue a versão 2.9 e usa `setInsecure()`.
+
+**Não grave esta edição sobre uma placa com medições pendentes na fila da versão 2.9.** Ela usa `/fila_didatica.bin`, um formato próprio, e não importa o arquivo `/fila_medicoes.bin`. Envie os dados pendentes com a versão original primeiro. O código original `../colmeia_v2_9/colmeia_v2_9.ino` permanece disponível para comparação.
+
+A revisão foi validada no computador com funções extraídas do sketch e simulação de arquivos, rede e hardware: agenda comparada com a original durante 172.800 segundos, limites da janela, tentativas sem NTP, fila cheia, registros corrompidos, escrita interrompida, recuperação do backup, falhas de leitura e envio, lotes, eventos da tampa e programação do deep sleep de 600/60 segundos. Esses testes passaram. A compilação completa para ESP32 e o teste na placa não foram realizados; o pacote ESP32 não está instalado neste ambiente.

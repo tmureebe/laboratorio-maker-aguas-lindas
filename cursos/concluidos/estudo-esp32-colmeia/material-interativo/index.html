@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#192e2b">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self' file:; script-src 'self' file:; style-src 'self' file:; img-src 'self' file: data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>Colmeia · Entenda o projeto</title>
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/style.css">
+  <script src="assets/firmware.js" defer></script>
+  <script src="assets/content.js" defer></script>
+  <script src="assets/bank.js" defer></script>
+  <script src="assets/core.js" defer></script>
+  <script src="assets/app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Pular para o conteúdo</a>
+  <aside class="sidebar" aria-label="Menu principal">
+    <a href="#home" class="brand"><span class="brand-mark" aria-hidden="true">⬡</span><span>COLMEIA<small>do sensor à apresentação</small></span></a>
+    <button id="menu-toggle" class="mobile-only secondary" aria-expanded="false" aria-controls="navigation">Abrir menu</button>
+    <nav id="navigation" aria-label="Áreas do curso"></nav>
+    <div class="sidebar-foot"><span class="status-dot"></span> Curso local · sem internet<small id="save-status">Progresso salvo neste navegador</small></div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><span>PROJETO ESP32 <span class="muted">/</span> TRILHA DE APRENDIZAGEM</span><a href="#progress" id="global-progress">Meu progresso</a></header>
+    <div id="session-strip" hidden></div>
+    <div id="notice" role="status" hidden></div>
+    <main id="main" tabindex="-1"></main>
+    <footer>Aprenda o funcionamento. Experimente as decisões. Explique com suas palavras.</footer>
+  </div>
+  <dialog id="code-dialog" aria-labelledby="dialog-title"><div class="dialog-head"><h2 id="dialog-title">Por dentro do código</h2><button id="close-dialog" class="secondary">Fechar</button></div><div id="dialog-body"></div></dialog>
+  <noscript><p>Ative o JavaScript do navegador para usar as atividades e salvar seu progresso. O curso funciona inteiramente no seu computador.</p></noscript>
+</body>
+</html>

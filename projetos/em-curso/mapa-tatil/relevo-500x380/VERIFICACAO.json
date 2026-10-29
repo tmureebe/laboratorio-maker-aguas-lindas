@@ -1,0 +1,384 @@
+{
+  "modelo": "construcoes_vista_aerea (2).scad",
+  "sha256_scad": "c756deb54404d887b4609ec6b024cf43648842a0898b773f3308009a7be2a334",
+  "painel_mm": [
+    500,
+    380,
+    3
+  ],
+  "escala": 600,
+  "contornos_CAD_preservados": 8,
+  "quantidade_botoes": 18,
+  "diametro_furos_mm": 8.4,
+  "raios_verticais_livres": 162,
+  "verificacao_passagem": "Centro e oito amostras radiais por furo, em toda a espessura da montagem, incluindo o painel.",
+  "folga_minima_furo_nervuras_caixa_mm": 6.3,
+  "nervuras_consideradas": {
+    "espessura_mm": 3,
+    "x_mm": [
+      250
+    ],
+    "y_mm": [
+      110,
+      240
+    ]
+  },
+  "pdfs_escala_1_1_mm": [
+    500,
+    380
+  ],
+  "montagem": {
+    "arquivo": "montagem_completa_de_conferencia.stl",
+    "triangulos": 17134,
+    "arestas_abertas": 0,
+    "arestas_nao_manifold": 0,
+    "componentes": [
+      {
+        "vertices": 8527,
+        "min": [
+          0.0,
+          0.0,
+          -3.0
+        ],
+        "max": [
+          500.0,
+          380.0,
+          19.86666488647461
+        ],
+        "volume": 817982.4321084592
+      }
+    ]
+  },
+  "pecas_verificadas": [
+    {
+      "arquivo": "edificio_0.stl",
+      "triangulos": 6368,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 3172,
+          "min": [
+            -1.22070304087174e-07,
+            -3.3365886338287964e-06,
+            0.0
+          ],
+          "max": [
+            175.54666137695312,
+            36.531490325927734,
+            16.53333282470703
+          ],
+          "volume": 82363.84584901988
+        }
+      ]
+    },
+    {
+      "arquivo": "edificio_1.stl",
+      "triangulos": 5716,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 2842,
+          "min": [
+            -5.208333277550992e-06,
+            -3.7027994039817713e-06,
+            0.0
+          ],
+          "max": [
+            35.57316207885742,
+            108.09266662597656,
+            16.53333282470703
+          ],
+          "volume": 46600.52305478009
+        }
+      ]
+    },
+    {
+      "arquivo": "edificio_2.stl",
+      "triangulos": 948,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 474,
+          "min": [
+            -8.544921911379788e-06,
+            -5.289713499223581e-06,
+            0.0
+          ],
+          "max": [
+            38.50182342529297,
+            67.55382537841797,
+            11.866665840148926
+          ],
+          "volume": 24498.84026773993
+        }
+      ]
+    },
+    {
+      "arquivo": "edificio_3.stl",
+      "triangulos": 512,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 256,
+          "min": [
+            -7.283528702828335e-06,
+            -1.13932287604257e-06,
+            0.0
+          ],
+          "max": [
+            50.88298797607422,
+            79.77232360839844,
+            19.86666488647461
+          ],
+          "volume": 66901.43112928643
+        }
+      ]
+    },
+    {
+      "arquivo": "escada_0.stl",
+      "triangulos": 44,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 24,
+          "min": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "max": [
+            13.333333015441895,
+            16.66666603088379,
+            4.0
+          ],
+          "volume": 622.222098880345
+        }
+      ]
+    },
+    {
+      "arquivo": "escada_1.stl",
+      "triangulos": 44,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 24,
+          "min": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "max": [
+            13.333333015441895,
+            11.666666030883789,
+            4.0
+          ],
+          "volume": 435.55546877119974
+        }
+      ]
+    },
+    {
+      "arquivo": "legenda_7.stl",
+      "triangulos": 30588,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 15296,
+          "min": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "max": [
+            250.0,
+            26.0,
+            2.7799997329711914
+          ],
+          "volume": 13170.040038325978
+        }
+      ]
+    },
+    {
+      "arquivo": "painel_0.stl",
+      "triangulos": 3540,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 1736,
+          "min": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "max": [
+            500.0,
+            380.0,
+            3.0
+          ],
+          "volume": 567015.983213014
+        }
+      ]
+    },
+    {
+      "arquivo": "passagem_0.stl",
+      "triangulos": 84,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 44,
+          "min": [
+            -1.1311848538753111e-05,
+            0.0033688151743263006,
+            0.0
+          ],
+          "max": [
+            169.34515380859375,
+            111.63783264160156,
+            5.0
+          ],
+          "volume": 10119.474569399606
+        }
+      ]
+    },
+    {
+      "arquivo": "passagem_1.stl",
+      "triangulos": 12,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 8,
+          "min": [
+            -7.202148481155746e-06,
+            -1.0172526572205243e-06,
+            0.0
+          ],
+          "max": [
+            5.005852222442627,
+            97.95849609375,
+            5.0
+          ],
+          "volume": 2450.357718134987
+        }
+      ]
+    },
+    {
+      "arquivo": "passagem_2.stl",
+      "triangulos": 20,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 12,
+          "min": [
+            -7.324218813664629e-07,
+            -1.0172526344831567e-05,
+            0.0
+          ],
+          "max": [
+            23.844085693359375,
+            52.76985549926758,
+            5.0
+          ],
+          "volume": 1931.812737523167
+        }
+      ]
+    },
+    {
+      "arquivo": "piso_0.stl",
+      "triangulos": 444,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 222,
+          "min": [
+            -3.178914482759865e-07,
+            -3.178914482759865e-07,
+            0.0
+          ],
+          "max": [
+            26.66666603088379,
+            28.333332061767578,
+            3.1999998092651367
+          ],
+          "volume": 1472.0248403516864
+        }
+      ]
+    },
+    {
+      "arquivo": "piso_1.stl",
+      "triangulos": 948,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 474,
+          "min": [
+            -6.35782896551973e-07,
+            -3.178914482759865e-07,
+            0.0
+          ],
+          "max": [
+            58.33333206176758,
+            30.0,
+            3.1999998092651367
+          ],
+          "volume": 3478.272316300938
+        }
+      ]
+    },
+    {
+      "arquivo": "piso_2.stl",
+      "triangulos": 1836,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 918,
+          "min": [
+            0.0,
+            -3.178914482759865e-07,
+            0.0
+          ],
+          "max": [
+            65.0,
+            30.0,
+            3.1999998092651367
+          ],
+          "volume": 3874.140130227672
+        }
+      ]
+    },
+    {
+      "arquivo": "rampa_0.stl",
+      "triangulos": 88,
+      "arestas_abertas": 0,
+      "arestas_nao_manifold": 0,
+      "componentes": [
+        {
+          "vertices": 46,
+          "min": [
+            -3.178914482759865e-07,
+            0.0,
+            0.0
+          ],
+          "max": [
+            34.16666793823242,
+            56.666664123535156,
+            15.333333015441895
+          ],
+          "volume": 6225.34012941804
+        }
+      ]
+    }
+  ]
+}

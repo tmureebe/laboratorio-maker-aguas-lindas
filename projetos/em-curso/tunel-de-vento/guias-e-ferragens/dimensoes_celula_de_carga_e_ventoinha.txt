@@ -1,0 +1,41 @@
+DIMENSÕES — CÉLULA DE CARGA E VENTOINHA
+Projeto: Túnel de Vento V7
+Unidade de medida: milímetros (mm)
+
+1. CÉLULA DE CARGA
+
+Dimensões externas:
+- Comprimento: 75,2 mm
+- Largura: 12,76 mm
+- Altura: 12,76 mm
+
+Furos de fixação (F1, F2, M1 e M2):
+- Diâmetro anotado de cada furo: 3,38 mm
+- Diâmetro interno corrigido adotado de cada furo: 3,422 mm
+- Profundidade física anotada de cada furo: 12,76 mm
+- Tipo dos quatro furos: passantes (confirmado pelo usuário em 20/10/2026).
+- Extensão rosqueada: toda a espessura de 12,76 mm (confirmado pelo usuário em 20/10/2026).
+
+Observações:
+- O valor original de 3,38 mm foi mantido como registro. Por orientação do usuário em 20/10/2026, adotar 3,422 mm devido ao erro sistemático para baixo; não se trata de nova medição.
+- Rosca adotada para planejamento: M4 × 0,7 mm, por compatibilidade com o diâmetro interno corrigido. O passo não foi aferido independentemente.
+- Referência técnica: tabela de roscas métricas da Brother, M4, diâmetro interno 3,242–3,422 mm e passo 0,7 mm: https://machinetool.global.brother/es-mx/speedio-navi/articles/a0047
+- Há 12,76 mm de extensão axial rosqueada disponível em cada furo.
+- Candidatos geométricos para montagem: 2 Allen M4 × 30 mm no lado fixo e 2 Allen M4 × 20 mm no lado móvel, passo 0,7 mm.
+- Para arruela de espessura a: engate fixo = 13 - a mm; engate móvel = 12 - a mm. No lado fixo, a deve ser pelo menos 0,24 mm para a ponta não ultrapassar a célula, considerando as pilhas nominais do CAD.
+- O engate mínimo necessário e as tolerâncias da montagem não foram estabelecidos; os candidatos devem ser conferidos na montagem.
+
+2. VENTOINHA
+
+Dimensões externas:
+- Comprimento: 110,54 mm
+- Altura: 110,54 mm
+- Espessura: 29,82 mm
+
+Furos de fixação:
+- Distância horizontal entre centros: 105 mm
+- Distância vertical entre centros: 105 mm
+- Padrão de fixação: 105 × 105 mm (confirmado pelo usuário)
+
+Observação:
+- 110,54 mm corresponde às dimensões externas da ventoinha, e não à espessura.

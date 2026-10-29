@@ -1,0 +1,25 @@
+{
+  "espessura": 3,
+  "folga_total": 0.15,
+  "base": [
+    440.0,
+    340.0
+  ],
+  "corpo": [
+    340.0,
+    300.0
+  ],
+  "tampo": [
+    500.0,
+    380.0
+  ],
+  "altura_frente": 860.0,
+  "altura_tras": 908.0,
+  "angulo_graus": 9.090276920822323,
+  "maquina": [
+    600,
+    400
+  ],
+  "margem_por_lado": 20,
+  "intervalo_pecas": 8
+}

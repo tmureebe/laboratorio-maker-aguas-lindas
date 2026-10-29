@@ -1,0 +1,7 @@
+{
+  "componentes": 68,
+  "dados_embutidos_corretos": true,
+  "dependencias_externas": false,
+  "controles_JS_verificados_com_WebGL_simulado": true,
+  "renderizacao_em_navegador_real": "Não disponível: Chrome bloqueado por restrição de sandbox; imagens PNG verificadas separadamente."
+}

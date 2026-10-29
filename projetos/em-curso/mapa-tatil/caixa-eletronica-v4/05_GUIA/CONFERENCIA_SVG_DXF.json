@@ -1,0 +1,284 @@
+{
+  "pares_conferidos": 12,
+  "leitor_independente": "Importador DXF do Inkscape 1.1.2, unidades do arquivo (mm)",
+  "correcao": "SVG: traço preto explícito 0,35 mm. DXF: seções HEADER/TABLES/BLOCKS/ENTITIES e camada CORTE visível.",
+  "limites": "Prévias sem escala física. Todos os contornos de corte permanecem nas coordenadas originais.",
+  "arquivos": [
+    {
+      "arquivo": "01_CORTE_PAINEIS/C0_BASE_500x380.svg",
+      "contornos": 1,
+      "dimensoes_geometria_mm": [
+        500.0,
+        380.0
+      ],
+      "SVG_DXF_equivalentes": true,
+      "DXF_importado_no_Inkscape": true,
+      "geometria_anterior_preservada": true,
+      "sha256_svg": "b97374772626980af74ee4f193893a730f17ab7c248c368d7feb72b01d230a75",
+      "sha256_dxf": "59a26e5b5abf3a26616cedd8f0400354d7f3a121463759e3010067ed3348ec1f",
+      "previas": {
+        "SVG": {
+          "arquivo": "01_C0_BASE_500x380_SVG.png",
+          "pixels_visiveis": 4220
+        },
+        "DXF": {
+          "arquivo": "01_C0_BASE_500x380_DXF.png",
+          "pixels_visiveis": 4220
+        }
+      }
+    },
+    {
+      "arquivo": "01_CORTE_PAINEIS/C1_TAMPO_LISO_500x380.svg",
+      "contornos": 1,
+      "dimensoes_geometria_mm": [
+        500.0,
+        380.0
+      ],
+      "SVG_DXF_equivalentes": true,
+      "DXF_importado_no_Inkscape": true,
+      "geometria_anterior_preservada": true,
+      "sha256_svg": "a9ab5b89ae822a4665602a41f5fe3efc3e5ab504d851b84390b0c6d9d11b944f",
+      "sha256_dxf": "59a26e5b5abf3a26616cedd8f0400354d7f3a121463759e3010067ed3348ec1f",
+      "previas": {
+        "SVG": {
+          "arquivo": "01_C1_TAMPO_LISO_500x380_SVG.png",
+          "pixels_visiveis": 4220
+        },
+        "DXF": {
+          "arquivo": "01_C1_TAMPO_LISO_500x380_DXF.png",
+          "pixels_visiveis": 4220
+        }
+      }
+    },
+    {
+      "arquivo": "02_CHAPA_600x400/PAREDES_E_REFORCOS.svg",
+      "contornos": 26,
+      "dimensoes_geometria_mm": [
+        494.0,
+        314.0
+      ],
+      "SVG_DXF_equivalentes": true,
+      "DXF_importado_no_Inkscape": true,
+      "geometria_anterior_preservada": true,
+      "sha256_svg": "c9617d71be35086e4af5ab34fa9f79c161d1d55b639f81e63c8a0ca836b916c3",
+      "sha256_dxf": "89f586a823751bf8fdd87a034d12448c5abf68f5d1ee8a88877c24694083e45b",
+      "previas": {
+        "SVG": {
+          "arquivo": "02_PAREDES_E_REFORCOS_SVG.png",
+          "pixels_visiveis": 25515
+        },
+        "DXF": {
+          "arquivo": "02_PAREDES_E_REFORCOS_DXF.png",
+          "pixels_visiveis": 25099
+        }
+      }
+    },
+    {
+      "arquivo": "03_PECAS/C0_BASE.svg",
+      "contornos": 1,
+      "dimensoes_geometria_mm": [
+        500.0,
+        380.0
+      ],
+      "SVG_DXF_equivalentes": true,
+      "DXF_importado_no_Inkscape": true,
+      "geometria_anterior_preservada": true,
+      "sha256_svg": "b97374772626980af74ee4f193893a730f17ab7c248c368d7feb72b01d230a75",
+      "sha256_dxf": "59a26e5b5abf3a26616cedd8f0400354d7f3a121463759e3010067ed3348ec1f",
+      "previas": {
+        "SVG": {
+          "arquivo": "03_C0_BASE_SVG.png",
+          "pixels_visiveis": 4220
+        },
+        "DXF": {
+          "arquivo": "03_C0_BASE_DXF.png",
+          "pixels_visiveis": 4220
+        }
+      }
+    },
+    {
+      "arquivo": "03_PECAS/C1_TAMPO_LISO.svg",
+      "contornos": 1,
+      "dimensoes_geometria_mm": [
+        500.0,
+        380.0
+      ],
+      "SVG_DXF_equivalentes": true,
+      "DXF_importado_no_Inkscape": true,
+      "geometria_anterior_preservada": true,
+      "sha256_svg": "a9ab5b89ae822a4665602a41f5fe3efc3e5ab504d851b84390b0c6d9d11b944f",
+      "sha256_dxf": "59a26e5b5abf3a26616cedd8f0400354d7f3a121463759e3010067ed3348ec1f",
+      "previas": {
+        "SVG": {
+          "arquivo": "03_C1_TAMPO_LISO_SVG.png",
+          "pixels_visiveis": 4220
+        },
+        "DXF": {
+          "arquivo": "03_C1_TAMPO_LISO_DXF.png",
+          "pixels_visiveis": 4220
+        }
+      }
+    },
+    {
+      "arquivo": "03_PECAS/C2_FRENTE.svg",
+      "contornos": 14,
+      "dimensoes_geometria_mm": [
+        494.0,
+        44.0
+      ],
+      "SVG_DXF_equivalentes": true,
+      "DXF_importado_no_Inkscape": true,
+      "geometria_anterior_preservada": true,
+      "sha256_svg": "9b261359f61570f4e9dd15c82b164efcf15905ee03a25ef7b40d9568714355a3",
+      "sha256_dxf": "4d1c6210c2cfff188b608e9c2d331dae6eae1df5e2ecd66361f4c5d19a2d2dfc",
+      "previas": {
+        "SVG": {
+          "arquivo": "03_C2_FRENTE_SVG.png",
+          "pixels_visiveis": 4440
+        },
+        "DXF": {
+          "arquivo": "03_C2_FRENTE_DXF.png",
+          "pixels_visiveis": 4144
+        }
+      }
+    },
+    {
+      "arquivo": "03_PECAS/C3_TRAS_USB.svg",
+      "contornos": 7,
+      "dimensoes_geometria_mm": [
+        494.0,
+        44.0
+      ],
+      "SVG_DXF_equivalentes": true,
+      "DXF_importado_no_Inkscape": true,
+      "geometria_anterior_preservada": true,
+      "sha256_svg": "3a3808dfaef67c82db56ad6e93888414ff7f13811473431ef15099cc636f559f",
+      "sha256_dxf": "a893a4f00626a113c46c4dcf575fb9247255b563b5359d749185a495ceeb11f0",
+      "previas": {
+        "SVG": {
+          "arquivo": "03_C3_TRAS_USB_SVG.png",
+          "pixels_visiveis": 3093
+        },
+        "DXF": {
+          "arquivo": "03_C3_TRAS_USB_DXF.png",
+          "pixels_visiveis": 3090
+        }
+      }
+    },
+    {
+      "arquivo": "03_PECAS/C4_ESQUERDA.svg",
+      "contornos": 1,
+      "dimensoes_geometria_mm": [
+        380.0,
+        44.0
+      ],
+      "SVG_DXF_equivalentes": true,
+      "DXF_importado_no_Inkscape": true,
+      "geometria_anterior_preservada": true,
+      "sha256_svg": "b30c92478ceebebba314221b904d2fbdf8f5f509cc73136124171596c905433d",
+      "sha256_dxf": "26bed7a01f5fd6537cb8efc26b273c0994749dbd33dccff8352da2ebd28e5d6d",
+      "previas": {
+        "SVG": {
+          "arquivo": "03_C4_ESQUERDA_SVG.png",
+          "pixels_visiveis": 2680
+        },
+        "DXF": {
+          "arquivo": "03_C4_ESQUERDA_DXF.png",
+          "pixels_visiveis": 2676
+        }
+      }
+    },
+    {
+      "arquivo": "03_PECAS/C5_DIREITA.svg",
+      "contornos": 1,
+      "dimensoes_geometria_mm": [
+        380.0,
+        44.0
+      ],
+      "SVG_DXF_equivalentes": true,
+      "DXF_importado_no_Inkscape": true,
+      "geometria_anterior_preservada": true,
+      "sha256_svg": "49c99e29a6981ebdc213ae92f5274c1fa3969fa0272436c233f99dde2885b9c3",
+      "sha256_dxf": "26bed7a01f5fd6537cb8efc26b273c0994749dbd33dccff8352da2ebd28e5d6d",
+      "previas": {
+        "SVG": {
+          "arquivo": "03_C5_DIREITA_SVG.png",
+          "pixels_visiveis": 2680
+        },
+        "DXF": {
+          "arquivo": "03_C5_DIREITA_DXF.png",
+          "pixels_visiveis": 2676
+        }
+      }
+    },
+    {
+      "arquivo": "03_PECAS/C6_NX1.svg",
+      "contornos": 1,
+      "dimensoes_geometria_mm": [
+        494.0,
+        30.0
+      ],
+      "SVG_DXF_equivalentes": true,
+      "DXF_importado_no_Inkscape": true,
+      "geometria_anterior_preservada": true,
+      "sha256_svg": "26e627ff3e13a96f655bedafd2e5d9b6577f3f3c45252ac2775ebe7bbf12ad26",
+      "sha256_dxf": "465e40fb047efb56f0f50d71bf9881915787e8c0872efdc02f128ec2362fc2b4",
+      "previas": {
+        "SVG": {
+          "arquivo": "03_C6_NX1_SVG.png",
+          "pixels_visiveis": 2696
+        },
+        "DXF": {
+          "arquivo": "03_C6_NX1_DXF.png",
+          "pixels_visiveis": 2686
+        }
+      }
+    },
+    {
+      "arquivo": "03_PECAS/C7_NX2.svg",
+      "contornos": 1,
+      "dimensoes_geometria_mm": [
+        494.0,
+        30.0
+      ],
+      "SVG_DXF_equivalentes": true,
+      "DXF_importado_no_Inkscape": true,
+      "geometria_anterior_preservada": true,
+      "sha256_svg": "d4bcb92dcc0a620bde3f3761e1ba9aa6d0992f7b80d3e67923f7439f8e33d2ae",
+      "sha256_dxf": "465e40fb047efb56f0f50d71bf9881915787e8c0872efdc02f128ec2362fc2b4",
+      "previas": {
+        "SVG": {
+          "arquivo": "03_C7_NX2_SVG.png",
+          "pixels_visiveis": 2696
+        },
+        "DXF": {
+          "arquivo": "03_C7_NX2_DXF.png",
+          "pixels_visiveis": 2686
+        }
+      }
+    },
+    {
+      "arquivo": "03_PECAS/C8_NY.svg",
+      "contornos": 1,
+      "dimensoes_geometria_mm": [
+        374.0,
+        30.0
+      ],
+      "SVG_DXF_equivalentes": true,
+      "DXF_importado_no_Inkscape": true,
+      "geometria_anterior_preservada": true,
+      "sha256_svg": "157fc79084db379cd5040a2a0e516caa8cf5d505bf72ff9089e1ef9725a7626a",
+      "sha256_dxf": "b228162e7b4d3865a94e80638e7a88da9d3fbf0a7270146da26f9b92edb1a0b6",
+      "previas": {
+        "SVG": {
+          "arquivo": "03_C8_NY_SVG.png",
+          "pixels_visiveis": 2953
+        },
+        "DXF": {
+          "arquivo": "03_C8_NY_DXF.png",
+          "pixels_visiveis": 2851
+        }
+      }
+    }
+  ]
+}

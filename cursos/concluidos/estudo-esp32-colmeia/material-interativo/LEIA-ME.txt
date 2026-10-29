@@ -1,0 +1,70 @@
+COLMEIA — DO SENSOR À APRESENTAÇÃO
+
+1. PARA COMEÇAR
+
+Abra index.html em um navegador atualizado. Os arquivos precisam continuar
+juntos nesta pasta. O curso funciona sem internet, sem conta e sem placa ESP32.
+
+Para salvar o progresso de forma mais previsível, use o servidor local:
+
+Linux/macOS, dentro desta pasta:
+    ./start.sh
+
+Windows com Python instalado, dentro desta pasta:
+    py serve.py --directory .
+
+Abra http://127.0.0.1:8000 no navegador. O terminal informa o endereço.
+Mantenha-o aberto durante o estudo. Ctrl+C encerra o servidor.
+Se a porta estiver ocupada, use ./start.sh --port 8001 (ou adicione
+--port 8001 ao comando Python) e abra o endereço que aparecer.
+
+2. SUA TRILHA
+
+São 14 módulos. Em cada um:
+- Entenda: conheça a ideia e experimente as visualizações.
+- Veja no código: leia primeiro o pseudocódigo e abra os trechos reais.
+- Pratique: responda e confira as explicações. Você pode tentar novamente.
+
+Há 56 atividades objetivas e 14 respostas abertas nos módulos.
+Para concluir um módulo, acerte as quatro atividades objetivas e compare
+sua explicação aberta com o modelo. Não é necessário decorar o código.
+
+3. LABORATÓRIO E CÓDIGO
+
+No Laboratório, altere horário, rede, tampa e outras condições. Inicie o ciclo
+e avance pelas etapas. Ao concluir, a fila simulada fica guardada para o
+próximo ciclo. “Ir à próxima tentativa com rede” permite ver o envio posterior.
+Sair antes de concluir descarta apenas o ciclo ainda em andamento.
+
+O laboratório usa dados fictícios e simplifica o circuito. Não mede uma
+colmeia real. Na área Código, pesquise funções e clique nas linhas para ver
+explicações. As informações privadas foram substituídas por marcadores.
+
+4. PREPARE-SE PARA A BANCA
+
+Treinamento: responda sem pressa, depois compare com um modelo.
+Simulação: seis perguntas sorteadas, com dificuldades variadas e uma
+pergunta complementar, em cinco minutos. O relógio continua mesmo se
+você navegar, fechar ou recarregar a página. Os modelos aparecem no fim.
+
+Respostas abertas não recebem nota automática. Você pode escrever ou
+marcar “Respondi em voz alta” e fazer sua própria comparação.
+
+5. GUARDE SEU PROGRESSO
+
+Seu progresso fica no navegador deste aparelho, sem envio à internet.
+Use sempre o mesmo navegador, perfil, endereço e porta. Evite modo anônimo.
+Limpar os dados do navegador pode apagar a cópia salva.
+
+Em Meu progresso, use Exportar progresso para guardar um arquivo de cópia.
+Use Importar cópia para restaurar em outro navegador. O arquivo exportado
+contém as respostas que você escreveu; compartilhe apenas se desejar.
+Use uma aba por vez, pois não há sincronização simultânea entre abas.
+
+6. O OBJETIVO
+
+Entender como os componentes e o programa se relacionam e explicar as
+principais decisões com suas palavras. O firmware registra indicadores;
+ele não diagnostica automaticamente a saúde das abelhas. Autonomia e
+precisão precisam de medições reais. Na apresentação, use somente os
+resultados e contribuições que realmente fizeram parte do seu projeto.

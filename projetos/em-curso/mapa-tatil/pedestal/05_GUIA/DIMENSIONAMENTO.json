@@ -1,0 +1,43 @@
+{
+  "espessura": 3,
+  "folga_total": 0.15,
+  "base": [
+    440.0,
+    340.0
+  ],
+  "corpo": [
+    340.0,
+    300.0
+  ],
+  "tampo": [
+    500.0,
+    380.0
+  ],
+  "altura_frente": 860.0,
+  "altura_tras": 908.0,
+  "angulo_graus": 9.090276920822323,
+  "maquina": [
+    600,
+    400
+  ],
+  "margem_por_lado": 20,
+  "intervalo_pecas": 8,
+  "chapas_pedestal": 15,
+  "pecas_pedestal": 46,
+  "furos_tampo": 25,
+  "distancia_minima_entre_pecas": 8.0,
+  "contornos_validos": true,
+  "inventario_completo_sem_duplicatas": true,
+  "paredes_reconstruidas": true,
+  "kerf_compensado": false,
+  "massa_estimada_MDF_kg": 4.69,
+  "densidade_assumida_kg_m3": 700,
+  "massa_total_minima_kg": 16.73,
+  "forca_horizontal_assumida_N": 20.0,
+  "altura_forca_m": 0.93,
+  "fator_estatico": 1.5,
+  "prototipo_fisico_ensaiado": false,
+  "tampo_inteiro": true,
+  "processo_tampo": "laser",
+  "chapas_tampo_laser": 1
+}

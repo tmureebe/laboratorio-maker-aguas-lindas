@@ -1,0 +1,1 @@
+linear_extrude(6) difference(){ polygon([[0, 0], [200, 0], [200, 40], [0, 40]]);translate([50,20]) circle(r=2.25,$fn=48);translate([150,20]) circle(r=2.25,$fn=48);}

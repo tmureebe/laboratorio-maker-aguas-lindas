@@ -1,0 +1,1226 @@
+[
+  {
+    "nome": "entrada_piso",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M01.svg",
+    "grupo": "duto_piso",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/entrada_piso.stl",
+    "minimo_mm": [
+      0.0,
+      -63.0,
+      59.4
+    ],
+    "maximo_mm": [
+      200.0,
+      63.0,
+      62.4
+    ]
+  },
+  {
+    "nome": "entrada_teto",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M01.svg",
+    "grupo": "duto_teto",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/entrada_teto.stl",
+    "minimo_mm": [
+      0.0,
+      -63.0,
+      182.4
+    ],
+    "maximo_mm": [
+      200.0,
+      63.0,
+      185.4
+    ]
+  },
+  {
+    "nome": "entrada_lateral_frente",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M02.svg",
+    "grupo": "duto_frente",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/entrada_lateral_frente.stl",
+    "minimo_mm": [
+      0.0,
+      -63.0,
+      62.4
+    ],
+    "maximo_mm": [
+      200.0,
+      -59.99999999999999,
+      182.4
+    ]
+  },
+  {
+    "nome": "entrada_lateral_fundo",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M02.svg",
+    "grupo": "duto_fundo",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/entrada_lateral_fundo.stl",
+    "minimo_mm": [
+      0.0,
+      60.0,
+      62.4
+    ],
+    "maximo_mm": [
+      200.0,
+      63.00000000000001,
+      182.4
+    ]
+  },
+  {
+    "nome": "saida_piso",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M03.svg",
+    "grupo": "duto_piso",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/saida_piso.stl",
+    "minimo_mm": [
+      400.0,
+      -63.0,
+      59.4
+    ],
+    "maximo_mm": [
+      600.0,
+      63.0,
+      62.4
+    ]
+  },
+  {
+    "nome": "saida_teto",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M03.svg",
+    "grupo": "duto_teto",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/saida_teto.stl",
+    "minimo_mm": [
+      400.0,
+      -63.0,
+      182.4
+    ],
+    "maximo_mm": [
+      600.0,
+      63.0,
+      185.4
+    ]
+  },
+  {
+    "nome": "saida_lateral_frente",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M04.svg",
+    "grupo": "duto_frente",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/saida_lateral_frente.stl",
+    "minimo_mm": [
+      400.0,
+      -63.0,
+      62.4
+    ],
+    "maximo_mm": [
+      600.0,
+      -59.99999999999999,
+      182.4
+    ]
+  },
+  {
+    "nome": "saida_lateral_fundo",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M04.svg",
+    "grupo": "duto_fundo",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/saida_lateral_fundo.stl",
+    "minimo_mm": [
+      400.0,
+      60.0,
+      62.4
+    ],
+    "maximo_mm": [
+      600.0,
+      63.00000000000001,
+      182.4
+    ]
+  },
+  {
+    "nome": "pe_25_lamina_1",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_25_lamina_1.stl",
+    "minimo_mm": [
+      13.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      19.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_25_lamina_2",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_25_lamina_2.stl",
+    "minimo_mm": [
+      19.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      25.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_25_lamina_3",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_25_lamina_3.stl",
+    "minimo_mm": [
+      25.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      31.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_25_lamina_4",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_25_lamina_4.stl",
+    "minimo_mm": [
+      31.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      37.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_150_lamina_1",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_150_lamina_1.stl",
+    "minimo_mm": [
+      138.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      144.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_150_lamina_2",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_150_lamina_2.stl",
+    "minimo_mm": [
+      144.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      150.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_150_lamina_3",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_150_lamina_3.stl",
+    "minimo_mm": [
+      150.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      156.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_150_lamina_4",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_150_lamina_4.stl",
+    "minimo_mm": [
+      156.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      162.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_350_lamina_1",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M23.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_350_lamina_1.stl",
+    "minimo_mm": [
+      338.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      344.0,
+      80.0,
+      64.0
+    ]
+  },
+  {
+    "nome": "pe_350_lamina_2",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M23.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_350_lamina_2.stl",
+    "minimo_mm": [
+      344.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      350.0,
+      80.0,
+      64.0
+    ]
+  },
+  {
+    "nome": "pe_350_lamina_3",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M23.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_350_lamina_3.stl",
+    "minimo_mm": [
+      350.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      356.0,
+      80.0,
+      64.0
+    ]
+  },
+  {
+    "nome": "pe_350_lamina_4",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M23.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_350_lamina_4.stl",
+    "minimo_mm": [
+      356.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      362.0,
+      80.0,
+      64.0
+    ]
+  },
+  {
+    "nome": "pe_450_lamina_1",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_450_lamina_1.stl",
+    "minimo_mm": [
+      438.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      444.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_450_lamina_2",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_450_lamina_2.stl",
+    "minimo_mm": [
+      444.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      450.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_450_lamina_3",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_450_lamina_3.stl",
+    "minimo_mm": [
+      450.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      456.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_450_lamina_4",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_450_lamina_4.stl",
+    "minimo_mm": [
+      456.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      462.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_550_lamina_1",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_550_lamina_1.stl",
+    "minimo_mm": [
+      538.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      544.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_550_lamina_2",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_550_lamina_2.stl",
+    "minimo_mm": [
+      544.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      550.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_550_lamina_3",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_550_lamina_3.stl",
+    "minimo_mm": [
+      550.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      556.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_550_lamina_4",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_550_lamina_4.stl",
+    "minimo_mm": [
+      556.0,
+      -80.0,
+      0.0
+    ],
+    "maximo_mm": [
+      562.0,
+      80.0,
+      63.4
+    ]
+  },
+  {
+    "nome": "pe_695_lamina_1",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M19.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_695_lamina_1.stl",
+    "minimo_mm": [
+      683.0,
+      -90.0,
+      0.0
+    ],
+    "maximo_mm": [
+      689.0,
+      90.0,
+      51.4
+    ]
+  },
+  {
+    "nome": "pe_695_lamina_2",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M19.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_695_lamina_2.stl",
+    "minimo_mm": [
+      689.0,
+      -90.0,
+      0.0
+    ],
+    "maximo_mm": [
+      695.0,
+      90.0,
+      51.4
+    ]
+  },
+  {
+    "nome": "pe_695_lamina_3",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M19.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_695_lamina_3.stl",
+    "minimo_mm": [
+      695.0,
+      -90.0,
+      0.0
+    ],
+    "maximo_mm": [
+      701.0,
+      90.0,
+      51.4
+    ]
+  },
+  {
+    "nome": "pe_695_lamina_4",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M19.svg",
+    "grupo": "apoios",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_695_lamina_4.stl",
+    "minimo_mm": [
+      701.0,
+      -90.0,
+      0.0
+    ],
+    "maximo_mm": [
+      707.0,
+      90.0,
+      51.4
+    ]
+  },
+  {
+    "nome": "base_entrada",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/B01.svg",
+    "grupo": "base",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/base_entrada.stl",
+    "minimo_mm": [
+      0.0,
+      -110.0,
+      -6.0
+    ],
+    "maximo_mm": [
+      375.0,
+      110.0,
+      0.0
+    ]
+  },
+  {
+    "nome": "base_saida",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/B02.svg",
+    "grupo": "base",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/base_saida.stl",
+    "minimo_mm": [
+      375.0,
+      -110.0,
+      -6.0
+    ],
+    "maximo_mm": [
+      750.0,
+      110.0,
+      0.0
+    ]
+  },
+  {
+    "nome": "tala_-80",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/B03.svg",
+    "grupo": "base",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/tala_-80.stl",
+    "minimo_mm": [
+      275.0,
+      -100.0,
+      -12.0
+    ],
+    "maximo_mm": [
+      475.0,
+      -60.0,
+      -6.0
+    ]
+  },
+  {
+    "nome": "tala_80",
+    "material": "MDF",
+    "fonte": "02_CORTE_LASER/pecas_individuais/MDF_6mm/B03.svg",
+    "grupo": "base",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/tala_80.stl",
+    "minimo_mm": [
+      275.0,
+      60.0,
+      -12.0
+    ],
+    "maximo_mm": [
+      475.0,
+      100.0,
+      -6.0
+    ]
+  },
+  {
+    "nome": "camara",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/03_camara_aberta_200mm.stl",
+    "grupo": "camara",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/camara.stl",
+    "minimo_mm": [
+      200.0,
+      -77.0,
+      60.0
+    ],
+    "maximo_mm": [
+      400.0,
+      77.0,
+      180.8000030517578
+    ]
+  },
+  {
+    "nome": "moldura",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/04_moldura_V7_passagem_120mm.stl",
+    "grupo": "janela",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/moldura.stl",
+    "minimo_mm": [
+      200.0,
+      -77.0,
+      180.8
+    ],
+    "maximo_mm": [
+      400.0,
+      77.0,
+      187.3
+    ]
+  },
+  {
+    "nome": "U01",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/U01_uniao_entrada_MDF_camara.stl",
+    "grupo": "conexoes",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/U01.stl",
+    "minimo_mm": [
+      188.0,
+      -66.2,
+      56.2
+    ],
+    "maximo_mm": [
+      212.0,
+      66.2,
+      188.60000000000002
+    ]
+  },
+  {
+    "nome": "U02",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/U02_uniao_camara_saida_MDF.stl",
+    "grupo": "conexoes",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/U02.stl",
+    "minimo_mm": [
+      388.0,
+      -66.2,
+      56.2
+    ],
+    "maximo_mm": [
+      412.0,
+      66.2,
+      188.60000000000002
+    ]
+  },
+  {
+    "nome": "ligacao",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/08_ligacao_MDF_parte5_126p2.stl",
+    "grupo": "conexoes",
+    "novo": true,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/ligacao.stl",
+    "minimo_mm": [
+      588.0,
+      -66.2,
+      56.2
+    ],
+    "maximo_mm": [
+      615.0,
+      66.2,
+      188.60000000000002
+    ]
+  },
+  {
+    "nome": "colmeia",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/07_colmeia_canais_46mm.stl",
+    "grupo": "colmeia",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/colmeia.stl",
+    "minimo_mm": [
+      -2.399999999999992,
+      -65.5,
+      56.900000000000006
+    ],
+    "maximo_mm": [
+      46.000001525878915,
+      65.5,
+      187.9
+    ]
+  },
+  {
+    "nome": "grade",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/09_grade_compativel_partes1e2.stl",
+    "grupo": "regulador",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/grade.stl",
+    "minimo_mm": [
+      692.0,
+      -75.0,
+      47.400000000000006
+    ],
+    "maximo_mm": [
+      695.2000000476837,
+      75.0,
+      197.4
+    ]
+  },
+  {
+    "nome": "espacador_regulador",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/20_espacador_regulador_8mm.stl",
+    "grupo": "regulador",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/espacador_regulador.stl",
+    "minimo_mm": [
+      695.2,
+      -75.0,
+      47.400000000000006
+    ],
+    "maximo_mm": [
+      703.2,
+      75.0,
+      197.4
+    ]
+  },
+  {
+    "nome": "presilha_240_-1",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/11_presilha_janela.stl",
+    "grupo": "janela",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/presilha_240_-1.stl",
+    "minimo_mm": [
+      236.0,
+      -73.0,
+      188.3
+    ],
+    "maximo_mm": [
+      244.0,
+      -53.0,
+      191.3
+    ]
+  },
+  {
+    "nome": "esp_presilha_240_-1",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/12_espacador_presilha_3p5mm.stl",
+    "grupo": "janela",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/esp_presilha_240_-1.stl",
+    "minimo_mm": [
+      236.0,
+      -73.0,
+      184.8
+    ],
+    "maximo_mm": [
+      244.0,
+      -65.0,
+      188.3
+    ]
+  },
+  {
+    "nome": "presilha_240_1",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/11_presilha_janela.stl",
+    "grupo": "janela",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/presilha_240_1.stl",
+    "minimo_mm": [
+      236.0,
+      53.0,
+      188.3
+    ],
+    "maximo_mm": [
+      244.0,
+      73.0,
+      191.3
+    ]
+  },
+  {
+    "nome": "esp_presilha_240_1",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/12_espacador_presilha_3p5mm.stl",
+    "grupo": "janela",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/esp_presilha_240_1.stl",
+    "minimo_mm": [
+      236.0,
+      65.0,
+      184.8
+    ],
+    "maximo_mm": [
+      244.0,
+      73.0,
+      188.3
+    ]
+  },
+  {
+    "nome": "presilha_300_-1",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/11_presilha_janela.stl",
+    "grupo": "janela",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/presilha_300_-1.stl",
+    "minimo_mm": [
+      296.0,
+      -73.0,
+      188.3
+    ],
+    "maximo_mm": [
+      304.0,
+      -53.0,
+      191.3
+    ]
+  },
+  {
+    "nome": "esp_presilha_300_-1",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/12_espacador_presilha_3p5mm.stl",
+    "grupo": "janela",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/esp_presilha_300_-1.stl",
+    "minimo_mm": [
+      296.0,
+      -73.0,
+      184.8
+    ],
+    "maximo_mm": [
+      304.0,
+      -65.0,
+      188.3
+    ]
+  },
+  {
+    "nome": "presilha_300_1",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/11_presilha_janela.stl",
+    "grupo": "janela",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/presilha_300_1.stl",
+    "minimo_mm": [
+      296.0,
+      53.0,
+      188.3
+    ],
+    "maximo_mm": [
+      304.0,
+      73.0,
+      191.3
+    ]
+  },
+  {
+    "nome": "esp_presilha_300_1",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/12_espacador_presilha_3p5mm.stl",
+    "grupo": "janela",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/esp_presilha_300_1.stl",
+    "minimo_mm": [
+      296.0,
+      65.0,
+      184.8
+    ],
+    "maximo_mm": [
+      304.0,
+      73.0,
+      188.3
+    ]
+  },
+  {
+    "nome": "presilha_360_-1",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/11_presilha_janela.stl",
+    "grupo": "janela",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/presilha_360_-1.stl",
+    "minimo_mm": [
+      356.0,
+      -73.0,
+      188.3
+    ],
+    "maximo_mm": [
+      364.0,
+      -53.0,
+      191.3
+    ]
+  },
+  {
+    "nome": "esp_presilha_360_-1",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/12_espacador_presilha_3p5mm.stl",
+    "grupo": "janela",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/esp_presilha_360_-1.stl",
+    "minimo_mm": [
+      356.0,
+      -73.0,
+      184.8
+    ],
+    "maximo_mm": [
+      364.0,
+      -65.0,
+      188.3
+    ]
+  },
+  {
+    "nome": "presilha_360_1",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/11_presilha_janela.stl",
+    "grupo": "janela",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/presilha_360_1.stl",
+    "minimo_mm": [
+      356.0,
+      53.0,
+      188.3
+    ],
+    "maximo_mm": [
+      364.0,
+      73.0,
+      191.3
+    ]
+  },
+  {
+    "nome": "esp_presilha_360_1",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/12_espacador_presilha_3p5mm.stl",
+    "grupo": "janela",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/esp_presilha_360_1.stl",
+    "minimo_mm": [
+      356.0,
+      65.0,
+      184.8
+    ],
+    "maximo_mm": [
+      364.0,
+      73.0,
+      188.3
+    ]
+  },
+  {
+    "nome": "base_celula",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/14_base_celula_85mm.stl",
+    "grupo": "sensor",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/base_celula.stl",
+    "minimo_mm": [
+      215.0,
+      -28.0,
+      0.0
+    ],
+    "maximo_mm": [
+      267.0,
+      28.0,
+      22.0
+    ]
+  },
+  {
+    "nome": "espacador_celula",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/15_espacador_ponta_livre.stl",
+    "grupo": "sensor",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/espacador_celula.stl",
+    "minimo_mm": [
+      282.0,
+      -7.5,
+      37.0
+    ],
+    "maximo_mm": [
+      310.0,
+      7.5,
+      40.0
+    ]
+  },
+  {
+    "nome": "suporte_asa",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/16_suporte_asa_hastes_integradas.stl",
+    "grupo": "sensor",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/suporte_asa.stl",
+    "minimo_mm": [
+      280.0,
+      -18.0,
+      40.0
+    ],
+    "maximo_mm": [
+      318.0,
+      18.0,
+      113.39387512207031
+    ]
+  },
+  {
+    "nome": "asa_A",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/17_asa_A_simetrica.stl",
+    "grupo": "sensor",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/asa_A.stl",
+    "minimo_mm": [
+      288.0,
+      -45.0,
+      96.4
+    ],
+    "maximo_mm": [
+      328.0,
+      45.0,
+      124.79999389648438
+    ]
+  },
+  {
+    "nome": "parte_1",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/parte_1.stl",
+    "grupo": "regulador",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/parte_1.stl",
+    "minimo_mm": [
+      680.0,
+      -75.0,
+      47.400000000000006
+    ],
+    "maximo_mm": [
+      692.0,
+      75.0,
+      197.4
+    ]
+  },
+  {
+    "nome": "parte_2",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/parte_2.stl",
+    "grupo": "regulador",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/parte_2.stl",
+    "minimo_mm": [
+      703.2,
+      -75.0,
+      47.400000000000006
+    ],
+    "maximo_mm": [
+      714.7999994277955,
+      75.0,
+      217.4
+    ]
+  },
+  {
+    "nome": "parte_3",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/parte_3.stl",
+    "grupo": "regulador",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/parte_3.stl",
+    "minimo_mm": [
+      711.4000000000001,
+      -65.0,
+      57.400000000000006
+    ],
+    "maximo_mm": [
+      714.4000000000001,
+      65.0,
+      187.4
+    ]
+  },
+  {
+    "nome": "parte_4",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/parte_4.stl",
+    "grupo": "regulador",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/parte_4.stl",
+    "minimo_mm": [
+      714.4000000000001,
+      -7.0,
+      180.4
+    ],
+    "maximo_mm": [
+      726.4000000000001,
+      7.0,
+      206.4
+    ]
+  },
+  {
+    "nome": "parte_5",
+    "material": "impresso",
+    "fonte": "01_IMPRESSAO_3D/01_pecas_finais/parte_5.stl",
+    "grupo": "regulador",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/parte_5.stl",
+    "minimo_mm": [
+      603.0,
+      -75.0,
+      47.400000000000006
+    ],
+    "maximo_mm": [
+      650.0,
+      75.0,
+      197.4
+    ]
+  },
+  {
+    "nome": "ventoinha",
+    "material": "comprado",
+    "fonte": "03_COMPRADOS_NAO_FABRICAR/modelos_REFERENCIA/ventoinha.scad",
+    "grupo": "comprados",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/ventoinha.stl",
+    "minimo_mm": [
+      650.0,
+      -60.0,
+      62.4
+    ],
+    "maximo_mm": [
+      680.0,
+      60.0,
+      182.4
+    ]
+  },
+  {
+    "nome": "celula",
+    "material": "comprado",
+    "fonte": "03_COMPRADOS_NAO_FABRICAR/modelos_REFERENCIA/celula.scad",
+    "grupo": "comprados",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/celula.stl",
+    "minimo_mm": [
+      225.0,
+      -7.5,
+      22.0
+    ],
+    "maximo_mm": [
+      310.0,
+      7.5,
+      37.0
+    ]
+  },
+  {
+    "nome": "acrilico",
+    "material": "acrilico",
+    "fonte": "03_COMPRADOS_NAO_FABRICAR/modelos_REFERENCIA/acrilico.scad",
+    "grupo": "janela",
+    "novo": false,
+    "malha": "06_CAD_VALIDACAO/montagem_REFERENCIA/acrilico.stl",
+    "minimo_mm": [
+      214.0,
+      -60.0,
+      185.3
+    ],
+    "maximo_mm": [
+      386.0,
+      60.0,
+      188.3
+    ]
+  }
+]

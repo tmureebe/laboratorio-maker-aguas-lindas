@@ -1,0 +1,1132 @@
+{
+  "malhas_fabricacao": [
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/03_camara_aberta_200mm.stl",
+      "triangulos": 2204,
+      "arestas_abertas": 0,
+      "volume_mm3": 186348.4067,
+      "dimensoes_mm": [
+        200.0,
+        154.0,
+        120.8
+      ],
+      "sha256": "52255797257b2c067246e850bd2688c0e6e08784ca04db3fdb0b6160097e1eb4"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/04_moldura_V7_passagem_120mm.stl",
+      "triangulos": 2184,
+      "arestas_abertas": 0,
+      "volume_mm3": 37738.3186,
+      "dimensoes_mm": [
+        200.0,
+        154.0,
+        6.5
+      ],
+      "sha256": "74d4a1526520c43f504f29b3c814e96942c2bef5ed3dbcbfb059749b28d3db57"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/07_colmeia_canais_46mm.stl",
+      "triangulos": 3948,
+      "arestas_abertas": 0,
+      "volume_mm3": 155058.2625,
+      "dimensoes_mm": [
+        131.0,
+        131.0,
+        48.4
+      ],
+      "sha256": "e42bd4e392a60d34d443688d10e0fe0f6fc0d0bc6c691366d1c2ef8bd04845a0"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/08_ligacao_MDF_parte5_126p2.stl",
+      "triangulos": 96,
+      "arestas_abertas": 0,
+      "volume_mm3": 45155.297,
+      "dimensoes_mm": [
+        132.4,
+        132.4,
+        27.0
+      ],
+      "sha256": "a6dcf87d6f7e11bff6fa7ca55f0a6a34c0b4505275ee56bcf1c759a2e29c3aaa"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/09_grade_compativel_partes1e2.stl",
+      "triangulos": 6524,
+      "arestas_abertas": 0,
+      "volume_mm3": 48148.3733,
+      "dimensoes_mm": [
+        150.0,
+        150.0,
+        3.2
+      ],
+      "sha256": "8b5b1f5750f05cf63acfe751f8f71375b123bb075f4e5af11dada66480b2aa98"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/11_presilha_janela.stl",
+      "triangulos": 680,
+      "arestas_abertas": 0,
+      "volume_mm3": 411.4437,
+      "dimensoes_mm": [
+        8.0,
+        20.0,
+        3.0
+      ],
+      "sha256": "0d7fed9f8ca132cabb8196fdf7aec83904bf05ee7200e34e30f39109525c5ef5"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/12_espacador_presilha_3p5mm.stl",
+      "triangulos": 672,
+      "arestas_abertas": 0,
+      "volume_mm3": 144.0176,
+      "dimensoes_mm": [
+        8.0,
+        8.0,
+        3.5
+      ],
+      "sha256": "48db1ecbcd4f468859b5829ee2c436ca70a41cf1ae214402184fb1d55cb9c8f9"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/14_base_celula_85mm.stl",
+      "triangulos": 1752,
+      "arestas_abertas": 0,
+      "volume_mm3": 21067.5316,
+      "dimensoes_mm": [
+        52.0,
+        56.0,
+        22.0
+      ],
+      "sha256": "3fc808c53142995d757f4c5b4f87b5531b7037bc95f1e5bd2bc13399f233901b"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/15_espacador_ponta_livre.stl",
+      "triangulos": 360,
+      "arestas_abertas": 0,
+      "volume_mm3": 850.1786,
+      "dimensoes_mm": [
+        28.0,
+        15.0,
+        3.0
+      ],
+      "sha256": "bdf0d23e741fa18866e0cb02fe35cf842ce601fa5637437685f883453d4d67ba"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/16_suporte_asa_hastes_integradas.stl",
+      "triangulos": 1552,
+      "arestas_abertas": 0,
+      "volume_mm3": 15807.5046,
+      "dimensoes_mm": [
+        38.0,
+        36.0,
+        73.3939
+      ],
+      "sha256": "24aa3bef34354a8d75f27b11e88eb32fd6e44fdbf63d10263418851abf986d83"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/17_asa_A_simetrica.stl",
+      "triangulos": 1332,
+      "arestas_abertas": 0,
+      "volume_mm3": 15434.2919,
+      "dimensoes_mm": [
+        40.0,
+        28.4,
+        90.0
+      ],
+      "sha256": "a6b148c1bc0062c831787d674a106cf10f236a774085542199a14cfd93e493f8"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/20_espacador_regulador_8mm.stl",
+      "triangulos": 1392,
+      "arestas_abertas": 0,
+      "volume_mm3": 44509.736,
+      "dimensoes_mm": [
+        150.0,
+        150.0,
+        8.0
+      ],
+      "sha256": "08afe469f3fcda27e49cab6bc9e94db9d71da5fb83e6b0fd49c879da7c553882"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/U01_uniao_entrada_MDF_camara.stl",
+      "triangulos": 48,
+      "arestas_abertas": 0,
+      "volume_mm3": 40890.24,
+      "dimensoes_mm": [
+        132.4,
+        132.4,
+        24.0
+      ],
+      "sha256": "acddece4e117e933044be0d80c75b85a25eebafd3b263e8158389541a4a04716"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/U02_uniao_camara_saida_MDF.stl",
+      "triangulos": 48,
+      "arestas_abertas": 0,
+      "volume_mm3": 40890.24,
+      "dimensoes_mm": [
+        132.4,
+        132.4,
+        24.0
+      ],
+      "sha256": "de23b85ff9d6ddf7d5ad69e24b7e8a802ce2192f00f8f13844150bc089fd4f77"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/parte_1.stl",
+      "triangulos": 6452,
+      "arestas_abertas": 0,
+      "volume_mm3": 149843.8618,
+      "dimensoes_mm": [
+        150.0,
+        150.0,
+        12.0
+      ],
+      "sha256": "6a8ea26dc39e827a2acfc522b075b2898042b3208b4509481a88f68bdcd87cb4"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/parte_2.stl",
+      "triangulos": 12628,
+      "arestas_abertas": 0,
+      "volume_mm3": 147675.4681,
+      "dimensoes_mm": [
+        150.0,
+        170.0,
+        11.6
+      ],
+      "sha256": "1f9d17c99879380e2da6c74af2802b95c26beaaa7695258928ded4ea786f8909"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/parte_3.stl",
+      "triangulos": 10466,
+      "arestas_abertas": 0,
+      "volume_mm3": 25586.8167,
+      "dimensoes_mm": [
+        130.0,
+        130.0,
+        3.0
+      ],
+      "sha256": "8952780fed6aaad17df8b54d089321f0f81ee86dd95866822c8e9fd67783f543"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/parte_4.stl",
+      "triangulos": 1960,
+      "arestas_abertas": 0,
+      "volume_mm3": 2007.7323,
+      "dimensoes_mm": [
+        26.0,
+        14.0,
+        12.0
+      ],
+      "sha256": "39d59752db9088ba641a8fb6d3219e05eba0b4a3f33d1c5b1a054a7263204035"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/parte_5.stl",
+      "triangulos": 3920,
+      "arestas_abertas": 0,
+      "volume_mm3": 125458.7282,
+      "dimensoes_mm": [
+        150.0,
+        150.0,
+        47.0
+      ],
+      "sha256": "21740a4e1333ba28e6b63d400534ac9e4e941d78b648f162cb6b22905c7a0986"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/02_alternativas_escolher_uma/08_ligacao_MDF_parte5_125p8_ALTERNATIVA.stl",
+      "triangulos": 96,
+      "arestas_abertas": 0,
+      "volume_mm3": 43945.8244,
+      "dimensoes_mm": [
+        132.4,
+        132.4,
+        27.0
+      ],
+      "sha256": "5d85c905fcfb1e5fdc4ccf0b8c84066b17ba6182b8a20c5bc22b410c9bed1bf2"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/02_alternativas_escolher_uma/08_ligacao_MDF_parte5_126p0_ALTERNATIVA.stl",
+      "triangulos": 96,
+      "arestas_abertas": 0,
+      "volume_mm3": 44550.0807,
+      "dimensoes_mm": [
+        132.4,
+        132.4,
+        27.0
+      ],
+      "sha256": "7b03f94e23e85a9b52afdcd197e3cbebc2c7dfb036318c364b6592c6b3d6e65a"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/02_alternativas_escolher_uma/18_asa_B_curvada.stl",
+      "triangulos": 1428,
+      "arestas_abertas": 0,
+      "volume_mm3": 15492.9372,
+      "dimensoes_mm": [
+        40.0,
+        29.1681,
+        90.0
+      ],
+      "sha256": "9c45aecc1f1811d4a56e6fc1f4915052d6e587d693fe55ac11e28b1c0ae0d98f"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T03_cupom_camara_janela.stl",
+      "triangulos": 368,
+      "arestas_abertas": 0,
+      "volume_mm3": 3079.5326,
+      "dimensoes_mm": [
+        22.0,
+        17.0,
+        15.8
+      ],
+      "sha256": "ee21d160ecbc92e1a46d9e981fb709935487b40e23f2fce2f0b570c4e402d35c"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T04_cupom_moldura_janela.stl",
+      "triangulos": 368,
+      "arestas_abertas": 0,
+      "volume_mm3": 2017.717,
+      "dimensoes_mm": [
+        22.0,
+        23.0,
+        6.5
+      ],
+      "sha256": "4221e9b36273e102dd5a4d701e49b40b7884e31b46157497ee04b6faac258721"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T05_gabarito_furos_105mm.stl",
+      "triangulos": 1712,
+      "arestas_abertas": 0,
+      "volume_mm3": 8987.184,
+      "dimensoes_mm": [
+        120.0,
+        120.0,
+        2.0
+      ],
+      "sha256": "4e3bb9c736168aa4a4d2e245d4dd72a775a76aa5c31c08364bae55a1ee15357c"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T06_gabarito_celula_85mm.stl",
+      "triangulos": 708,
+      "arestas_abertas": 0,
+      "volume_mm3": 3204.7715,
+      "dimensoes_mm": [
+        85.0,
+        22.0,
+        2.0
+      ],
+      "sha256": "c440c8fd3d71e08dc7ad33827ab614feab81b75020f75fc4988ae8677a27dc31"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T07_cupom_parte5_macho_125p8.stl",
+      "triangulos": 48,
+      "arestas_abertas": 0,
+      "volume_mm3": 8475.1864,
+      "dimensoes_mm": [
+        125.8,
+        125.8,
+        6.0
+      ],
+      "sha256": "39e52065048854da6e6fb1889e635262d8b1103792c7e05ef653c7a7e01afb23"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T07_cupom_parte5_macho_126p0.stl",
+      "triangulos": 48,
+      "arestas_abertas": 0,
+      "volume_mm3": 8777.2798,
+      "dimensoes_mm": [
+        126.0,
+        126.0,
+        6.0
+      ],
+      "sha256": "2ca10c2e653f5ff269fb31e735c9218581237d21848115a8d32b27c1c2eb98c1"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T07_cupom_parte5_macho_126p2.stl",
+      "triangulos": 48,
+      "arestas_abertas": 0,
+      "volume_mm3": 9079.8537,
+      "dimensoes_mm": [
+        126.2,
+        126.2,
+        6.0
+      ],
+      "sha256": "babc6d5e60b21dd0cd756d7341298f6f7b519444787ef3581f15196aefa44efd"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T08_cupom_luva_MDF.stl",
+      "triangulos": 32,
+      "arestas_abertas": 0,
+      "volume_mm3": 18633.6,
+      "dimensoes_mm": [
+        132.4,
+        132.4,
+        12.0
+      ],
+      "sha256": "dae436b18c6f0a57a10813e035779df0274679ec6eb6c96ee8fc56e838c6cd23"
+    }
+  ],
+  "cinco_pecas_recebidas_preservadas": true,
+  "cortes": {
+    "chapas": 7,
+    "contagem": {
+      "G19": 1,
+      "G13": 1,
+      "M01": 2,
+      "M03": 2,
+      "M02": 2,
+      "M04": 2,
+      "M23": 4,
+      "M13": 16,
+      "M19": 4,
+      "B01": 1,
+      "B02": 1,
+      "B03": 2,
+      "T01": 2,
+      "T02": 2,
+      "T03": 1
+    },
+    "mesa_mm": [
+      600,
+      400
+    ],
+    "sem_sobreposicao": true
+  },
+  "moldura_corrigida": [
+    {
+      "x_mm": 210,
+      "teto_mm": 182.4,
+      "piso_mm": 62.4,
+      "altura_livre_mm": 120
+    },
+    {
+      "x_mm": 390,
+      "teto_mm": 182.4,
+      "piso_mm": 62.4,
+      "altura_livre_mm": 120
+    }
+  ],
+  "apoio_camara": {
+    "x_mm": 350,
+    "patamar_mm": 60,
+    "fixacoes_base_compativeis": true
+  },
+  "intersecoes_geometricas": [
+    {
+      "a": "entrada_piso",
+      "b": "pe_25_lamina_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_piso",
+      "b": "pe_25_lamina_2",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_piso",
+      "b": "pe_25_lamina_3",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_piso",
+      "b": "pe_25_lamina_4",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_piso",
+      "b": "pe_150_lamina_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_piso",
+      "b": "pe_150_lamina_2",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_piso",
+      "b": "pe_150_lamina_3",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_piso",
+      "b": "pe_150_lamina_4",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_piso",
+      "b": "U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_piso",
+      "b": "colmeia",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_teto",
+      "b": "U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_teto",
+      "b": "colmeia",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_frente",
+      "b": "pe_25_lamina_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_frente",
+      "b": "pe_25_lamina_2",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_frente",
+      "b": "pe_25_lamina_3",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_frente",
+      "b": "pe_25_lamina_4",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_frente",
+      "b": "pe_150_lamina_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_frente",
+      "b": "pe_150_lamina_2",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_frente",
+      "b": "pe_150_lamina_3",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_frente",
+      "b": "pe_150_lamina_4",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_frente",
+      "b": "U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_frente",
+      "b": "colmeia",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_fundo",
+      "b": "pe_25_lamina_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_fundo",
+      "b": "pe_25_lamina_2",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_fundo",
+      "b": "pe_25_lamina_3",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_fundo",
+      "b": "pe_25_lamina_4",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_fundo",
+      "b": "pe_150_lamina_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_fundo",
+      "b": "pe_150_lamina_2",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_fundo",
+      "b": "pe_150_lamina_3",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_fundo",
+      "b": "pe_150_lamina_4",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_fundo",
+      "b": "U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "entrada_lateral_fundo",
+      "b": "colmeia",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_piso",
+      "b": "pe_450_lamina_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_piso",
+      "b": "pe_450_lamina_2",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_piso",
+      "b": "pe_450_lamina_3",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_piso",
+      "b": "pe_450_lamina_4",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_piso",
+      "b": "pe_550_lamina_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_piso",
+      "b": "pe_550_lamina_2",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_piso",
+      "b": "pe_550_lamina_3",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_piso",
+      "b": "pe_550_lamina_4",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_piso",
+      "b": "U02",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_piso",
+      "b": "ligacao",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_teto",
+      "b": "U02",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_teto",
+      "b": "ligacao",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_frente",
+      "b": "pe_450_lamina_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_frente",
+      "b": "pe_450_lamina_2",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_frente",
+      "b": "pe_450_lamina_3",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_frente",
+      "b": "pe_450_lamina_4",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_frente",
+      "b": "pe_550_lamina_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_frente",
+      "b": "pe_550_lamina_2",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_frente",
+      "b": "pe_550_lamina_3",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_frente",
+      "b": "pe_550_lamina_4",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_frente",
+      "b": "U02",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_frente",
+      "b": "ligacao",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_fundo",
+      "b": "pe_450_lamina_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_fundo",
+      "b": "pe_450_lamina_2",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_fundo",
+      "b": "pe_450_lamina_3",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_fundo",
+      "b": "pe_450_lamina_4",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_fundo",
+      "b": "pe_550_lamina_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_fundo",
+      "b": "pe_550_lamina_2",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_fundo",
+      "b": "pe_550_lamina_3",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_fundo",
+      "b": "pe_550_lamina_4",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_fundo",
+      "b": "U02",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "saida_lateral_fundo",
+      "b": "ligacao",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_25_lamina_1",
+      "b": "colmeia",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_25_lamina_2",
+      "b": "colmeia",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_25_lamina_3",
+      "b": "colmeia",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_25_lamina_4",
+      "b": "colmeia",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_350_lamina_1",
+      "b": "camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_350_lamina_2",
+      "b": "camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_350_lamina_3",
+      "b": "camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_350_lamina_4",
+      "b": "camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_695_lamina_1",
+      "b": "parte_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_695_lamina_2",
+      "b": "grade",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_695_lamina_2",
+      "b": "parte_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_695_lamina_3",
+      "b": "grade",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_695_lamina_3",
+      "b": "espacador_regulador",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_695_lamina_4",
+      "b": "espacador_regulador",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "pe_695_lamina_4",
+      "b": "parte_2",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "camara",
+      "b": "U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "camara",
+      "b": "U02",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "moldura",
+      "b": "U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "moldura",
+      "b": "U02",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "moldura",
+      "b": "esp_presilha_240_-1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "moldura",
+      "b": "esp_presilha_240_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "moldura",
+      "b": "esp_presilha_300_-1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "moldura",
+      "b": "esp_presilha_300_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "moldura",
+      "b": "esp_presilha_360_-1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "moldura",
+      "b": "esp_presilha_360_1",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "ligacao",
+      "b": "parte_5",
+      "volume_intersecao_mm3": 0.0
+    }
+  ],
+  "colisoes_encontradas": [],
+  "envelope_asas": [
+    {
+      "asa": "A",
+      "angulo_graus": -20,
+      "minimo_z_mm": 96.40248661547868,
+      "maximo_z_mm": 131.26690393400798
+    },
+    {
+      "asa": "A",
+      "angulo_graus": -15,
+      "minimo_z_mm": 96.40559218215604,
+      "maximo_z_mm": 129.4199640449319
+    },
+    {
+      "asa": "A",
+      "angulo_graus": 0,
+      "minimo_z_mm": 96.4000015258789,
+      "maximo_z_mm": 124.79999542236328
+    },
+    {
+      "asa": "A",
+      "angulo_graus": 15,
+      "minimo_z_mm": 96.40559218215604,
+      "maximo_z_mm": 125.75271772476984
+    },
+    {
+      "asa": "A",
+      "angulo_graus": 20,
+      "minimo_z_mm": 96.40248661547868,
+      "maximo_z_mm": 126.08502319685763
+    },
+    {
+      "asa": "B",
+      "angulo_graus": -20,
+      "minimo_z_mm": 96.40248730011879,
+      "maximo_z_mm": 131.26690832519552
+    },
+    {
+      "asa": "B",
+      "angulo_graus": -15,
+      "minimo_z_mm": 96.4055939746133,
+      "maximo_z_mm": 129.4199685587073
+    },
+    {
+      "asa": "B",
+      "angulo_graus": 0,
+      "minimo_z_mm": 96.4,
+      "maximo_z_mm": 125.56813278198243
+    },
+    {
+      "asa": "B",
+      "angulo_graus": 15,
+      "minimo_z_mm": 96.4055939746133,
+      "maximo_z_mm": 126.0091832338014
+    },
+    {
+      "asa": "B",
+      "angulo_graus": 20,
+      "minimo_z_mm": 96.40248730011879,
+      "maximo_z_mm": 126.24976530763558
+    }
+  ],
+  "intersecoes_asas_por_angulo": [
+    {
+      "a": "asa_A_angulo_-20",
+      "b": "camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_-20",
+      "b": "moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_-20",
+      "b": "suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_-20",
+      "b": "acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_-15",
+      "b": "camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_-15",
+      "b": "moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_-15",
+      "b": "suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_-15",
+      "b": "acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_0",
+      "b": "camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_0",
+      "b": "moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_0",
+      "b": "suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_0",
+      "b": "acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_15",
+      "b": "camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_15",
+      "b": "moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_15",
+      "b": "suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_15",
+      "b": "acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_20",
+      "b": "camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_20",
+      "b": "moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_20",
+      "b": "suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_A_angulo_20",
+      "b": "acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_-20",
+      "b": "camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_-20",
+      "b": "moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_-20",
+      "b": "suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_-20",
+      "b": "acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_-15",
+      "b": "camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_-15",
+      "b": "moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_-15",
+      "b": "suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_-15",
+      "b": "acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_0",
+      "b": "camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_0",
+      "b": "moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_0",
+      "b": "suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_0",
+      "b": "acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_15",
+      "b": "camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_15",
+      "b": "moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_15",
+      "b": "suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_15",
+      "b": "acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_20",
+      "b": "camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_20",
+      "b": "moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_20",
+      "b": "suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "a": "asa_B_angulo_20",
+      "b": "acrilico",
+      "volume_intersecao_mm3": 0.0
+    }
+  ],
+  "limites": [
+    "Verificação geométrica digital; sem montagem física, teste de rigidez ou fluxo.",
+    "Ventoinha e célula são referências simplificadas; conferir equipamento real e roscas.",
+    "Acrílico/vedação e contatos de apoio conferidos dimensionalmente; não analisados estruturalmente."
+  ],
+  "resultado": "PASSOU"
+}

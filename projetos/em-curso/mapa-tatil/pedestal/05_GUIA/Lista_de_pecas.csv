@@ -1,0 +1,47 @@
+﻿Peça;Quantidade;Chapa;Largura_mm;Altura_mm;Montagem
+F1;1;01_F1_F2;340.0;234.0;F: faixa 1, de baixo para cima
+F2;1;01_F1_F2;340.0;235.0;F: faixa 2, de baixo para cima
+F3;1;02_F3_F4;340.0;235.0;F: faixa 3, de baixo para cima
+F4;1;02_F3_F4;340.0;186.518;F: faixa 4, de baixo para cima
+T1;1;03_T1_T2;340.0;234.0;T: faixa 1, de baixo para cima
+T2;1;03_T1_T2;340.0;235.0;T: faixa 2, de baixo para cima
+T3;1;04_T3_T4;340.0;235.0;T: faixa 3, de baixo para cima
+T4;1;04_T3_T4;340.0;234.038;T: faixa 4, de baixo para cima
+E1;1;05_E1_E2;300.0;234.0;E: faixa 1, de baixo para cima
+E2;1;05_E1_E2;300.0;235.0;E: faixa 2, de baixo para cima
+E3;1;06_E3_E4;300.0;235.0;E: faixa 3, de baixo para cima
+E4;1;06_E3_E4;300.0;230.52;E: faixa 4, de baixo para cima
+D1;1;07_D1_D2;300.0;234.0;D: faixa 1, de baixo para cima
+D2;1;07_D1_D2;300.0;235.0;D: faixa 2, de baixo para cima
+D3;1;08_D3_D4;300.0;235.0;D: faixa 3, de baixo para cima
+D4;1;08_D3_D4;300.0;230.52;D: faixa 4, de baixo para cima
+B1;1;09_B1;440.0;340.0;Camada da base laminada, de baixo para cima
+B2;1;10_B2;440.0;340.0;Camada da base laminada, de baixo para cima
+B3;1;11_B3;440.0;340.0;Camada da base laminada, de baixo para cima
+H1;1;12_H1;333.85;293.85;Divisória horizontal interna
+A1F;1;05_E1_E2;280.0;20.0;Apoio colado sob a divisória H1
+A1T;1;05_E1_E2;280.0;20.0;Apoio colado sob a divisória H1
+A1E;1;06_E3_E4;240.0;20.0;Apoio colado sob a divisória H1
+A1D;1;06_E3_E4;240.0;20.0;Apoio colado sob a divisória H1
+H2;1;13_H2;333.85;293.85;Divisória horizontal interna
+A2F;1;06_E3_E4;280.0;20.0;Apoio colado sob a divisória H2
+A2T;1;06_E3_E4;280.0;20.0;Apoio colado sob a divisória H2
+A2E;1;06_E3_E4;240.0;20.0;Apoio colado sob a divisória H2
+A2D;1;06_E3_E4;240.0;20.0;Apoio colado sob a divisória H2
+RF1;1;01_F1_F2;280.0;30.0;Reforço colado na emenda F1
+RF2;1;01_F1_F2;280.0;30.0;Reforço colado na emenda F2
+RF3;1;02_F3_F4;280.0;30.0;Reforço colado na emenda F3
+RT1;1;02_F3_F4;280.0;30.0;Reforço colado na emenda T1
+RT2;1;02_F3_F4;280.0;30.0;Reforço colado na emenda T2
+RT3;1;03_T1_T2;280.0;30.0;Reforço colado na emenda T3
+RE1;1;03_T1_T2;240.0;30.0;Reforço colado na emenda E1
+RE2;1;04_T3_T4;240.0;30.0;Reforço colado na emenda E2
+RE3;1;04_T3_T4;240.0;30.0;Reforço colado na emenda E3
+RD1;1;05_E1_E2;240.0;30.0;Reforço colado na emenda D1
+RD2;1;05_E1_E2;240.0;30.0;Reforço colado na emenda D2
+RD3;1;05_E1_E2;240.0;30.0;Reforço colado na emenda D3
+GX1;1;14_GX1_GX2_GY1;464.0;73.518;Travessa superior X, posição s=90.0
+GX2;1;14_GX1_GX2_GY1;464.0;73.518;Travessa superior X, posição s=190.0
+GX3;1;15_GX3_GY2;464.0;73.518;Travessa superior X, posição s=290.0
+GY1;1;14_GX1_GX2_GY1;359.428;130.231;Longarina superior Y, posição x=125.0
+GY2;1;15_GX3_GY2;359.428;130.231;Longarina superior Y, posição x=375.0

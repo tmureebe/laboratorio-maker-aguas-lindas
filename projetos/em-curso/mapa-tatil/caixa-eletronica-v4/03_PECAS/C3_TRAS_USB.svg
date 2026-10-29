@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="494mm" height="44mm" viewBox="0 0 494 44" overflow="visible">
+<title>Corte em mm, escala 1:1; sem compensação de feixe</title>
+<desc>Contornos pretos de 0,35 mm para visualização. Cortar pelos eixos vetoriais, sem converter o traço em contorno. Painéis lisos contêm apenas um retângulo fechado.</desc>
+<g id="CORTE">
+<path id="C3_TRAS_USB_0" d="M 0.000000,44.000000 L 494.000000,44.000000 L 494.000000,0.000000 L 81.000000,0.000000 L 81.000000,14.000000 L 57.000000,14.000000 L 57.000000,0.000000 L 0.000000,0.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C3_TRAS_USB_1" cx="27.000000" cy="12.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C3_TRAS_USB_2" cx="147.000000" cy="12.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C3_TRAS_USB_3" cx="397.000000" cy="12.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C3_TRAS_USB_4" cx="467.000000" cy="12.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C3_TRAS_USB_5" d="M 97.000000,29.000000 L 100.000000,29.000000 L 100.000000,21.000000 L 97.000000,21.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C3_TRAS_USB_6" d="M 109.000000,29.000000 L 112.000000,29.000000 L 112.000000,21.000000 L 109.000000,21.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+</g>
+</svg>

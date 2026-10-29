@@ -1,0 +1,13 @@
+newmtl MDF
+Kd 0.69 0.49 0.27
+Ka 0.15 0.15 0.15
+newmtl impresso
+Kd 0.08 0.43 0.52
+Ka 0.15 0.15 0.15
+newmtl comprado
+Kd 0.25 0.28 0.31
+Ka 0.15 0.15 0.15
+newmtl acrilico
+Kd 0.56 0.82 0.9
+Ka 0.15 0.15 0.15
+d 0.25

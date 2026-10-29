@@ -1,0 +1,1 @@
+linear_extrude(3) difference(){ polygon([[0, 0], [200, 0], [200, 120], [0, 120]]);}

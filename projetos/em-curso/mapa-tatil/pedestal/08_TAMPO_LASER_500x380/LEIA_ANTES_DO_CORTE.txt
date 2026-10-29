@@ -1,0 +1,9 @@
+TAMPO INTEIRO 500 x 380 mm - CNC A LASER - MDF nominal 3 mm
+
+DXF e SVG: geometria acabada em mm, escala 1:1; 1 perímetro e 25 ranhuras passantes.
+Origem: canto dianteiro esquerdo, olhando a face superior. DXF: Y crescente para a traseira; SVG invertido apenas para visualização.
+Aplicar compensação da largura do feixe uma vez: interior dos furos, exterior do perímetro.
+Cortar os encaixes antes do contorno externo. Ajustar potência, velocidade e passes para o MDF e o laser usados.
+Fazer o teste de encaixe antes do tampo. Não escalar os arquivos.
+Tampo inteiro, sem emenda ou reposicionamento, na CNC a laser que comporte o contorno.
+Todas as peças da estrutura anterior são compatíveis.

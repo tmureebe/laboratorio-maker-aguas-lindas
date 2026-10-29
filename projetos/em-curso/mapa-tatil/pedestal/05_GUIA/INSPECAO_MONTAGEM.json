@@ -1,0 +1,10 @@
+{
+  "pecas": 47,
+  "colisoes": {},
+  "metodo": "Inspeção original preservada: todas as 46 peças e suas matrizes são idênticas; tampo novo é subconjunto do original na montagem. Contornos validados em GEOS e 25 encaixes conservam as coordenadas globais. Não é ensaio estrutural.",
+  "secoes_horizontais_inspecionadas_versao_original": 662,
+  "tampo_subconjunto_do_original": true,
+  "pecas_estrutura_identicas": true,
+  "encaixes_alinhados": true,
+  "erro_maximo_coordenadas_mm": 1.1368683772161603e-13
+}

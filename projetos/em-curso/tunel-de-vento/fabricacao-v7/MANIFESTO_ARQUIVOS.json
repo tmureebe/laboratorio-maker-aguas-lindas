@@ -1,0 +1,1165 @@
+{
+  "versao": "V7",
+  "arquivos": [
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/03_camara_aberta_200mm.stl",
+      "bytes": 110284,
+      "sha256": "52255797257b2c067246e850bd2688c0e6e08784ca04db3fdb0b6160097e1eb4"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/04_moldura_V7_passagem_120mm.stl",
+      "bytes": 335490,
+      "sha256": "74d4a1526520c43f504f29b3c814e96942c2bef5ed3dbcbfb059749b28d3db57"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/07_colmeia_canais_46mm.stl",
+      "bytes": 197484,
+      "sha256": "e42bd4e392a60d34d443688d10e0fe0f6fc0d0bc6c691366d1c2ef8bd04845a0"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/08_ligacao_MDF_parte5_126p2.stl",
+      "bytes": 13785,
+      "sha256": "a6dcf87d6f7e11bff6fa7ca55f0a6a34c0b4505275ee56bcf1c759a2e29c3aaa"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/09_grade_compativel_partes1e2.stl",
+      "bytes": 326284,
+      "sha256": "8b5b1f5750f05cf63acfe751f8f71375b123bb075f4e5af11dada66480b2aa98"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/11_presilha_janela.stl",
+      "bytes": 34084,
+      "sha256": "0d7fed9f8ca132cabb8196fdf7aec83904bf05ee7200e34e30f39109525c5ef5"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/12_espacador_presilha_3p5mm.stl",
+      "bytes": 33684,
+      "sha256": "48db1ecbcd4f468859b5829ee2c436ca70a41cf1ae214402184fb1d55cb9c8f9"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/14_base_celula_85mm.stl",
+      "bytes": 87684,
+      "sha256": "3fc808c53142995d757f4c5b4f87b5531b7037bc95f1e5bd2bc13399f233901b"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/15_espacador_ponta_livre.stl",
+      "bytes": 18084,
+      "sha256": "bdf0d23e741fa18866e0cb02fe35cf842ce601fa5637437685f883453d4d67ba"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/16_suporte_asa_hastes_integradas.stl",
+      "bytes": 77684,
+      "sha256": "24aa3bef34354a8d75f27b11e88eb32fd6e44fdbf63d10263418851abf986d83"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/17_asa_A_simetrica.stl",
+      "bytes": 66684,
+      "sha256": "a6b148c1bc0062c831787d674a106cf10f236a774085542199a14cfd93e493f8"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/20_espacador_regulador_8mm.stl",
+      "bytes": 69684,
+      "sha256": "08afe469f3fcda27e49cab6bc9e94db9d71da5fb83e6b0fd49c879da7c553882"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/U01_uniao_entrada_MDF_camara.stl",
+      "bytes": 6762,
+      "sha256": "acddece4e117e933044be0d80c75b85a25eebafd3b263e8158389541a4a04716"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/U02_uniao_camara_saida_MDF.stl",
+      "bytes": 6756,
+      "sha256": "de23b85ff9d6ddf7d5ad69e24b7e8a802ce2192f00f8f13844150bc089fd4f77"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/parte_1.stl",
+      "bytes": 322684,
+      "sha256": "6a8ea26dc39e827a2acfc522b075b2898042b3208b4509481a88f68bdcd87cb4"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/parte_2.stl",
+      "bytes": 631484,
+      "sha256": "1f9d17c99879380e2da6c74af2802b95c26beaaa7695258928ded4ea786f8909"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/parte_3.stl",
+      "bytes": 523384,
+      "sha256": "8952780fed6aaad17df8b54d089321f0f81ee86dd95866822c8e9fd67783f543"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/parte_4.stl",
+      "bytes": 98084,
+      "sha256": "39d59752db9088ba641a8fb6d3219e05eba0b4a3f33d1c5b1a054a7263204035"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/01_pecas_finais/parte_5.stl",
+      "bytes": 196084,
+      "sha256": "21740a4e1333ba28e6b63d400534ac9e4e941d78b648f162cb6b22905c7a0986"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/02_alternativas_escolher_uma/08_ligacao_MDF_parte5_125p8_ALTERNATIVA.stl",
+      "bytes": 13784,
+      "sha256": "5d85c905fcfb1e5fdc4ccf0b8c84066b17ba6182b8a20c5bc22b410c9bed1bf2"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/02_alternativas_escolher_uma/08_ligacao_MDF_parte5_126p0_ALTERNATIVA.stl",
+      "bytes": 13592,
+      "sha256": "7b03f94e23e85a9b52afdcd197e3cbebc2c7dfb036318c364b6592c6b3d6e65a"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/02_alternativas_escolher_uma/18_asa_B_curvada.stl",
+      "bytes": 71484,
+      "sha256": "9c45aecc1f1811d4a56e6fc1f4915052d6e587d693fe55ac11e28b1c0ae0d98f"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T03_cupom_camara_janela.stl",
+      "bytes": 18484,
+      "sha256": "ee21d160ecbc92e1a46d9e981fb709935487b40e23f2fce2f0b570c4e402d35c"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T04_cupom_moldura_janela.stl",
+      "bytes": 18484,
+      "sha256": "4221e9b36273e102dd5a4d701e49b40b7884e31b46157497ee04b6faac258721"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T05_gabarito_furos_105mm.stl",
+      "bytes": 85684,
+      "sha256": "4e3bb9c736168aa4a4d2e245d4dd72a775a76aa5c31c08364bae55a1ee15357c"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T06_gabarito_celula_85mm.stl",
+      "bytes": 35484,
+      "sha256": "c440c8fd3d71e08dc7ad33827ab614feab81b75020f75fc4988ae8677a27dc31"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T07_cupom_parte5_macho_125p8.stl",
+      "bytes": 2484,
+      "sha256": "39e52065048854da6e6fb1889e635262d8b1103792c7e05ef653c7a7e01afb23"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T07_cupom_parte5_macho_126p0.stl",
+      "bytes": 2484,
+      "sha256": "2ca10c2e653f5ff269fb31e735c9218581237d21848115a8d32b27c1c2eb98c1"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T07_cupom_parte5_macho_126p2.stl",
+      "bytes": 2484,
+      "sha256": "babc6d5e60b21dd0cd756d7341298f6f7b519444787ef3581f15196aefa44efd"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/03_testes_antes_do_lote/T08_cupom_luva_MDF.stl",
+      "bytes": 4505,
+      "sha256": "dae436b18c6f0a57a10813e035779df0274679ec6eb6c96ee8fc56e838c6cd23"
+    },
+    {
+      "arquivo": "01_IMPRESSAO_3D/LEIA_PRIMEIRO.md",
+      "bytes": 2165,
+      "sha256": "1f61de5cec8de510a3608a9029b59a7e0b9d3d5d2cef6906aa9a75d3bf1f0bd1"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/ACRILICO_3mm/Tampa_172x120x3mm.dxf",
+      "bytes": 192,
+      "sha256": "95c67d28455228f93bb5294bd37ba03fcf1a5c1019b3f8f567ad4af5197217c8"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/ACRILICO_3mm/Tampa_172x120x3mm.svg",
+      "bytes": 244,
+      "sha256": "d8956807511a443ef1f3cfc577ef80dde7ff9bd1624d944be42463961315df6d"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/LEIA_PRIMEIRO.md",
+      "bytes": 1365,
+      "sha256": "1e3c37ae4b964c18b0a5ba4be99f8fafd92759c637761542a3f2635bcb5bf1d1"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/MDF_3mm/cupons/cupons_3mm_chapa_01.dxf",
+      "bytes": 1274,
+      "sha256": "0105db4779d2e2f23914dfe4e01b03f0d38c9fdc12f625e4a43ac423b89d415c"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/MDF_3mm/cupons/cupons_3mm_chapa_01.svg",
+      "bytes": 1175,
+      "sha256": "d0744888670ec634df97301515484c45f5a3f305e5e80f0a067a9b1565b8b0c4"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/MDF_3mm/dutos/dutos_3mm_chapa_01.dxf",
+      "bytes": 1423,
+      "sha256": "cccae2870b9e48b151b9e0524a4ac4633771057984fbf25efa173d27f7f2fb37"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/MDF_3mm/dutos/dutos_3mm_chapa_01.svg",
+      "bytes": 1394,
+      "sha256": "813365aa44c3b3046a3d16cb2b2e890dcc012351a6512f9d3530d303546737a3"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/MDF_3mm/dutos/dutos_3mm_chapa_02.dxf",
+      "bytes": 857,
+      "sha256": "f08ebd95c99bcceca9313607c6568c314ecf85c48ba30b41694060fb9a99793a"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/MDF_3mm/dutos/dutos_3mm_chapa_02.svg",
+      "bytes": 894,
+      "sha256": "beb72f199414071dfed7baff8b11db50c38a5f40d686214f302f28b81b4dfcce"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/MDF_6mm/base_opcional/base_opcional_6mm_chapa_01.dxf",
+      "bytes": 839,
+      "sha256": "1b076c59a88e90c12a80cec682e0cba7f948cc92b6e744ded296fc21622b2d68"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/MDF_6mm/base_opcional/base_opcional_6mm_chapa_01.svg",
+      "bytes": 779,
+      "sha256": "f5ded980e391bcd52e54eb908bc8eb9acb7afa8a2b67694769547913ba92b57f"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/MDF_6mm/base_opcional/base_opcional_6mm_chapa_02.dxf",
+      "bytes": 1222,
+      "sha256": "b03fe728a65cfe64bb64d04b7f4144f6515c1bfb76142065e65cda3af47d4646"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/MDF_6mm/base_opcional/base_opcional_6mm_chapa_02.svg",
+      "bytes": 1135,
+      "sha256": "3384deb99e35e9de690021f8535927ee1c83d0cb8c2cc537b59a10fee3cc5b69"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/MDF_6mm/pes/pes_6mm_chapa_01.dxf",
+      "bytes": 13155,
+      "sha256": "1785653b9e13b04c4379cd7c261b0a03e2c0cfee15e51bd51b0103d31cd6a29f"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/MDF_6mm/pes/pes_6mm_chapa_01.svg",
+      "bytes": 7058,
+      "sha256": "47da41a5bad2b00ad7c817f2817b0ff2b47ae0ae786cbba50a5cf7a80f36d4a2"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/MDF_6mm/pes/pes_6mm_chapa_02.dxf",
+      "bytes": 8703,
+      "sha256": "42c270dd5943e11996698e919a4343ace9675a49b7bd798de21bdfbda73efb87"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/MDF_6mm/pes/pes_6mm_chapa_02.svg",
+      "bytes": 4296,
+      "sha256": "2e368c585eabb3a8749260e5ff1bb3dfc9ea50676807a05a82a15d023e230b9b"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/G13.dxf",
+      "bytes": 337,
+      "sha256": "aac5b48b09b46fca519fd14b10ca7c6fc1c9b42cb40d696ea451be6b97fc590a"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/G13.svg",
+      "bytes": 405,
+      "sha256": "b02a02b7e7ec0ad370097375edbf030f01b0dfac426922be2e4cfa0577f14a3f"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/G19.dxf",
+      "bytes": 337,
+      "sha256": "824cd643a53cb1793656c2c25141fb22a8e99e3a2f5fb58662f8fc9423184de4"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/G19.svg",
+      "bytes": 405,
+      "sha256": "837e71cdca2939ba66cef591bc1171f2e708907595bf860efb6b041a922664d4"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M01.dxf",
+      "bytes": 255,
+      "sha256": "8746102bc3ea1ddb37eebcc524bc2a489853347cdf838af442542c77dc61fafd"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M01.svg",
+      "bytes": 339,
+      "sha256": "284179ba96483fc79806610d63bb0b0171b763728f173a7934981c4b69021240"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M02.dxf",
+      "bytes": 255,
+      "sha256": "df557b3426caf42874622f96340520aaa18aabdfc5ea521d8bb1aa2797cd0571"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M02.svg",
+      "bytes": 339,
+      "sha256": "1e386098f988020239ee648699a36f02204f50d2015cf55cb8be32b6152ffc47"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M03.dxf",
+      "bytes": 255,
+      "sha256": "8746102bc3ea1ddb37eebcc524bc2a489853347cdf838af442542c77dc61fafd"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M03.svg",
+      "bytes": 339,
+      "sha256": "334c4a289fb2746e12ada6259075ba33a4b938487b24bdc8453ff2300383d702"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M04.dxf",
+      "bytes": 255,
+      "sha256": "df557b3426caf42874622f96340520aaa18aabdfc5ea521d8bb1aa2797cd0571"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/M04.svg",
+      "bytes": 339,
+      "sha256": "e18850810a6a8e231ba06605fd6ffe541a0f201099b06328a163204ecf6c85f6"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/T01.dxf",
+      "bytes": 253,
+      "sha256": "1b09163ad1d59c3cdfa77d73a43d3e2635e1574e9fcd4219c6f10f8ec4899372"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/T01.svg",
+      "bytes": 335,
+      "sha256": "094ad602a45afc737603c49ba22b002d5ccd56073e528559395012d8dbb9c409"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/T02.dxf",
+      "bytes": 253,
+      "sha256": "43ac9691229dbacf7b9b59531e6bf94105e42cef58d2d73ab3697316f9b7fcc9"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/T02.svg",
+      "bytes": 335,
+      "sha256": "0437d9144454ff1d35423ecb5cb78f8e5ad47073c2c1f4dad8b0900ca388d3a7"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/T03.dxf",
+      "bytes": 463,
+      "sha256": "0e9234d46cdf438c89ed6017c1c6c950b8418ac8706c69a971acae3330844bd0"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_3mm/T03.svg",
+      "bytes": 446,
+      "sha256": "b5c0d850e300690c12537efb48ec6627947ddd5012a3a5e7696c146dfe040dd3"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_6mm/B01.dxf",
+      "bytes": 775,
+      "sha256": "ae0dd3acc117c2178ef5aef0c8755b08a3ac6ac1738367edc25583b7e096bab2"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_6mm/B01.svg",
+      "bytes": 775,
+      "sha256": "2a70c39ded1ae70d0839a9ba32a241ece2efcd4a5a3e237d0148110364e2b7de"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_6mm/B02.dxf",
+      "bytes": 599,
+      "sha256": "0cbd33efcb9c15cd795d618f9e1c780347e6c5d4fff580c02098d91fc141895a"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_6mm/B02.svg",
+      "bytes": 627,
+      "sha256": "6591a33423cf59f9accd280262ee3b0314870d436124b8b831c586e586da11f0"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_6mm/B03.dxf",
+      "bytes": 338,
+      "sha256": "1aaa9083c9d1ca82085ae1bb4edac936daa4feef67d6929f2195e6520ee5c756"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_6mm/B03.svg",
+      "bytes": 406,
+      "sha256": "8db91cd796a9a3bdd3149ccbfac077c73a75645048b6fea9300725a75d52e393"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.dxf",
+      "bytes": 929,
+      "sha256": "36d9aa2bf0e592d4cd6b13818b94caeadbd544243bca165157135f5cfa513355"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M13.svg",
+      "bytes": 621,
+      "sha256": "332590b1a7667f839d4fe8a61d3567c664fe0f5ff9dbcde59f1d38b086298714"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M19.dxf",
+      "bytes": 929,
+      "sha256": "78f036940bd61e356be9bf487233f942826088bfa0af3ffd7c986331f07fed22"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M19.svg",
+      "bytes": 621,
+      "sha256": "169af978849667dfd5731a6f8125c17350148d214b3f3811d9ddfe2fc12c580f"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M23.dxf",
+      "bytes": 877,
+      "sha256": "a1f5a7d668e39e10c4d4cd29ca9dae97f9837544b84a8c6f59c1b3d000d43b7c"
+    },
+    {
+      "arquivo": "02_CORTE_LASER/pecas_individuais/MDF_6mm/M23.svg",
+      "bytes": 617,
+      "sha256": "1ac67b9d06f124fb4d3c97e53f77a9bbc57686155e928339b895503a538dd3a3"
+    },
+    {
+      "arquivo": "03_COMPRADOS_NAO_FABRICAR/LEIA_PRIMEIRO.md",
+      "bytes": 2513,
+      "sha256": "3728de6cd15608165425158e1dbce7a54a2f61664ceca90905650b84888395ef"
+    },
+    {
+      "arquivo": "03_COMPRADOS_NAO_FABRICAR/modelos_REFERENCIA/acrilico.scad",
+      "bytes": 68,
+      "sha256": "811423e3525c02e556c7800d1f91d296d9ff93712fe2ed52f3dc1becc3b35908"
+    },
+    {
+      "arquivo": "03_COMPRADOS_NAO_FABRICAR/modelos_REFERENCIA/acrilico.stl",
+      "bytes": 1521,
+      "sha256": "b0ac19eca15ee284a97953b1434e1ddadc8319da80c3d67cbe0af81a816609d0"
+    },
+    {
+      "arquivo": "03_COMPRADOS_NAO_FABRICAR/modelos_REFERENCIA/celula.scad",
+      "bytes": 237,
+      "sha256": "baec85481a1eaa7f438ccf4d090a703de589f4fa605c177642bf3f03d2892ffc"
+    },
+    {
+      "arquivo": "03_COMPRADOS_NAO_FABRICAR/modelos_REFERENCIA/celula.stl",
+      "bytes": 125585,
+      "sha256": "f04be967ef70c7cf876738ce16987da4b85b22a767bda5a7e2f7be2c9d1b73ec"
+    },
+    {
+      "arquivo": "03_COMPRADOS_NAO_FABRICAR/modelos_REFERENCIA/ventoinha.scad",
+      "bytes": 296,
+      "sha256": "18cc46d321d45ae83fe9096f7ed0cbc2776277a0ebec312273f81cecb2cd10de"
+    },
+    {
+      "arquivo": "03_COMPRADOS_NAO_FABRICAR/modelos_REFERENCIA/ventoinha.stl",
+      "bytes": 155554,
+      "sha256": "58f0ccb2f2bec959b79598376f62bf06db4b8da0b11f8213ddbc7884dc3e027d"
+    },
+    {
+      "arquivo": "04_DOCUMENTOS/01_GUIA_MONTAGEM.md",
+      "bytes": 17854,
+      "sha256": "05bce90205b4f56196dbfaa0b9fa81c2649b20b00e23b46602a54fdaaa042033"
+    },
+    {
+      "arquivo": "04_DOCUMENTOS/01_GUIA_MONTAGEM.pdf",
+      "bytes": 499177,
+      "sha256": "776f6b6605ec8438f92ef47e0f8a67a9b28c25ba8c7f5cf447c912e1dc0ad2ef"
+    },
+    {
+      "arquivo": "04_DOCUMENTOS/02_LISTA_FABRICACAO.csv",
+      "bytes": 4498,
+      "sha256": "2280d12f8cd4ff395f8d20ba2655966b9552a56b19520c310aea349b2ce30534"
+    },
+    {
+      "arquivo": "04_DOCUMENTOS/02_LISTA_FABRICACAO.md",
+      "bytes": 4761,
+      "sha256": "c029dedc2bff87c58c05710f03adc4a703a5931840af817e3ab8828a8b109e77"
+    },
+    {
+      "arquivo": "04_DOCUMENTOS/02_LISTA_FABRICACAO.pdf",
+      "bytes": 50884,
+      "sha256": "ad7d00037246516d96a1847052d3672534446806613016104bb1ca3607f323a1"
+    },
+    {
+      "arquivo": "04_DOCUMENTOS/03_LISTA_COMPRAS.md",
+      "bytes": 2513,
+      "sha256": "3728de6cd15608165425158e1dbce7a54a2f61664ceca90905650b84888395ef"
+    },
+    {
+      "arquivo": "04_DOCUMENTOS/03_LISTA_COMPRAS.pdf",
+      "bytes": 47390,
+      "sha256": "fbb346be1046e29204f0cc686029eb67f5c536beb2de88aecd8524d1163b4d7e"
+    },
+    {
+      "arquivo": "04_DOCUMENTOS/04_VERIFICACAO_MODELO.md",
+      "bytes": 2429,
+      "sha256": "421514b7b6ae664e3f132b3ba40179df35d3de0c368c5ab1d89e1ef9712f1472"
+    },
+    {
+      "arquivo": "04_DOCUMENTOS/04_VERIFICACAO_MODELO.pdf",
+      "bytes": 47295,
+      "sha256": "a6cd232f447cfc0c71ac9bfb97706d7122fb6d396580401a657d758b2101dc40"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/01_conjunto_completo.png",
+      "bytes": 66513,
+      "sha256": "3adaf568301e5d5d296acc38a4ed68db13b9846a6d858b6f5814ad2ac5f268f1"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/02_explodido.png",
+      "bytes": 91246,
+      "sha256": "762bfdbb8c0138124c49aa5856126b66a9616603209cb64ff1a0011a7b9ecd1c"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/03_camara_sensor.png",
+      "bytes": 43261,
+      "sha256": "e0c8152be1a39fb35f343cfb60e7088cb0acf86750fa67a9e93d69139e9a5721"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/04_janela_explodida.png",
+      "bytes": 45396,
+      "sha256": "9da176120c2f9e617f4ac159d7e26e92d6cbb494c2a0f97586e0d63f4cfd8fdc"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/05_duto_paineis.png",
+      "bytes": 58225,
+      "sha256": "e68f5f47727786ff7ec93f4f3c3b2db6ba4d3bb2feefeaf7accb0bb338e0c5ff"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/06_base_apoios.png",
+      "bytes": 46242,
+      "sha256": "0ec5cf51d0bf6d2c99387f73bc5cd745183f03c94fcd9c4145dac3c9f198fee0"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/07_interfaces.png",
+      "bytes": 52220,
+      "sha256": "f496bce573846811dd41008291b9d09e6d1dcdb3c87599ea9128d3b9aa726ce2"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/08_ventoinha_regulador.png",
+      "bytes": 86598,
+      "sha256": "4a5932bd93ff328384f1a049a974a19e2f8d7fbf32e4f2780bbbc7c827615e8c"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/ABRIR_VISUALIZADOR_3D.html",
+      "bytes": 10609984,
+      "sha256": "1effb51fc6f0c156e8350ea61a24baed148b42d8764c8a65e48e5c6cf90605a4"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/Conjunto_COMPLETO.obj",
+      "bytes": 7723927,
+      "sha256": "15327efc0b77550b45752d06da2a0cad8d49c0ed1643e9135580e9fd08993189"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/Conjunto_COMPLETO_APENAS_VISUALIZAR.stl",
+      "bytes": 3678584,
+      "sha256": "6a5c4fcceac234c9ea9ff45b62d52e2fc039257c1a756af3d414948928f01884"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/LEIA_PRIMEIRO.md",
+      "bytes": 1247,
+      "sha256": "52445cc39db2b48e0f2b4ba66ba6a0639595eda9733f6b241ed69e38cb3048fb"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/mapas_chapas/base_opcional_6mm_chapa_01_MAPA_NAO_CORTAR.svg",
+      "bytes": 916,
+      "sha256": "aff3e9df26236abc65e2cdf0437e543b1688087b897c380efedb7a9a7145c805"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/mapas_chapas/base_opcional_6mm_chapa_02_MAPA_NAO_CORTAR.svg",
+      "bytes": 1452,
+      "sha256": "5c53a59e703b5725e8dcbc2591a766fe7129a6fe1d5fb9578bd3067e35dab6ab"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/mapas_chapas/cupons_3mm_chapa_01_MAPA_NAO_CORTAR.svg",
+      "bytes": 1669,
+      "sha256": "f0d2fc70d6a02f8b2a439bfbc3b5a2991dbb0ea1edcc92c38a452a3cc95606c9"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/mapas_chapas/dutos_3mm_chapa_01_MAPA_NAO_CORTAR.svg",
+      "bytes": 1980,
+      "sha256": "56e9c39b1f64bd4b8876382ff34d3253fb0c4690e1439938f71131d82040b103"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/mapas_chapas/dutos_3mm_chapa_02_MAPA_NAO_CORTAR.svg",
+      "bytes": 1302,
+      "sha256": "58774edf24f7ef3f723b6a9e0663db449ba21cb9b91387bb8335967cd9404917"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/mapas_chapas/pes_6mm_chapa_01_MAPA_NAO_CORTAR.svg",
+      "bytes": 8460,
+      "sha256": "1955cd8bc563bbe51c7a28ac5f2475b32568319a4df4d551d30affd73475cad4"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/mapas_chapas/pes_6mm_chapa_02_MAPA_NAO_CORTAR.svg",
+      "bytes": 5154,
+      "sha256": "1450220136168bd44039d3a2ce35b0182b68ab79ecb81b01f927f861aeb6993e"
+    },
+    {
+      "arquivo": "05_VISUALIZACAO/materiais.mtl",
+      "bytes": 209,
+      "sha256": "392092b7f8061f74eb1b408f7461e98b9140d8d3a55ec0236d42bbc3da20dde0"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/LEIA_PRIMEIRO.md",
+      "bytes": 1816,
+      "sha256": "af78982e543ed5e6114d05486ccd540307d2eecf57d249f7164489fbb06d6c59"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/conexoes.scad",
+      "bytes": 1506,
+      "sha256": "5f00a95f9cc5ed2074d3b5718c8ec6966bfd8404c0d115ad6baa1af9c9dacc07"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/cortes.json",
+      "bytes": 17052,
+      "sha256": "7e3e4a7d840ef8908045ddbc1ced0a085d76fa6ca6e3bd68623a798db6751e01"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/diagramas.py",
+      "bytes": 4953,
+      "sha256": "71b0382f7a02eb97cea74f98feef3acb86780312a77660fdc97bc8415fa04b9a"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/exportar_documentos.py",
+      "bytes": 10992,
+      "sha256": "937317e761426e92ec377cf15d04bcd799ec565225c3f444ff2b6426f079e1ab"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/gerar_cortes.py",
+      "bytes": 8541,
+      "sha256": "6803c2a9d55b9eca81773d33c52c90f87821f0a38650741bb1ff3ceb7dd5b941"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/inventario_impressao.json",
+      "bytes": 6813,
+      "sha256": "f098a7e21d28488a79c8e1dad446b98fb45a9aa3b32563aa5e7abf9e6fd753d8"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas.py",
+      "bytes": 1372,
+      "sha256": "497ed39e01b0ba2f13ac87758379fa77709e4a9a58d5e18d2d538a38627a8d6d"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/B01.scad",
+      "bytes": 591,
+      "sha256": "8c2faaa608c57a886aab76304eebc2e30f15838eea6175210d3e59ad3401f0e3"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/B01.stl",
+      "bytes": 369941,
+      "sha256": "119264fdf1b63222a3d9c66bb1aaf3ce42ccb7d893f756ec0d8a2c2e5085ddf9"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/B02.scad",
+      "bytes": 419,
+      "sha256": "12f4ea60b5e72c3cb2ab46de4ca05cfd8b0feae7bc07c1652328a4f83376267f"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/B02.stl",
+      "bytes": 246176,
+      "sha256": "0135fd218b48342662ade40f30872123afd76776454e6038fc08aefe224a42a4"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/B03.scad",
+      "bytes": 164,
+      "sha256": "c145d77c02a75d5ba56b7a3301c6ac99eed4790e638ff8a2430b5379f2f1a17c"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/B03.stl",
+      "bytes": 61762,
+      "sha256": "efac5b08a05203e8abe6e36e552719c42092f2d8613d4e4c5a26139ec09e81f2"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/M01.scad",
+      "bytes": 83,
+      "sha256": "1de1a51b8002c5d751d01b596faee72bea85c1bd18f9528edff6b3ed45eebf36"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/M01.stl",
+      "bytes": 1517,
+      "sha256": "df4f4560d2d672a08d03f149a7a2ee89bb40252cc512919003934ca58ef2b230"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/M02.scad",
+      "bytes": 83,
+      "sha256": "92c2c23b31b262dc49370a316d497031dada99ec6c758719e61ba61849c489f3"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/M02.stl",
+      "bytes": 1517,
+      "sha256": "b972171dcc9e38d6914f7238743bc43bec24d4b54bfb00fdd6fd8581bac72784"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/M03.scad",
+      "bytes": 83,
+      "sha256": "1de1a51b8002c5d751d01b596faee72bea85c1bd18f9528edff6b3ed45eebf36"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/M03.stl",
+      "bytes": 1517,
+      "sha256": "df4f4560d2d672a08d03f149a7a2ee89bb40252cc512919003934ca58ef2b230"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/M04.scad",
+      "bytes": 83,
+      "sha256": "92c2c23b31b262dc49370a316d497031dada99ec6c758719e61ba61849c489f3"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/M04.stl",
+      "bytes": 1517,
+      "sha256": "b972171dcc9e38d6914f7238743bc43bec24d4b54bfb00fdd6fd8581bac72784"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/M13.scad",
+      "bytes": 345,
+      "sha256": "227c31cd84515086db260ee8e2afd4f8ee711d53d29c2d88bb7cc87be2da2e26"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/M13.stl",
+      "bytes": 10249,
+      "sha256": "b4f87ab5fda13d373cb8b0a9348b22b086d31e265f1e1996240b9a1a39403eac"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/M19.scad",
+      "bytes": 345,
+      "sha256": "57268c34642df728a7bc8788067d6252b981502f7b5959a62067354d58d65d1c"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/M19.stl",
+      "bytes": 10248,
+      "sha256": "dd16cea0e5123dfbf2a79e8bf8eecd5b3d8616910678464797623509c0a7ebfe"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/M23.scad",
+      "bytes": 293,
+      "sha256": "e0e88a07b4b69e280e9b2327b631ec078e977aaccbb0454672e9e204d0c66659"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/malhas_MDF_REFERENCIA/M23.stl",
+      "bytes": 9964,
+      "sha256": "8950dad8205667017d53100f55380bb7c48554a13cbee4000bd4210229a1b28d"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/moldura_corrigida.scad",
+      "bytes": 265,
+      "sha256": "94000a12ff579cfee04e80469a9324d187c7b344b58687ebbc3a6812f8fc47d3"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem.json",
+      "bytes": 25465,
+      "sha256": "8f3a5d86e0853ef50cd49defa8c0d218c8c8b0174d8bf436c6feb185944dfb6f"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/U01.stl",
+      "bytes": 2484,
+      "sha256": "c805ff6f332c855613f720cf0e12ac0ece5f346dd937a70dddf2cc21eb4f379d"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/U02.stl",
+      "bytes": 2484,
+      "sha256": "e65a346dac1d8456aa0f147d5451ae8f6052d3623a9745225404a34bbced9d4a"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/acrilico.stl",
+      "bytes": 684,
+      "sha256": "c2e405f8cc679471337fe0ac03e01849f28b31aa14d95f328a5ff964fcb56cae"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/asa_A.stl",
+      "bytes": 66684,
+      "sha256": "a740c214e117ed64c1e4ecfcdf5b2665e2b86c22a98225e926d5705f89629c9b"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/asa_A_angulo_-15.stl",
+      "bytes": 66684,
+      "sha256": "5d6dcd36bbd3b0d364778b84fb04ccdd67a112a9e20434a643b42c0d71ffa640"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/asa_A_angulo_-20.stl",
+      "bytes": 66684,
+      "sha256": "4cb0c26e70a6f500c6f946ddf3b3ee3b036a619f6d0cddfd54dee0df8e9a3312"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/asa_A_angulo_0.stl",
+      "bytes": 66684,
+      "sha256": "a93786da171e56988d42cd9f853c12f87542dfb01eafac69ba9527119e37b7e2"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/asa_A_angulo_15.stl",
+      "bytes": 66684,
+      "sha256": "e2d6278542f68bd977a9f015345be7c51bb8c1263bfac585bfb389f554b7e292"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/asa_A_angulo_20.stl",
+      "bytes": 66684,
+      "sha256": "910d54d63043f498ef2bfc1cc44fb358cd29f3b7e3eab01ce3ec66fc70f01181"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/asa_B_angulo_-15.stl",
+      "bytes": 71484,
+      "sha256": "1542657420a658a03e7d6a89d9a56ee3aa22a498be6290fc810980e0b0800b46"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/asa_B_angulo_-20.stl",
+      "bytes": 71484,
+      "sha256": "f0447bb5a8647fc91cb66bb957cdd132e4811dda62bcb08b3d074db7c5e8fd4f"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/asa_B_angulo_0.stl",
+      "bytes": 71484,
+      "sha256": "45f4640b4f645364792e808b818f6cb3fdaca67a2138556ecc8003c84166c351"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/asa_B_angulo_15.stl",
+      "bytes": 71484,
+      "sha256": "e504c7941212ab0178d7216879915624bb1cfe69ea2c6f36fd3f7502ea2f8340"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/asa_B_angulo_20.stl",
+      "bytes": 71484,
+      "sha256": "b878c947fbe93c450554c4923b5543ac17523423722676b10f6cc3998834ef3a"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/base_celula.stl",
+      "bytes": 87684,
+      "sha256": "f0d4dc2c2945e6ac3b53684d42a2e116c8006a6a07a4d0eba3ff8b61494fbb5e"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/base_entrada.stl",
+      "bytes": 118284,
+      "sha256": "5dea7ab53a33ac2ab7e2f193818e8fa3784af26a6aab6b30578c795f9a6dd11d"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/base_saida.stl",
+      "bytes": 79084,
+      "sha256": "3869a50395465d34a1f0dfa7ee5a7910e519cf146abf766884e21d0f643a0417"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/camara.stl",
+      "bytes": 110284,
+      "sha256": "f8c8f552963021fcfa313ebb62e638d23909050b919988e7d3c3ed5c3580a57e"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/celula.stl",
+      "bytes": 40884,
+      "sha256": "a498b5ecbb861b17b4b1c7350be55a6da7e222b863b1e8c5cff58b6d63dea90c"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/colmeia.stl",
+      "bytes": 197484,
+      "sha256": "0718e39792f3fddd103dd584026971d60c5bf339a7515ee1e7f4ef3f79a3aec6"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/entrada_lateral_frente.stl",
+      "bytes": 684,
+      "sha256": "d64d507806d102ba6d71c7fe2dd618ec1084590aae4578d2a48d14fb47d2976a"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/entrada_lateral_fundo.stl",
+      "bytes": 684,
+      "sha256": "cb07b84d89b3c33dfd5cb05d851a185c35c6857fb337ab6cc24e6f190247ebc2"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/entrada_piso.stl",
+      "bytes": 684,
+      "sha256": "e4e2f800213b7bb42aac91f09a6d9fc8550bfca3eb55803eb53c258393c28406"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/entrada_teto.stl",
+      "bytes": 684,
+      "sha256": "d913c5ed8f92af2b4bb2a958bfeac583fcf33e5e7dbbf05ba91f018ec6f59954"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/esp_presilha_240_-1.stl",
+      "bytes": 33684,
+      "sha256": "b84e948a66e14e1aa025159fa70e9cd9abe5cc45404a3891727fd2792fd10ee6"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/esp_presilha_240_1.stl",
+      "bytes": 33684,
+      "sha256": "06f138ffbe8d3fb0361b869eae1a4b9695d5f0ea950d529d37706589052ec278"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/esp_presilha_300_-1.stl",
+      "bytes": 33684,
+      "sha256": "36d2455a0fe967919b9b716a8c92fed25a1f537327dc6af12a6147e2517e7182"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/esp_presilha_300_1.stl",
+      "bytes": 33684,
+      "sha256": "7bffe80b6505d1ca7023eab88c42c20a6c24571abeb2854bf97a984c0294d8d3"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/esp_presilha_360_-1.stl",
+      "bytes": 33684,
+      "sha256": "9620a43c0e6431f9e9cef88575b58c1f384ae8ab76848adbf2a7450ea68d4586"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/esp_presilha_360_1.stl",
+      "bytes": 33684,
+      "sha256": "54ea37379902940a15006ca29981edfbbbf239a91e5f151b63c78c11e4b78f2b"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/espacador_celula.stl",
+      "bytes": 18084,
+      "sha256": "17c85f1f3bd0a79fd9dbef3b4873a2760827a27202e98b51bc6ebf18fb281935"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/espacador_regulador.stl",
+      "bytes": 69684,
+      "sha256": "4c6ae1a57333c676553695d84b4597c330ef26c9d33694ca527839f31318f33e"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/grade.stl",
+      "bytes": 326284,
+      "sha256": "4f7d28f5c03dce5bebf6d6871bafec337316638f0fc0b8ea55e693874adbacc5"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/ligacao.stl",
+      "bytes": 4884,
+      "sha256": "b41eb4eecf754c46357be29f1314644e368507b4650b8e2519736f424549459b"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/moldura.stl",
+      "bytes": 109284,
+      "sha256": "5866e91dd24c562a8b89d06d9e5f7182cd1ab7183747e8663fe62e7a2651c74c"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/parte_1.stl",
+      "bytes": 322684,
+      "sha256": "297354ee2627023fe6aa67d89a58aba383ee1cb861b6f1f1e6cdd10f71720dea"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/parte_2.stl",
+      "bytes": 631484,
+      "sha256": "e5adea8f73fd82fd4a4ff21ec809aae44900743d7e39f35f6bb6d7cbf6d9b836"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/parte_3.stl",
+      "bytes": 523384,
+      "sha256": "ccbb5d436e2d3453c8f14dd7dce149633eeb87e44c69083cd3db0c5b7eeafa12"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/parte_4.stl",
+      "bytes": 98084,
+      "sha256": "6abf2aae4025d8cd67a67de8feab773f55c6c9f852aff653049fa5b24298e6e3"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/parte_5.stl",
+      "bytes": 196084,
+      "sha256": "6af220c07287105d30343e4815e9bae14526db185e979c88f1a26c7d23a7040b"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_150_lamina_1.stl",
+      "bytes": 4084,
+      "sha256": "45b6483645fa55dc9368b4d6506c809ef113d0b60353c05bc9ab54326f6ce809"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_150_lamina_2.stl",
+      "bytes": 4084,
+      "sha256": "5798ad94a09b10d998e9e0be2097b05a0165e5fd6e9b4e2922dc8a22a56f270c"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_150_lamina_3.stl",
+      "bytes": 4084,
+      "sha256": "a41dce01a4564fd7a22681ab0e4320d96b45544d35b887b955552f4136fab3c4"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_150_lamina_4.stl",
+      "bytes": 4084,
+      "sha256": "b3afe2d758657d983be3d0fc2c4d4493a9aa39cbfda9d3973e3c9a7671ce9b6f"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_25_lamina_1.stl",
+      "bytes": 4084,
+      "sha256": "161308b1f8237d26188c099ac63630f4931f713de225616f1e1f9b85adea5da5"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_25_lamina_2.stl",
+      "bytes": 4084,
+      "sha256": "e9f476376f3f2d3a8086114f80a6d53f3a0f194223e3006f991e560185463483"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_25_lamina_3.stl",
+      "bytes": 4084,
+      "sha256": "a724b4590c1e247b9eeb978d11995e86343454bf5ec627e2561262d9432fc3de"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_25_lamina_4.stl",
+      "bytes": 4084,
+      "sha256": "eefa80fb9b01e96fe702326fbf4d103273aec51c10b23825b457f37dc4c026bb"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_350_lamina_1.stl",
+      "bytes": 4084,
+      "sha256": "7e2626106d156fc8bbf13c5081f1d08fe139dc2af0b653a392489ede0c738d72"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_350_lamina_2.stl",
+      "bytes": 4084,
+      "sha256": "fc47c472bf1e2a5806f5f97a5c468b6b7146c58e97d741a0582b2e6e9febec03"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_350_lamina_3.stl",
+      "bytes": 4084,
+      "sha256": "e5a08e931cec209ab89be45633f5f3dd54228c5dc051695d566006fb7acb454f"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_350_lamina_4.stl",
+      "bytes": 4084,
+      "sha256": "3b8b8bb8e932f071a7cd4de5fd971826a98e72901296be54f399a558f429112b"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_450_lamina_1.stl",
+      "bytes": 4084,
+      "sha256": "447e158d703b7b56f84014fef44a61c3682ac1e0ee39e0f701fcd2684edc35ff"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_450_lamina_2.stl",
+      "bytes": 4084,
+      "sha256": "9f31c172c3f51ebdf7734a9c6b1a86b3a395b5ea8c20a2956a6909550486878e"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_450_lamina_3.stl",
+      "bytes": 4084,
+      "sha256": "e709ad587467b0b0d9548f93587a8b5bcada79c0db8905a09179abc2734ba484"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_450_lamina_4.stl",
+      "bytes": 4084,
+      "sha256": "87e5c588ec54d94260ec2ae24d7d3f2748172ee2fd817d4211b3d8c6647e8c9b"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_550_lamina_1.stl",
+      "bytes": 4084,
+      "sha256": "e75ff5b215e201398396f3f999094115ce5419a41d1502a349ee625836a6f04c"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_550_lamina_2.stl",
+      "bytes": 4084,
+      "sha256": "244242b5cf37a4a912a9785cf367dac17c2d90d3472f80b49812a75d5bc5960c"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_550_lamina_3.stl",
+      "bytes": 4084,
+      "sha256": "b9cde342a91507537baf64efa86d5f96776b6c0fdb8bcb399f1a5e9ecc3c897b"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_550_lamina_4.stl",
+      "bytes": 4084,
+      "sha256": "0436cbdd16573d45d1c91f3b59c2fe877f5b3483e9fb19d9a831b2a501982237"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_695_lamina_1.stl",
+      "bytes": 4084,
+      "sha256": "70f7b2dd5be28483c2d7e5ad4b625530f929a32add583932f98d2fbe0e807d9b"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_695_lamina_2.stl",
+      "bytes": 4084,
+      "sha256": "312f3e3cb7ff563b62fb8109ad664659404f0152447e26621fd0006723184271"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_695_lamina_3.stl",
+      "bytes": 4084,
+      "sha256": "ac15c42ee50ce4b203843dd4eea35e7487e6dd7e1228e133fd1e3daf6da35165"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/pe_695_lamina_4.stl",
+      "bytes": 4084,
+      "sha256": "32bb1e17ae38ba973b1a203b23c55ca7f9658926a569374bdcb14f987d311609"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/presilha_240_-1.stl",
+      "bytes": 34084,
+      "sha256": "c79653ac559536a931ceaf93bf2cb2ad59f5b1adce9cca827e6c69763ea0311c"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/presilha_240_1.stl",
+      "bytes": 34084,
+      "sha256": "225b74233e1a7e32bcfae5cde75a79afd7a834ea462aeda324be75a4f3203b37"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/presilha_300_-1.stl",
+      "bytes": 34084,
+      "sha256": "12c2119ec23647cf9d58f165987be8e6d46fb6f4540df56a28d593f55c48612f"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/presilha_300_1.stl",
+      "bytes": 34084,
+      "sha256": "285b744a565dcc43e6db200909d2be514610b1ee531b04e399203b6170f0726f"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/presilha_360_-1.stl",
+      "bytes": 34084,
+      "sha256": "a468fb9d0a00447313f54517e402984ac7a6befd20a963ff4cc438c6d6d2e01c"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/presilha_360_1.stl",
+      "bytes": 34084,
+      "sha256": "053bd5ee42b718001bf261afe0d6b1b2f2c09dac5c11221fbe2c1ddb61bf1896"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/saida_lateral_frente.stl",
+      "bytes": 684,
+      "sha256": "029798e666e406ad515661e47a8908431a5df581dac0ad97dc0ae37b61ec1592"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/saida_lateral_fundo.stl",
+      "bytes": 684,
+      "sha256": "2cb6bd458f9f8b8abb0fb4e3dbc4c26ff9db1aeeedd56326da3e77f57bf6fca8"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/saida_piso.stl",
+      "bytes": 684,
+      "sha256": "f7b86063068506bece63f73064ac28c81ce7c6b29fec33b07f6b0334369d6792"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/saida_teto.stl",
+      "bytes": 684,
+      "sha256": "7b33a615cd5b83b991f689868370eda6af6ce9677055308272e7711b58fb86c6"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/suporte_asa.stl",
+      "bytes": 77684,
+      "sha256": "0574cf9b753bb57515d97d818c5cceb3ff2c9a8857dfbada337c260e50f5993d"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/tala_-80.stl",
+      "bytes": 20284,
+      "sha256": "026bb6b399af88f861b8798567472a10c9588cd748e8c3fcbb00153c0cfdf15f"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/tala_80.stl",
+      "bytes": 20284,
+      "sha256": "2281f98b4e228f72c760090613a18cf9398fa2857ffe443cfcd865bc8aa6c23e"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montagem_REFERENCIA/ventoinha.stl",
+      "bytes": 49884,
+      "sha256": "6a415a9743d319659ff770708a3edc46dec6a3990c773179221b91b2c6896b63"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/montar_conjunto.py",
+      "bytes": 6284,
+      "sha256": "437d4a0f19689c2ce86bc1d7ee8a92153ec81ce2d0f27b927623291d72a78a54"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/referencias/04_moldura_janela_removivel.stl",
+      "bytes": 108484,
+      "sha256": "29a64d9389fc73267525b2f217f84435f55215adde65ab5fae3e246a5e07456d"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/referencias/originais_sha256.json",
+      "bytes": 1366,
+      "sha256": "e5dacdc6cdf00d14bad90156568f16b2d6eff2fc0ccde76bd67ee96b42eeddd2"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/regenerar_referencias.py",
+      "bytes": 1616,
+      "sha256": "a63c5047ee2e074615053cd2a4d6d6e00a53fc14fee3b995fc9d67b4ab0e573a"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/relatorio_verificacao.json",
+      "bytes": 26259,
+      "sha256": "06b32379ed94f83acc3c53fd0548dfc221f5387be19bed9e1b99e3b9ea5b1bfe"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/verificacao_visualizador.json",
+      "bytes": 289,
+      "sha256": "4fe048e8de062251bab8b43c81622c821ab44f56ff386eecab0e392ce7e8be7a"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/verificar_conjunto.py",
+      "bytes": 7322,
+      "sha256": "7ddd027674d872dd93fb37e9781cdf521e21eeade8c1b328b03dc1f0a3662b75"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/visualizador_template.html",
+      "bytes": 6467,
+      "sha256": "ce37f9f644a659ea789bd8b0c9298b89c02c3b172eb8b2f7b49d4f452a0938a6"
+    },
+    {
+      "arquivo": "06_CAD_VALIDACAO/visualizar.py",
+      "bytes": 7326,
+      "sha256": "2f652aa3823ec42277edee3bf5239042b13fbf7992eb3b0b8bf0d3aef31bcab1"
+    },
+    {
+      "arquivo": "LEIA_PRIMEIRO.md",
+      "bytes": 3180,
+      "sha256": "e4bf6db5aea5353844e76e1ed62acca946b9d2aa31e2e37e155efbfd0a0f6bd0"
+    }
+  ]
+}

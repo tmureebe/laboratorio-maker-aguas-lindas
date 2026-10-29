@@ -1,0 +1,11 @@
+﻿identificacao;quantidade;largura_mm;altura_mm;espessura_mm;origem
+C0_BASE;1;500.0;380.0;3.0;Painel separado 500x380
+C1_TAMPO_LISO;1;500.0;380.0;3.0;Painel separado 500x380
+C2_FRENTE;1;494.0;44.0;3.0;Chapa adicional 600x400
+C3_TRAS_USB;1;494;44;3.0;Chapa adicional 600x400
+C4_ESQUERDA;1;380.0;44.0;3.0;Chapa adicional 600x400
+C5_DIREITA;1;380.0;44.0;3.0;Chapa adicional 600x400
+C6_NX1;1;494.0;30;3.0;Chapa adicional 600x400
+C7_NX2;1;494.0;30;3.0;Chapa adicional 600x400
+C8_NY;1;374.0;30;3.0;Chapa adicional 600x400
+TACO_MADEIRA;8;20;20;44;"Madeira maciça; corte fora do laser"

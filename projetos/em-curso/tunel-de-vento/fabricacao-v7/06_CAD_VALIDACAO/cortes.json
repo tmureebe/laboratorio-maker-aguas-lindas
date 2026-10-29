@@ -1,0 +1,1097 @@
+{
+  "revisao": "V7",
+  "parede_mm": 3,
+  "apoio_mm": 6,
+  "folga_mm": 0.4,
+  "pecas": [
+    {
+      "id": "M01",
+      "titulo": "Teto/piso do módulo de entrada 200 mm",
+      "espessura_mm": 3,
+      "quantidade": 2,
+      "contorno": [
+        [
+          0,
+          0
+        ],
+        [
+          200,
+          0
+        ],
+        [
+          200,
+          126
+        ],
+        [
+          0,
+          126
+        ]
+      ],
+      "furos": [],
+      "nota": "",
+      "dimensoes_mm": [
+        200,
+        126
+      ]
+    },
+    {
+      "id": "M02",
+      "titulo": "Lateral da entrada 200 mm",
+      "espessura_mm": 3,
+      "quantidade": 2,
+      "contorno": [
+        [
+          0,
+          0
+        ],
+        [
+          200,
+          0
+        ],
+        [
+          200,
+          120
+        ],
+        [
+          0,
+          120
+        ]
+      ],
+      "furos": [],
+      "nota": "",
+      "dimensoes_mm": [
+        200,
+        120
+      ]
+    },
+    {
+      "id": "M03",
+      "titulo": "Teto/piso do módulo de saída 200 mm",
+      "espessura_mm": 3,
+      "quantidade": 2,
+      "contorno": [
+        [
+          0,
+          0
+        ],
+        [
+          200,
+          0
+        ],
+        [
+          200,
+          126
+        ],
+        [
+          0,
+          126
+        ]
+      ],
+      "furos": [],
+      "nota": "",
+      "dimensoes_mm": [
+        200,
+        126
+      ]
+    },
+    {
+      "id": "M04",
+      "titulo": "Lateral da saída 200 mm",
+      "espessura_mm": 3,
+      "quantidade": 2,
+      "contorno": [
+        [
+          0,
+          0
+        ],
+        [
+          200,
+          0
+        ],
+        [
+          200,
+          120
+        ],
+        [
+          0,
+          120
+        ]
+      ],
+      "furos": [],
+      "nota": "",
+      "dimensoes_mm": [
+        200,
+        120
+      ]
+    },
+    {
+      "id": "M13",
+      "titulo": "Lâmina do pé dos dutos (4 pés, 4 lâminas/pé)",
+      "espessura_mm": 6,
+      "quantidade": 16,
+      "contorno": [
+        [
+          0.0,
+          0
+        ],
+        [
+          160.0,
+          0
+        ],
+        [
+          160.0,
+          6
+        ],
+        [
+          144.0,
+          6
+        ],
+        [
+          144.0,
+          53.4
+        ],
+        [
+          150.0,
+          53.4
+        ],
+        [
+          150.0,
+          63.4
+        ],
+        [
+          143.2,
+          63.4
+        ],
+        [
+          143.2,
+          59.4
+        ],
+        [
+          16.799999999999997,
+          59.4
+        ],
+        [
+          16.799999999999997,
+          63.4
+        ],
+        [
+          10.0,
+          63.4
+        ],
+        [
+          10.0,
+          53.4
+        ],
+        [
+          16.0,
+          53.4
+        ],
+        [
+          16.0,
+          6
+        ],
+        [
+          0.0,
+          6
+        ]
+      ],
+      "furos": [
+        [
+          [
+            30.0,
+            6
+          ],
+          [
+            130.0,
+            6
+          ],
+          [
+            130.0,
+            53.4
+          ],
+          [
+            30.0,
+            53.4
+          ]
+        ]
+      ],
+      "nota": "Colar quatro lâminas; espessura final 4*apoio. Furar verticalmente Ø4,5 em Y=±73, X=0 após colagem.",
+      "dimensoes_mm": [
+        160.0,
+        63.4
+      ]
+    },
+    {
+      "id": "M19",
+      "titulo": "Lâmina do pé da ventoinha (4 lâminas)",
+      "espessura_mm": 6,
+      "quantidade": 4,
+      "contorno": [
+        [
+          0.0,
+          0
+        ],
+        [
+          180.0,
+          0
+        ],
+        [
+          180.0,
+          6
+        ],
+        [
+          163.0,
+          6
+        ],
+        [
+          163.0,
+          41.4
+        ],
+        [
+          169.0,
+          41.4
+        ],
+        [
+          169.0,
+          51.4
+        ],
+        [
+          165.2,
+          51.4
+        ],
+        [
+          165.2,
+          47.4
+        ],
+        [
+          14.799999999999997,
+          47.4
+        ],
+        [
+          14.799999999999997,
+          51.4
+        ],
+        [
+          11.0,
+          51.4
+        ],
+        [
+          11.0,
+          41.4
+        ],
+        [
+          17.0,
+          41.4
+        ],
+        [
+          17.0,
+          6
+        ],
+        [
+          0.0,
+          6
+        ]
+      ],
+      "furos": [
+        [
+          [
+            31.0,
+            6
+          ],
+          [
+            149.0,
+            6
+          ],
+          [
+            149.0,
+            41.4
+          ],
+          [
+            31.0,
+            41.4
+          ]
+        ]
+      ],
+      "nota": "Colar quatro lâminas. Furar verticalmente Ø4,5 em Y=±83, X=0 após colagem.",
+      "dimensoes_mm": [
+        180.0,
+        51.4
+      ]
+    },
+    {
+      "id": "M23",
+      "titulo": "Lâmina do apoio próprio da câmara (4 lâminas)",
+      "espessura_mm": 6,
+      "quantidade": 4,
+      "contorno": [
+        [
+          0.0,
+          0
+        ],
+        [
+          160.0,
+          0
+        ],
+        [
+          160.0,
+          6
+        ],
+        [
+          144.0,
+          6
+        ],
+        [
+          144.0,
+          54
+        ],
+        [
+          150.0,
+          54
+        ],
+        [
+          150.0,
+          64
+        ],
+        [
+          142.6,
+          64
+        ],
+        [
+          142.6,
+          60
+        ],
+        [
+          17.4,
+          60
+        ],
+        [
+          17.4,
+          64
+        ],
+        [
+          10.0,
+          64
+        ],
+        [
+          10.0,
+          54
+        ],
+        [
+          16.0,
+          54
+        ],
+        [
+          16.0,
+          6
+        ],
+        [
+          0.0,
+          6
+        ]
+      ],
+      "furos": [
+        [
+          [
+            30.0,
+            6
+          ],
+          [
+            130.0,
+            6
+          ],
+          [
+            130.0,
+            54
+          ],
+          [
+            30.0,
+            54
+          ]
+        ]
+      ],
+      "nota": "Patamar 60 mm; centro X=350; furar como M13.",
+      "dimensoes_mm": [
+        160.0,
+        64
+      ]
+    },
+    {
+      "id": "B01",
+      "titulo": "Base opcional: metade da entrada",
+      "espessura_mm": 6,
+      "quantidade": 1,
+      "contorno": [
+        [
+          0,
+          0
+        ],
+        [
+          375,
+          0
+        ],
+        [
+          375,
+          220
+        ],
+        [
+          0,
+          220
+        ]
+      ],
+      "furos": [
+        [
+          25,
+          37,
+          2.25
+        ],
+        [
+          25,
+          183,
+          2.25
+        ],
+        [
+          150,
+          37,
+          2.25
+        ],
+        [
+          150,
+          183,
+          2.25
+        ],
+        [
+          220,
+          88,
+          2.25
+        ],
+        [
+          220,
+          132,
+          2.25
+        ],
+        [
+          261,
+          88,
+          2.25
+        ],
+        [
+          261,
+          132,
+          2.25
+        ],
+        [
+          325,
+          30,
+          2.25
+        ],
+        [
+          325,
+          190,
+          2.25
+        ],
+        [
+          350,
+          37,
+          2.25
+        ],
+        [
+          350,
+          183,
+          2.25
+        ]
+      ],
+      "nota": "",
+      "dimensoes_mm": [
+        375,
+        220
+      ]
+    },
+    {
+      "id": "B02",
+      "titulo": "Base opcional: metade da saída",
+      "espessura_mm": 6,
+      "quantidade": 1,
+      "contorno": [
+        [
+          0,
+          0
+        ],
+        [
+          375,
+          0
+        ],
+        [
+          375,
+          220
+        ],
+        [
+          0,
+          220
+        ]
+      ],
+      "furos": [
+        [
+          75,
+          37,
+          2.25
+        ],
+        [
+          75,
+          183,
+          2.25
+        ],
+        [
+          175,
+          37,
+          2.25
+        ],
+        [
+          175,
+          183,
+          2.25
+        ],
+        [
+          320,
+          27,
+          2.25
+        ],
+        [
+          320,
+          193,
+          2.25
+        ],
+        [
+          50,
+          30,
+          2.25
+        ],
+        [
+          50,
+          190,
+          2.25
+        ]
+      ],
+      "nota": "",
+      "dimensoes_mm": [
+        375,
+        220
+      ]
+    },
+    {
+      "id": "B03",
+      "titulo": "Tala inferior da base opcional",
+      "espessura_mm": 6,
+      "quantidade": 2,
+      "contorno": [
+        [
+          0,
+          0
+        ],
+        [
+          200,
+          0
+        ],
+        [
+          200,
+          40
+        ],
+        [
+          0,
+          40
+        ]
+      ],
+      "furos": [
+        [
+          50,
+          20,
+          2.25
+        ],
+        [
+          150,
+          20,
+          2.25
+        ]
+      ],
+      "nota": "",
+      "dimensoes_mm": [
+        200,
+        40
+      ]
+    },
+    {
+      "id": "G13",
+      "titulo": "Gabarito para furar verticalmente os pés dos dutos",
+      "espessura_mm": 3,
+      "quantidade": 1,
+      "contorno": [
+        [
+          0,
+          0
+        ],
+        [
+          24,
+          0
+        ],
+        [
+          24,
+          160
+        ],
+        [
+          0,
+          160
+        ]
+      ],
+      "furos": [
+        [
+          12,
+          7,
+          2.25
+        ],
+        [
+          12,
+          153,
+          2.25
+        ]
+      ],
+      "nota": "",
+      "dimensoes_mm": [
+        24,
+        160
+      ]
+    },
+    {
+      "id": "G19",
+      "titulo": "Gabarito para furar verticalmente o pé da ventoinha",
+      "espessura_mm": 3,
+      "quantidade": 1,
+      "contorno": [
+        [
+          0,
+          0
+        ],
+        [
+          24,
+          0
+        ],
+        [
+          24,
+          180
+        ],
+        [
+          0,
+          180
+        ]
+      ],
+      "furos": [
+        [
+          12,
+          7,
+          2.25
+        ],
+        [
+          12,
+          173,
+          2.25
+        ]
+      ],
+      "nota": "",
+      "dimensoes_mm": [
+        24,
+        180
+      ]
+    },
+    {
+      "id": "T01",
+      "titulo": "Cupom: piso/teto para montar tubo curto",
+      "espessura_mm": 3,
+      "quantidade": 2,
+      "contorno": [
+        [
+          0,
+          0
+        ],
+        [
+          20,
+          0
+        ],
+        [
+          20,
+          126
+        ],
+        [
+          0,
+          126
+        ]
+      ],
+      "furos": [],
+      "nota": "",
+      "dimensoes_mm": [
+        20,
+        126
+      ]
+    },
+    {
+      "id": "T02",
+      "titulo": "Cupom: lateral para montar tubo curto",
+      "espessura_mm": 3,
+      "quantidade": 2,
+      "contorno": [
+        [
+          0,
+          0
+        ],
+        [
+          20,
+          0
+        ],
+        [
+          20,
+          120
+        ],
+        [
+          0,
+          120
+        ]
+      ],
+      "furos": [],
+      "nota": "",
+      "dimensoes_mm": [
+        20,
+        120
+      ]
+    },
+    {
+      "id": "T03",
+      "titulo": "Cupom para medir kerf e testar furo M4",
+      "espessura_mm": 3,
+      "quantidade": 1,
+      "contorno": [
+        [
+          0,
+          0
+        ],
+        [
+          50,
+          0
+        ],
+        [
+          50,
+          30
+        ],
+        [
+          0,
+          30
+        ]
+      ],
+      "furos": [
+        [
+          [
+            5,
+            5
+          ],
+          [
+            15,
+            5
+          ],
+          [
+            15,
+            15
+          ],
+          [
+            5,
+            15
+          ]
+        ],
+        [
+          30,
+          15,
+          2.25
+        ]
+      ],
+      "nota": "Guardar quadrado interno de 10 mm. Kerf aproximado=(abertura-quadrado)/2.",
+      "dimensoes_mm": [
+        50,
+        30
+      ]
+    }
+  ],
+  "chapas": [
+    {
+      "caminho": "02_CORTE_LASER/MDF_3mm/dutos/dutos_3mm_chapa_01",
+      "arquivo": "dutos_3mm_chapa_01",
+      "grupo": "dutos",
+      "espessura_mm": 3,
+      "pecas": [
+        {
+          "id": "G19",
+          "x": 5.0,
+          "y": 5.0
+        },
+        {
+          "id": "G13",
+          "x": 34.0,
+          "y": 5.0
+        },
+        {
+          "id": "M01",
+          "x": 63.0,
+          "y": 5.0
+        },
+        {
+          "id": "M01",
+          "x": 268.0,
+          "y": 5.0
+        },
+        {
+          "id": "M03",
+          "x": 5.0,
+          "y": 190.0
+        },
+        {
+          "id": "M03",
+          "x": 210.0,
+          "y": 190.0
+        }
+      ]
+    },
+    {
+      "caminho": "02_CORTE_LASER/MDF_3mm/dutos/dutos_3mm_chapa_02",
+      "arquivo": "dutos_3mm_chapa_02",
+      "grupo": "dutos",
+      "espessura_mm": 3,
+      "pecas": [
+        {
+          "id": "M02",
+          "x": 5.0,
+          "y": 5.0
+        },
+        {
+          "id": "M02",
+          "x": 210.0,
+          "y": 5.0
+        },
+        {
+          "id": "M04",
+          "x": 5.0,
+          "y": 130.0
+        },
+        {
+          "id": "M04",
+          "x": 210.0,
+          "y": 130.0
+        }
+      ]
+    },
+    {
+      "caminho": "02_CORTE_LASER/MDF_6mm/pes/pes_6mm_chapa_01",
+      "arquivo": "pes_6mm_chapa_01",
+      "grupo": "pes",
+      "espessura_mm": 6,
+      "pecas": [
+        {
+          "id": "M23",
+          "x": 5.0,
+          "y": 5.0
+        },
+        {
+          "id": "M23",
+          "x": 170.0,
+          "y": 5.0
+        },
+        {
+          "id": "M23",
+          "x": 335.0,
+          "y": 5.0
+        },
+        {
+          "id": "M23",
+          "x": 5.0,
+          "y": 74.0
+        },
+        {
+          "id": "M13",
+          "x": 170.0,
+          "y": 74.0
+        },
+        {
+          "id": "M13",
+          "x": 335.0,
+          "y": 74.0
+        },
+        {
+          "id": "M13",
+          "x": 5.0,
+          "y": 143.0
+        },
+        {
+          "id": "M13",
+          "x": 170.0,
+          "y": 143.0
+        },
+        {
+          "id": "M13",
+          "x": 335.0,
+          "y": 143.0
+        },
+        {
+          "id": "M13",
+          "x": 5.0,
+          "y": 211.4
+        },
+        {
+          "id": "M13",
+          "x": 170.0,
+          "y": 211.4
+        },
+        {
+          "id": "M13",
+          "x": 335.0,
+          "y": 211.4
+        },
+        {
+          "id": "M13",
+          "x": 5.0,
+          "y": 279.8
+        },
+        {
+          "id": "M13",
+          "x": 170.0,
+          "y": 279.8
+        },
+        {
+          "id": "M13",
+          "x": 335.0,
+          "y": 279.8
+        }
+      ]
+    },
+    {
+      "caminho": "02_CORTE_LASER/MDF_6mm/pes/pes_6mm_chapa_02",
+      "arquivo": "pes_6mm_chapa_02",
+      "grupo": "pes",
+      "espessura_mm": 6,
+      "pecas": [
+        {
+          "id": "M13",
+          "x": 5.0,
+          "y": 5.0
+        },
+        {
+          "id": "M13",
+          "x": 170.0,
+          "y": 5.0
+        },
+        {
+          "id": "M13",
+          "x": 335.0,
+          "y": 5.0
+        },
+        {
+          "id": "M13",
+          "x": 5.0,
+          "y": 73.4
+        },
+        {
+          "id": "M13",
+          "x": 170.0,
+          "y": 73.4
+        },
+        {
+          "id": "M19",
+          "x": 335.0,
+          "y": 73.4
+        },
+        {
+          "id": "M19",
+          "x": 5.0,
+          "y": 141.8
+        },
+        {
+          "id": "M19",
+          "x": 190.0,
+          "y": 141.8
+        },
+        {
+          "id": "M19",
+          "x": 375.0,
+          "y": 141.8
+        }
+      ]
+    },
+    {
+      "caminho": "02_CORTE_LASER/MDF_6mm/base_opcional/base_opcional_6mm_chapa_01",
+      "arquivo": "base_opcional_6mm_chapa_01",
+      "grupo": "base_opcional",
+      "espessura_mm": 6,
+      "pecas": [
+        {
+          "id": "B01",
+          "x": 5.0,
+          "y": 5.0
+        }
+      ]
+    },
+    {
+      "caminho": "02_CORTE_LASER/MDF_6mm/base_opcional/base_opcional_6mm_chapa_02",
+      "arquivo": "base_opcional_6mm_chapa_02",
+      "grupo": "base_opcional",
+      "espessura_mm": 6,
+      "pecas": [
+        {
+          "id": "B02",
+          "x": 5.0,
+          "y": 5.0
+        },
+        {
+          "id": "B03",
+          "x": 385.0,
+          "y": 5.0
+        },
+        {
+          "id": "B03",
+          "x": 5.0,
+          "y": 230.0
+        }
+      ]
+    },
+    {
+      "caminho": "02_CORTE_LASER/MDF_3mm/cupons/cupons_3mm_chapa_01",
+      "arquivo": "cupons_3mm_chapa_01",
+      "grupo": "cupons",
+      "espessura_mm": 3,
+      "pecas": [
+        {
+          "id": "T01",
+          "x": 5.0,
+          "y": 5.0
+        },
+        {
+          "id": "T01",
+          "x": 30.0,
+          "y": 5.0
+        },
+        {
+          "id": "T02",
+          "x": 55.0,
+          "y": 5.0
+        },
+        {
+          "id": "T02",
+          "x": 80.0,
+          "y": 5.0
+        },
+        {
+          "id": "T03",
+          "x": 105.0,
+          "y": 5.0
+        }
+      ]
+    }
+  ],
+  "mesa_mm": [
+    600,
+    400
+  ],
+  "margem_mm": 5,
+  "kerf_compensado": false
+}

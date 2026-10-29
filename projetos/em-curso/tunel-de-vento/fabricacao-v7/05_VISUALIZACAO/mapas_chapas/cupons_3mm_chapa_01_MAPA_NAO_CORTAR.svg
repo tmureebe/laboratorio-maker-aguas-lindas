@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600mm" height="400mm" viewBox="0 0 600 400">
+<title>Corte MDF V7: mm, escala 1:1, contornos nominais</title>
+<rect width="600" height="400" fill="#f7f2e6"/>
+<g id="T01" transform="translate(5.0 5.0)" fill="none" stroke="#ff0000" stroke-width="0.1">
+<polygon points="0.0000,0.0000 20.0000,0.0000 20.0000,126.0000 0.0000,126.0000"/>
+</g>
+<text x="10.0" y="17.0" font-family="sans-serif" font-size="5" fill="#334155">T01</text>
+<g id="T01" transform="translate(30.0 5.0)" fill="none" stroke="#ff0000" stroke-width="0.1">
+<polygon points="0.0000,0.0000 20.0000,0.0000 20.0000,126.0000 0.0000,126.0000"/>
+</g>
+<text x="35.0" y="17.0" font-family="sans-serif" font-size="5" fill="#334155">T01</text>
+<g id="T02" transform="translate(55.0 5.0)" fill="none" stroke="#ff0000" stroke-width="0.1">
+<polygon points="0.0000,0.0000 20.0000,0.0000 20.0000,120.0000 0.0000,120.0000"/>
+</g>
+<text x="60.0" y="17.0" font-family="sans-serif" font-size="5" fill="#334155">T02</text>
+<g id="T02" transform="translate(80.0 5.0)" fill="none" stroke="#ff0000" stroke-width="0.1">
+<polygon points="0.0000,0.0000 20.0000,0.0000 20.0000,120.0000 0.0000,120.0000"/>
+</g>
+<text x="85.0" y="17.0" font-family="sans-serif" font-size="5" fill="#334155">T02</text>
+<g id="T03" transform="translate(105.0 5.0)" fill="none" stroke="#ff0000" stroke-width="0.1">
+<polygon points="0.0000,0.0000 50.0000,0.0000 50.0000,30.0000 0.0000,30.0000"/>
+<polygon points="5.0000,5.0000 15.0000,5.0000 15.0000,15.0000 5.0000,15.0000"/>
+<circle cx="30" cy="15" r="2.25"/>
+</g>
+<text x="110.0" y="17.0" font-family="sans-serif" font-size="5" fill="#334155">T03</text>
+</svg>

@@ -1,0 +1,47 @@
+[
+  {
+    "arquivo": "parte_1.stl",
+    "sha256": "6a8ea26dc39e827a2acfc522b075b2898042b3208b4509481a88f68bdcd87cb4",
+    "triangulos": 6452,
+    "arestas_abertas": 0,
+    "arestas_nao_manifold": 0,
+    "triangulos_degenerados": 0,
+    "volume_assinado_mm3": 149843.862
+  },
+  {
+    "arquivo": "parte_2.stl",
+    "sha256": "1f9d17c99879380e2da6c74af2802b95c26beaaa7695258928ded4ea786f8909",
+    "triangulos": 12628,
+    "arestas_abertas": 0,
+    "arestas_nao_manifold": 0,
+    "triangulos_degenerados": 0,
+    "volume_assinado_mm3": 147675.468
+  },
+  {
+    "arquivo": "parte_3.stl",
+    "sha256": "8952780fed6aaad17df8b54d089321f0f81ee86dd95866822c8e9fd67783f543",
+    "triangulos": 10466,
+    "arestas_abertas": 0,
+    "arestas_nao_manifold": 0,
+    "triangulos_degenerados": 0,
+    "volume_assinado_mm3": 25586.817
+  },
+  {
+    "arquivo": "parte_4.stl",
+    "sha256": "39d59752db9088ba641a8fb6d3219e05eba0b4a3f33d1c5b1a054a7263204035",
+    "triangulos": 1960,
+    "arestas_abertas": 0,
+    "arestas_nao_manifold": 0,
+    "triangulos_degenerados": 0,
+    "volume_assinado_mm3": 2007.732
+  },
+  {
+    "arquivo": "parte_5.stl",
+    "sha256": "21740a4e1333ba28e6b63d400534ac9e4e941d78b648f162cb6b22905c7a0986",
+    "triangulos": 3920,
+    "arestas_abertas": 0,
+    "arestas_nao_manifold": 0,
+    "triangulos_degenerados": 0,
+    "volume_assinado_mm3": 125458.728
+  }
+]

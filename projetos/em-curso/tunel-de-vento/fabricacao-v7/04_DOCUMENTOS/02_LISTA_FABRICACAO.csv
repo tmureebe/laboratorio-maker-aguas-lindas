@@ -1,0 +1,47 @@
+﻿tipo;arquivo_ou_id;quantidade;material;observacao
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/03_camara_aberta_200mm.stl;1;PLA;Câmara de medição
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/07_colmeia_canais_46mm.stl;1;PLA;Colmeia de entrada
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/11_presilha_janela.stl;6;PLA;Presilhas giratórias da tampa
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/12_espacador_presilha_3p5mm.stl;6;PLA;Espaçadores das presilhas
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/09_grade_compativel_partes1e2.stl;1;PLA;Grade da ventoinha
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/20_espacador_regulador_8mm.stl;1;PLA;Espaçador do regulador
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/14_base_celula_85mm.stl;1;PLA;Base fixa da célula
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/15_espacador_ponta_livre.stl;1;PLA;Espaçador da célula
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/16_suporte_asa_hastes_integradas.stl;1;PLA;Suporte móvel da asa
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/17_asa_A_simetrica.stl;1;PLA;Asa A padrão
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/parte_1.stl;1;PLA;"Peça recebida preservada; reutilizar se já fabricada"
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/parte_2.stl;1;PLA;"Peça recebida preservada; reutilizar se já fabricada"
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/parte_3.stl;1;PLA;"Peça recebida preservada; reutilizar se já fabricada"
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/parte_4.stl;1;PLA;"Peça recebida preservada; reutilizar se já fabricada"
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/parte_5.stl;1;PLA;"Peça recebida preservada; reutilizar se já fabricada"
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/08_ligacao_MDF_parte5_126p2.stl;1;PLA;Conexão híbrida
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/U01_uniao_entrada_MDF_camara.stl;1;PLA;Conexão híbrida
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/U02_uniao_camara_saida_MDF.stl;1;PLA;Conexão híbrida
+impressao_padrao;01_IMPRESSAO_3D/01_pecas_finais/04_moldura_V7_passagem_120mm.stl;1;PLA;Moldura corrigida: teto interno a Z=182,4
+alternativa;01_IMPRESSAO_3D/02_alternativas_escolher_uma/18_asa_B_curvada.stl;1;PLA;Asa B alternativa
+alternativa;01_IMPRESSAO_3D/02_alternativas_escolher_uma/08_ligacao_MDF_parte5_125p8_ALTERNATIVA.stl;1;PLA;Conexão híbrida
+alternativa;01_IMPRESSAO_3D/02_alternativas_escolher_uma/08_ligacao_MDF_parte5_126p0_ALTERNATIVA.stl;1;PLA;Conexão híbrida
+teste;01_IMPRESSAO_3D/03_testes_antes_do_lote/T08_cupom_luva_MDF.stl;1;PLA;Cupom da luva MDF
+teste;01_IMPRESSAO_3D/03_testes_antes_do_lote/T03_cupom_camara_janela.stl;1;PLA;Gabarito/teste antes do lote
+teste;01_IMPRESSAO_3D/03_testes_antes_do_lote/T04_cupom_moldura_janela.stl;1;PLA;Gabarito/teste antes do lote
+teste;01_IMPRESSAO_3D/03_testes_antes_do_lote/T05_gabarito_furos_105mm.stl;1;PLA;Gabarito/teste antes do lote
+teste;01_IMPRESSAO_3D/03_testes_antes_do_lote/T06_gabarito_celula_85mm.stl;1;PLA;Gabarito/teste antes do lote
+teste;01_IMPRESSAO_3D/03_testes_antes_do_lote/T07_cupom_parte5_macho_126p2.stl;1;PLA;Gabarito/teste antes do lote
+teste;01_IMPRESSAO_3D/03_testes_antes_do_lote/T07_cupom_parte5_macho_126p0.stl;1;PLA;Macho alternativo para teste na parte 5
+teste;01_IMPRESSAO_3D/03_testes_antes_do_lote/T07_cupom_parte5_macho_125p8.stl;1;PLA;Macho alternativo para teste na parte 5
+corte_MDF;M01;2;MDF 3 mm;Teto/piso do módulo de entrada 200 mm
+corte_MDF;M02;2;MDF 3 mm;Lateral da entrada 200 mm
+corte_MDF;M03;2;MDF 3 mm;Teto/piso do módulo de saída 200 mm
+corte_MDF;M04;2;MDF 3 mm;Lateral da saída 200 mm
+corte_MDF;M13;16;MDF 6 mm;Lâmina do pé dos dutos (4 pés, 4 lâminas/pé)
+corte_MDF;M19;4;MDF 6 mm;Lâmina do pé da ventoinha (4 lâminas)
+corte_MDF;M23;4;MDF 6 mm;Lâmina do apoio próprio da câmara (4 lâminas)
+corte_MDF;B01;1;MDF 6 mm;Base opcional: metade da entrada
+corte_MDF;B02;1;MDF 6 mm;Base opcional: metade da saída
+corte_MDF;B03;2;MDF 6 mm;Tala inferior da base opcional
+corte_MDF;G13;1;MDF 3 mm;Gabarito para furar verticalmente os pés dos dutos
+corte_MDF;G19;1;MDF 3 mm;Gabarito para furar verticalmente o pé da ventoinha
+corte_MDF;T01;2;MDF 3 mm;Cupom: piso/teto para montar tubo curto
+corte_MDF;T02;2;MDF 3 mm;Cupom: lateral para montar tubo curto
+corte_MDF;T03;1;MDF 3 mm;Cupom para medir kerf e testar furo M4
+corte_acrilico;Tampa_172x120x3mm;1;acrilico 3 mm;usar SVG ou DXF

@@ -1,0 +1,15 @@
+{
+  "tampo_mm": [
+    500,
+    380
+  ],
+  "polilinhas_DXF_fechadas": 26,
+  "unidade_DXF": "mm",
+  "encaixes": 25,
+  "contornos_GEOS_validos": 47,
+  "pecas_estrutura_identicas": 46,
+  "erro_maximo_alinhamento_mm": 1.1368683772161603e-13,
+  "tampo_subconjunto_do_original": true,
+  "processo_tampo": "laser",
+  "kerf_compensado": false
+}

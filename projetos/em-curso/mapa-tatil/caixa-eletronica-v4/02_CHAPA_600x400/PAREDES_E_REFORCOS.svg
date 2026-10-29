@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600mm" height="400mm" viewBox="0 0 600 400" overflow="visible">
+<title>Corte em mm, escala 1:1; sem compensação de feixe</title>
+<desc>Contornos pretos de 0,35 mm para visualização. Cortar pelos eixos vetoriais, sem converter o traço em contorno. Painéis lisos contêm apenas um retângulo fechado.</desc>
+<g id="CORTE">
+<path id="C2_FRENTE_0" d="M 20.000000,380.000000 L 514.000000,380.000000 L 514.000000,336.000000 L 20.000000,336.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C2_FRENTE_1" d="M 323.000000,369.000000 L 325.000000,369.000000 L 325.000000,347.000000 L 323.000000,347.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C2_FRENTE_2" d="M 329.000000,369.000000 L 331.000000,369.000000 L 331.000000,347.000000 L 329.000000,347.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C2_FRENTE_3" d="M 335.000000,369.000000 L 337.000000,369.000000 L 337.000000,347.000000 L 335.000000,347.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C2_FRENTE_4" d="M 341.000000,369.000000 L 343.000000,369.000000 L 343.000000,347.000000 L 341.000000,347.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C2_FRENTE_5" d="M 347.000000,369.000000 L 349.000000,369.000000 L 349.000000,347.000000 L 347.000000,347.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C2_FRENTE_6" d="M 353.000000,369.000000 L 355.000000,369.000000 L 355.000000,347.000000 L 353.000000,347.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C2_FRENTE_7" d="M 359.000000,369.000000 L 361.000000,369.000000 L 361.000000,347.000000 L 359.000000,347.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C2_FRENTE_8" d="M 365.000000,369.000000 L 367.000000,369.000000 L 367.000000,347.000000 L 365.000000,347.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C2_FRENTE_9" d="M 371.000000,369.000000 L 373.000000,369.000000 L 373.000000,347.000000 L 371.000000,347.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C2_FRENTE_10" cx="47.000000" cy="348.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C2_FRENTE_11" cx="167.000000" cy="348.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C2_FRENTE_12" cx="417.000000" cy="348.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C2_FRENTE_13" cx="487.000000" cy="348.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C3_TRAS_USB_0" d="M 20.000000,328.000000 L 514.000000,328.000000 L 514.000000,284.000000 L 101.000000,284.000000 L 101.000000,298.000000 L 77.000000,298.000000 L 77.000000,284.000000 L 20.000000,284.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C3_TRAS_USB_1" cx="47.000000" cy="296.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C3_TRAS_USB_2" cx="167.000000" cy="296.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C3_TRAS_USB_3" cx="417.000000" cy="296.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C3_TRAS_USB_4" cx="487.000000" cy="296.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C3_TRAS_USB_5" d="M 117.000000,313.000000 L 120.000000,313.000000 L 120.000000,305.000000 L 117.000000,305.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C3_TRAS_USB_6" d="M 129.000000,313.000000 L 132.000000,313.000000 L 132.000000,305.000000 L 129.000000,305.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C4_ESQUERDA_0" d="M 20.000000,276.000000 L 400.000000,276.000000 L 400.000000,232.000000 L 20.000000,232.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C5_DIREITA_0" d="M 20.000000,224.000000 L 400.000000,224.000000 L 400.000000,180.000000 L 20.000000,180.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C6_NX1_0" d="M 20.000000,172.000000 L 514.000000,172.000000 L 514.000000,142.000000 L 268.575000,142.000000 L 268.575000,157.075000 L 265.425000,157.075000 L 265.425000,142.000000 L 20.000000,142.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C7_NX2_0" d="M 20.000000,134.000000 L 514.000000,134.000000 L 514.000000,104.000000 L 268.575000,104.000000 L 268.575000,119.075000 L 265.425000,119.075000 L 265.425000,104.000000 L 20.000000,104.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C8_NY_0" d="M 20.000000,96.000000 L 125.425000,96.000000 L 125.425000,80.925000 L 128.575000,80.925000 L 128.575000,96.000000 L 255.425000,96.000000 L 255.425000,80.925000 L 258.575000,80.925000 L 258.575000,96.000000 L 394.000000,96.000000 L 394.000000,66.000000 L 20.000000,66.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+</g>
+</svg>

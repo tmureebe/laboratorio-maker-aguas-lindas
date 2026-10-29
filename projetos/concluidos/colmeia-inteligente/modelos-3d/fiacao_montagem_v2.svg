@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="1220" viewBox="0 0 296 244">
+<rect width="296" height="244" fill="#f8fafb"/>
+<text x="8" y="9" font-family="DejaVu Sans" font-size="5" fill="#213547">V2 · PROJEÇÃO SUPERIOR DA FIAÇÃO</text>
+<text x="8" y="15" font-family="DejaVu Sans" font-size="2.8" fill="#213547">Trajetos extraídos do SCAD; cruzamentos podem estar em alturas diferentes.</text>
+<rect x="75" y="68" width="140" height="123" fill="#e7ecef" stroke="#8c9ca5" stroke-width="0.3"/>
+<text x="76" y="72" font-family="DejaVu Sans" font-size="2.3" fill="#213547">PLACA PERFURADA</text>
+<rect x="15" y="108" width="45" height="75" fill="#e7ecef" stroke="#8c9ca5" stroke-width="0.3"/>
+<text x="16" y="112" font-family="DejaVu Sans" font-size="2.3" fill="#213547">18650 × 2</text>
+<rect x="79" y="113" width="18" height="26" fill="#e7ecef" stroke="#8c9ca5" stroke-width="0.3"/>
+<text x="80" y="117" font-family="DejaVu Sans" font-size="2.3" fill="#213547">BMS</text>
+<rect x="82" y="78" width="13" height="20" fill="#e7ecef" stroke="#8c9ca5" stroke-width="0.3"/>
+<text x="83" y="82" font-family="DejaVu Sans" font-size="2.3" fill="#213547">SW1</text>
+<rect x="118" y="89" width="18" height="38" fill="#e7ecef" stroke="#8c9ca5" stroke-width="0.3"/>
+<text x="119" y="93" font-family="DejaVu Sans" font-size="2.3" fill="#213547">BOOST</text>
+<rect x="165" y="98" width="28" height="52" fill="#e7ecef" stroke="#8c9ca5" stroke-width="0.3"/>
+<text x="166" y="102" font-family="DejaVu Sans" font-size="2.3" fill="#213547">ESP32</text>
+<rect x="245" y="145" width="19" height="30" fill="#e7ecef" stroke="#8c9ca5" stroke-width="0.3"/>
+<text x="246" y="149" font-family="DejaVu Sans" font-size="2.3" fill="#213547">DHT EXT</text>
+<rect x="245" y="100" width="19" height="30" fill="#e7ecef" stroke="#8c9ca5" stroke-width="0.3"/>
+<text x="246" y="104" font-family="DejaVu Sans" font-size="2.3" fill="#213547">DHT INT</text>
+<rect x="247" y="62" width="16" height="22" fill="#e7ecef" stroke="#8c9ca5" stroke-width="0.3"/>
+<text x="248" y="66" font-family="DejaVu Sans" font-size="2.3" fill="#213547">INMP441</text>
+<rect x="227" y="39" width="29" height="10" fill="#e7ecef" stroke="#8c9ca5" stroke-width="0.3"/>
+<text x="228" y="43" font-family="DejaVu Sans" font-size="2.3" fill="#213547">MC-38</text>
+<rect x="227" y="21" width="29" height="10" fill="#e7ecef" stroke="#8c9ca5" stroke-width="0.3"/>
+<text x="228" y="25" font-family="DejaVu Sans" font-size="2.3" fill="#213547">ÍMÃ</text>
+<path d="M 200 185 L 200 74" stroke="#9d8b64" stroke-width="1"/>
+<path d="M 206 185 L 206 74" stroke="#9d8b64" stroke-width="1"/>
+<path d="M 139 171 L 154 171" stroke="#92989d" stroke-width="0.5"/>
+<rect x="143.3" y="169.9" width="6.4" height="2.2" rx="0.7" fill="#b8a075" stroke="#75613d" stroke-width="0.2"/>
+<text x="143.5" y="168.5" font-family="DejaVu Sans" font-size="1.8" fill="#213547">R1</text>
+<path d="M 154 171 L 169 171" stroke="#92989d" stroke-width="0.5"/>
+<rect x="158.3" y="169.9" width="6.4" height="2.2" rx="0.7" fill="#b8a075" stroke="#75613d" stroke-width="0.2"/>
+<text x="158.5" y="168.5" font-family="DejaVu Sans" font-size="1.8" fill="#213547">R2</text>
+<path d="M 252 170 L 262 170" stroke="#92989d" stroke-width="0.5"/>
+<rect x="253.8" y="168.9" width="6.4" height="2.2" rx="0.7" fill="#b8a075" stroke="#75613d" stroke-width="0.2"/>
+<text x="254.0" y="167.5" font-family="DejaVu Sans" font-size="1.8" fill="#213547">R3 *</text>
+<path d="M 252 125 L 262 125" stroke="#92989d" stroke-width="0.5"/>
+<rect x="253.8" y="123.9" width="6.4" height="2.2" rx="0.7" fill="#b8a075" stroke="#75613d" stroke-width="0.2"/>
+<text x="254.0" y="122.5" font-family="DejaVu Sans" font-size="1.8" fill="#213547">R4 *</text>
+<ellipse cx="159" cy="164" rx="3" ry="1" fill="#b04c19"/>
+<text x="156" y="162" font-family="DejaVu Sans" font-size="1.8" fill="#213547">C1 *</text>
+<path d="M 154 171 L 157 164" stroke="#92989d" stroke-width="0.5"/>
+<path d="M 169 171 L 161 164" stroke="#92989d" stroke-width="0.5"/>
+<polyline points="134.000,94.000 139.125,94.000 139.800,94.080 140.325,94.320 140.700,94.720 140.925,95.280 141.000,96.000 141.000,185.000 141.080,185.720 141.320,186.280 141.720,186.680 142.280,186.920 143.000,187.000 204.946,187.000 205.325,186.960 205.621,186.840 205.831,186.640 205.958,186.360 206.000,186.000 206.000,184.000" fill="none" stroke="#0b0d0f" stroke-width="1.2" stroke-linecap="round"><title>GND: U3.OUT- → G.4</title></polyline>
+<circle cx="134" cy="94" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<circle cx="206" cy="184" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<polyline points="48.400,111.000 63.014,111.000 63.729,111.080 64.285,111.320 64.682,111.720 64.921,112.280 65.000,113.000 65.000,141.000 65.075,141.720 65.300,142.280 65.674,142.680 66.198,142.920 66.873,143.000 79.127,143.000 79.802,142.926 80.326,142.703 80.700,142.332 80.925,141.811 81.000,141.143 81.000,136.500" fill="none" stroke="#d1090a" stroke-width="1.4" stroke-linecap="round"><title>BAT+: BT2.+ → U2.B+</title></polyline>
+<circle cx="48.4" cy="111" r="0.65" fill="#d1090a" stroke="white" stroke-width="0.2"/>
+<circle cx="81" cy="136.5" r="0.65" fill="#d1090a" stroke="white" stroke-width="0.2"/>
+<polyline points="48.400,180.500 65.011,180.500 65.727,180.420 66.284,180.180 66.682,179.780 66.921,179.220 67.000,178.500 67.000,148.000 67.078,147.280 67.313,146.720 67.704,146.320 68.252,146.080 68.956,146.000 93.044,146.000 93.748,145.923 94.296,145.691 94.687,145.305 94.922,144.765 95.000,144.071 95.000,136.500" fill="none" stroke="#0b0d0f" stroke-width="1.4" stroke-linecap="round"><title>BAT-: BT2.- → U2.B-</title></polyline>
+<circle cx="48.4" cy="180.5" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<circle cx="95" cy="136.5" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<polyline points="249.400,78.460 246.467,78.460 245.939,78.401 245.528,78.225 245.235,77.932 245.059,77.521 245.000,76.993 245.000,69.767 245.059,69.239 245.235,68.828 245.528,68.535 245.939,68.359 246.467,68.300 249.400,68.300" fill="none" stroke="#0b0d0f" stroke-width="0.7" stroke-linecap="round"><title>GND: U6.GND → U6.L/R</title></polyline>
+<circle cx="249.4" cy="78.46000000000001" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<circle cx="249.4" cy="68.30000000000001" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<polyline points="249.000,169.460 249.000,168.487 249.033,168.311 249.132,168.175 249.297,168.078 249.528,168.019 249.825,168.000 260.000,168.000 260.720,168.022 261.280,168.088 261.680,168.198 261.920,168.352 262.000,168.549 262.000,170.000" fill="none" stroke="#fac40f" stroke-width="0.56" stroke-linecap="round"><title>DHT_EXT: U4.DATA → R3.2</title></polyline>
+<circle cx="249" cy="169.46" r="0.65" fill="#fac40f" stroke="white" stroke-width="0.2"/>
+<circle cx="262" cy="170" r="0.65" fill="#fac40f" stroke="white" stroke-width="0.2"/>
+<polyline points="249.000,124.460 249.000,123.487 249.033,123.311 249.132,123.175 249.297,123.078 249.528,123.019 249.825,123.000 260.000,123.000 260.720,123.022 261.280,123.088 261.680,123.198 261.920,123.352 262.000,123.549 262.000,125.000" fill="none" stroke="#1cb859" stroke-width="0.56" stroke-linecap="round"><title>DHT_INT: U5.DATA → R4.2</title></polyline>
+<circle cx="249" cy="124.46" r="0.65" fill="#1cb859" stroke="white" stroke-width="0.2"/>
+<circle cx="262" cy="125" r="0.65" fill="#1cb859" stroke="white" stroke-width="0.2"/>
+<polyline points="249.000,172.000 249.000,172.000 249.027,172.000 249.107,172.000 249.240,172.000 249.427,172.000 249.667,172.000 251.000,172.000 251.360,171.989 251.640,171.956 251.840,171.901 251.960,171.824 252.000,171.725 252.000,170.000" fill="none" stroke="#ff5709" stroke-width="0.56" stroke-linecap="round"><title>+3V3: U4.VCC → R3.1</title></polyline>
+<circle cx="249" cy="172" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<circle cx="252" cy="170" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<polyline points="249.000,127.000 249.000,127.000 249.027,127.000 249.107,127.000 249.240,127.000 249.427,127.000 249.667,127.000 251.000,127.000 251.360,126.989 251.640,126.956 251.840,126.901 251.960,126.824 252.000,126.725 252.000,125.000" fill="none" stroke="#ff5709" stroke-width="0.56" stroke-linecap="round"><title>+3V3: U5.VCC → R4.1</title></polyline>
+<circle cx="249" cy="127" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<circle cx="252" cy="125" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<polyline points="206.000,75.000 209.940,75.000 210.322,74.920 210.618,74.680 210.830,74.280 210.958,73.720 211.000,73.000 211.000,54.000 211.080,53.280 211.320,52.720 211.720,52.320 212.280,52.080 213.000,52.000 218.000,52.000 218.745,51.943 219.381,51.773 219.907,51.489 220.324,51.092 220.630,50.581 223.475,44.182 223.704,43.757 223.971,43.426 224.276,43.189 224.619,43.047 225.000,43.000 227.000,43.000" fill="none" stroke="#0b0d0f" stroke-width="0.92" stroke-linecap="round"><title>GND: G.5 → SW2.2</title></polyline>
+<circle cx="206" cy="75" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<circle cx="227" cy="43" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<polyline points="169.000,171.000 174.644,171.000 175.132,171.067 175.512,171.267 175.783,171.600 175.946,172.067 176.000,172.667 176.000,174.333 176.067,174.933 176.267,175.400 176.600,175.733 177.067,175.933 177.667,176.000 200.000,176.000 200.764,176.000 201.458,176.000 202.079,176.000 202.630,176.000 203.109,176.000 206.000,176.000" fill="none" stroke="#0b0d0f" stroke-width="0.92" stroke-linecap="round"><title>GND: R2.2 → G.6</title></polyline>
+<circle cx="169" cy="171" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<circle cx="206" cy="176" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<polyline points="166.300,129.000 146.993,129.000 146.275,128.921 145.717,128.683 145.319,128.286 145.080,127.731 145.000,127.018 145.000,55.982 145.080,55.269 145.320,54.714 145.720,54.317 146.280,54.079 147.000,54.000 218.000,54.000 218.750,53.932 219.400,53.729 219.951,53.390 220.402,52.916 220.753,52.307 223.373,46.411 223.639,45.903 223.934,45.508 224.260,45.226 224.615,45.056 225.000,45.000 227.000,45.000" fill="none" stroke="#8526b8" stroke-width="0.92" stroke-linecap="round"><title>LID_SW: U1.GPIO27 → SW2.1</title></polyline>
+<circle cx="166.3" cy="129" r="0.65" fill="#8526b8" stroke="white" stroke-width="0.2"/>
+<circle cx="227" cy="45" r="0.65" fill="#8526b8" stroke="white" stroke-width="0.2"/>
+<polyline points="134.000,122.000 137.333,122.000 137.933,121.926 138.400,121.704 138.733,121.334 138.933,120.817 139.000,120.151 139.000,95.849 138.933,95.183 138.733,94.666 138.400,94.296 137.933,94.074 137.333,94.000 134.000,94.000" fill="none" stroke="#0b0d0f" stroke-width="1.2" stroke-linecap="round"><title>GND: U3.IN- → U3.OUT-</title></polyline>
+<circle cx="134" cy="122" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<circle cx="134" cy="94" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<polyline points="120.000,122.000 120.000,132.039 120.000,132.825 120.000,133.614 120.000,134.406 120.000,135.202 120.000,136.000 120.000,177.000 120.080,177.720 120.320,178.280 120.720,178.680 121.280,178.920 122.000,179.000 137.000,179.000 137.720,178.932 138.280,178.729 138.680,178.389 138.920,177.915 139.000,177.304 139.000,171.000" fill="none" stroke="#ff5709" stroke-width="0.92" stroke-linecap="round"><title>+SYS: U3.IN+ → R1.1</title></polyline>
+<circle cx="120" cy="122" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<circle cx="139" cy="171" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<polyline points="81.000,115.500 81.000,107.929 81.080,107.235 81.320,106.694 81.720,106.309 82.280,106.077 83.000,106.000 100.000,106.000 100.720,105.920 101.280,105.680 101.680,105.280 101.920,104.720 102.000,104.000 102.000,94.414 101.960,93.905 101.840,93.509 101.640,93.226 101.360,93.057 101.000,93.000 99.000,93.000" fill="none" stroke="#d1090a" stroke-width="1.3" stroke-linecap="round"><title>P+: U2.P+ → SW1.1</title></polyline>
+<circle cx="81" cy="115.5" r="0.65" fill="#d1090a" stroke="white" stroke-width="0.2"/>
+<circle cx="99" cy="93" r="0.65" fill="#d1090a" stroke="white" stroke-width="0.2"/>
+<polyline points="99.000,83.000 108.070,83.000 108.765,83.080 109.305,83.320 109.691,83.720 109.923,84.280 110.000,85.000 110.000,130.000 110.080,130.720 110.320,131.280 110.720,131.680 111.280,131.920 112.000,132.000 118.000,132.000 118.720,131.922 119.280,131.689 119.680,131.300 119.920,130.755 120.000,130.055 120.000,122.000" fill="none" stroke="#ff5709" stroke-width="1.3" stroke-linecap="round"><title>+SYS: SW1.2 → U3.IN+</title></polyline>
+<circle cx="99" cy="83" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<circle cx="120" cy="122" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<polyline points="206.000,166.920 215.313,166.920 216.000,166.920 216.713,166.920 217.450,166.920 218.213,166.920 219.000,166.920 237.000,166.920 237.794,166.920 238.577,166.920 239.349,166.920 240.108,166.920 240.857,166.920 249.000,166.920" fill="none" stroke="#0b0d0f" stroke-width="0.92" stroke-linecap="round"><title>GND: G.0 → U4.GND</title></polyline>
+<circle cx="206" cy="166.92000000000002" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<circle cx="249" cy="166.92000000000002" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<polyline points="206.000,78.460 221.151,78.460 221.896,78.460 222.654,78.460 223.424,78.460 224.206,78.460 225.000,78.460 239.000,78.460 239.792,78.460 240.566,78.460 241.324,78.460 242.065,78.460 242.789,78.460 249.400,78.460" fill="none" stroke="#0b0d0f" stroke-width="0.92" stroke-linecap="round"><title>GND: G.2 → U6.GND</title></polyline>
+<circle cx="206" cy="78.46000000000001" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<circle cx="249.4" cy="78.46000000000001" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<polyline points="200.000,172.000 212.211,172.000 212.935,172.000 213.676,172.000 214.434,172.000 215.208,172.000 216.000,172.000 237.000,172.000 237.794,172.000 238.577,172.000 239.349,172.000 240.108,172.000 240.857,172.000 249.000,172.000" fill="none" stroke="#ff5709" stroke-width="0.92" stroke-linecap="round"><title>+3V3: V3.0 → U4.VCC</title></polyline>
+<circle cx="200" cy="172" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<circle cx="249" cy="172" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<polyline points="206.000,121.920 219.188,121.920 219.920,121.920 220.668,121.920 221.430,121.920 222.208,121.920 223.000,121.920 237.000,121.920 237.794,121.920 238.577,121.920 239.349,121.920 240.108,121.920 240.857,121.920 249.000,121.920" fill="none" stroke="#0b0d0f" stroke-width="0.92" stroke-linecap="round"><title>GND: G.1 → U5.GND</title></polyline>
+<circle cx="206" cy="121.92" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<circle cx="249" cy="121.92" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<polyline points="200.000,81.000 221.087,81.000 221.855,81.000 222.631,81.000 223.414,81.000 224.203,81.000 225.000,81.000 239.000,81.000 239.792,81.000 240.566,81.000 241.324,81.000 242.065,81.000 242.789,81.000 249.400,81.000" fill="none" stroke="#ff5709" stroke-width="0.92" stroke-linecap="round"><title>+3V3: V3.2 → U6.VDD</title></polyline>
+<circle cx="200" cy="81" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<circle cx="249.4" cy="81" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<polyline points="200.000,127.000 219.103,127.000 219.866,127.000 220.637,127.000 221.416,127.000 222.204,127.000 223.000,127.000 237.000,127.000 237.794,127.000 238.577,127.000 239.349,127.000 240.108,127.000 240.857,127.000 249.000,127.000" fill="none" stroke="#ff5709" stroke-width="0.92" stroke-linecap="round"><title>+3V3: V3.1 → U5.VCC</title></polyline>
+<circle cx="200" cy="127" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<circle cx="249" cy="127" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<polyline points="120.000,94.000 120.000,87.916 120.080,87.226 120.320,86.690 120.720,86.307 121.280,86.077 122.000,86.000 141.000,86.000 141.720,86.080 142.280,86.319 142.680,86.717 142.920,87.275 143.000,87.992 143.000,139.708 143.080,140.425 143.320,140.983 143.719,141.381 144.278,141.620 144.997,141.700 166.300,141.700" fill="none" stroke="#d1090a" stroke-width="1.2" stroke-linecap="round"><title>+5V: U3.OUT+ → U1.VIN/5V</title></polyline>
+<circle cx="120" cy="94" r="0.65" fill="#d1090a" stroke="white" stroke-width="0.2"/>
+<circle cx="166.3" cy="141.7" r="0.65" fill="#d1090a" stroke="white" stroke-width="0.2"/>
+<polyline points="95.000,115.500 102.387,115.500 102.968,115.580 103.419,115.820 103.742,116.220 103.936,116.780 104.000,117.500 104.000,132.000 104.080,132.720 104.320,133.280 104.720,133.680 105.280,133.920 106.000,134.000 132.000,134.000 132.720,133.929 133.280,133.718 133.680,133.365 133.920,132.871 134.000,132.235 134.000,122.000" fill="none" stroke="#0b0d0f" stroke-width="1.3" stroke-linecap="round"><title>GND: U2.P- → U3.IN-</title></polyline>
+<circle cx="95" cy="115.5" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<circle cx="134" cy="122" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<polyline points="166.300,123.920 158.964,123.920 158.257,123.840 157.707,123.601 157.314,123.202 157.079,122.644 157.000,121.927 157.000,77.913 157.080,77.196 157.320,76.638 157.720,76.239 158.280,76.000 159.000,75.920 223.000,75.920 223.799,75.920 224.595,75.920 225.388,75.920 226.178,75.920 226.966,75.920 239.034,75.920 239.813,75.920 240.579,75.920 241.329,75.920 242.066,75.920 242.789,75.920 249.400,75.920" fill="none" stroke="#0d87e0" stroke-width="0.92" stroke-linecap="round"><title>I2S_WS: U1.GPIO25 → U6.WS</title></polyline>
+<circle cx="166.3" cy="123.92" r="0.65" fill="#0d87e0" stroke="white" stroke-width="0.2"/>
+<circle cx="249.4" cy="75.91999999999999" r="0.65" fill="#0d87e0" stroke="white" stroke-width="0.2"/>
+<polyline points="154.000,171.000 149.109,171.000 148.710,170.920 148.399,170.680 148.178,170.280 148.044,169.720 148.000,169.000 148.000,115.760 148.079,115.040 148.315,114.480 148.708,114.080 149.259,113.840 149.967,113.760 158.033,113.760 158.821,113.760 159.612,113.760 160.405,113.760 161.201,113.760 162.000,113.760 166.300,113.760" fill="none" stroke="#8526b8" stroke-width="0.92" stroke-linecap="round"><title>BAT_SENSE: R1.2 → U1.GPIO34</title></polyline>
+<circle cx="154" cy="171" r="0.65" fill="#8526b8" stroke="white" stroke-width="0.2"/>
+<circle cx="166.3" cy="113.76" r="0.65" fill="#8526b8" stroke="white" stroke-width="0.2"/>
+<polyline points="191.700,139.160 194.567,139.160 195.140,139.160 195.713,139.160 196.287,139.160 196.860,139.160 197.433,139.160 204.000,139.160 204.720,139.160 205.280,139.160 205.680,139.160 205.920,139.160 206.000,139.160 206.000,139.160" fill="none" stroke="#0b0d0f" stroke-width="0.92" stroke-linecap="round"><title>GND: U1.GND → G.3</title></polyline>
+<circle cx="191.7" cy="139.16" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<circle cx="206" cy="139.16" r="0.65" fill="#0b0d0f" stroke="white" stroke-width="0.2"/>
+<polyline points="191.700,141.700 194.667,141.700 195.200,141.700 195.733,141.700 196.267,141.700 196.800,141.700 197.333,141.700 198.667,141.700 199.147,141.700 199.520,141.700 199.787,141.700 199.947,141.700 200.000,141.700 200.000,141.700" fill="none" stroke="#ff5709" stroke-width="0.92" stroke-linecap="round"><title>+3V3: U1.3V3 → V3.3</title></polyline>
+<circle cx="191.7" cy="141.7" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<circle cx="200" cy="141.7" r="0.65" fill="#ff5709" stroke="white" stroke-width="0.2"/>
+<polyline points="191.700,131.540 212.006,131.540 212.724,131.620 213.282,131.860 213.681,132.260 213.920,132.820 214.000,133.540 214.000,167.460 214.077,168.180 214.308,168.740 214.693,169.140 215.233,169.380 215.926,169.460 237.074,169.460 237.842,169.460 238.604,169.460 239.360,169.460 240.111,169.460 240.857,169.460 249.000,169.460" fill="none" stroke="#fac40f" stroke-width="0.92" stroke-linecap="round"><title>DHT_EXT: U1.GPIO4 → U4.DATA</title></polyline>
+<circle cx="191.7" cy="131.54000000000002" r="0.65" fill="#fac40f" stroke="white" stroke-width="0.2"/>
+<circle cx="249" cy="169.46" r="0.65" fill="#fac40f" stroke="white" stroke-width="0.2"/>
+<polyline points="191.700,116.300 216.005,116.300 216.723,116.380 217.282,116.620 217.681,117.020 217.920,117.580 218.000,118.300 218.000,122.460 218.076,123.180 218.304,123.740 218.683,124.140 219.214,124.380 219.897,124.460 237.103,124.460 237.860,124.460 238.614,124.460 239.365,124.460 240.113,124.460 240.857,124.460 249.000,124.460" fill="none" stroke="#1cb859" stroke-width="0.92" stroke-linecap="round"><title>DHT_INT: U1.GPIO21 → U5.DATA</title></polyline>
+<circle cx="191.7" cy="116.3" r="0.65" fill="#1cb859" stroke="white" stroke-width="0.2"/>
+<circle cx="249" cy="124.46" r="0.65" fill="#1cb859" stroke="white" stroke-width="0.2"/>
+<polyline points="166.300,126.460 154.881,126.460 154.204,126.380 153.677,126.141 153.301,125.741 153.075,125.182 153.000,124.463 153.000,75.377 153.080,74.658 153.320,74.099 153.720,73.699 154.280,73.460 155.000,73.380 223.000,73.380 223.793,73.380 224.573,73.380 225.340,73.380 226.093,73.380 226.832,73.380 239.168,73.380 239.899,73.380 240.627,73.380 241.351,73.380 242.072,73.380 242.789,73.380 249.400,73.380" fill="none" stroke="#fac40f" stroke-width="0.92" stroke-linecap="round"><title>I2S_BCLK: U1.GPIO26 → U6.SCK</title></polyline>
+<circle cx="166.3" cy="126.46" r="0.65" fill="#fac40f" stroke="white" stroke-width="0.2"/>
+<circle cx="249.4" cy="73.38" r="0.65" fill="#fac40f" stroke="white" stroke-width="0.2"/>
+<polyline points="166.300,121.380 162.124,121.380 161.719,121.300 161.405,121.060 161.180,120.661 161.045,120.101 161.000,119.382 161.000,72.838 161.080,72.119 161.320,71.559 161.720,71.160 162.280,70.920 163.000,70.840 223.000,70.840 223.786,70.840 224.544,70.840 225.273,70.840 225.975,70.840 226.648,70.840 239.352,70.840 240.017,70.840 240.693,70.840 241.380,70.840 242.079,70.840 242.789,70.840 249.400,70.840" fill="none" stroke="#e8ebe6" stroke-width="0.92" stroke-linecap="round"><title>I2S_SD: U1.GPIO33 → U6.SD</title></polyline>
+<circle cx="166.3" cy="121.38" r="0.65" fill="#e8ebe6" stroke="white" stroke-width="0.2"/>
+<circle cx="249.4" cy="70.84" r="0.65" fill="#e8ebe6" stroke="white" stroke-width="0.2"/>
+<text x="8" y="236" font-family="DejaVu Sans" font-size="2.7" fill="#213547">Vermelho: bateria / 5 V · Laranja: +SYS / 3V3 · Preto: retornos · Demais cores: sinais</text>
+</svg>

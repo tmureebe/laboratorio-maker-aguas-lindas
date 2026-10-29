@@ -1,0 +1,132 @@
+{
+  "arquivo": "colmeia-iot-eb410-default-rtdb-colmeia_mais_atual.json",
+  "sha256": "c836aabef7b91a265112de7ce57df944daa4ec00e617cd88dfca9f2e721dbbcc",
+  "n_readings": 1588,
+  "n_datados": 1576,
+  "n_sem_horario": 12,
+  "n_eventos_tampa": 7,
+  "n_dias_sem_registros": 8,
+  "intervalo_maximo_horas": 128.15972222222223,
+  "intervalos_acima_30_minutos": 94,
+  "media_diferenca_temperatura_todos": 0.9423173803526449,
+  "media_diferenca_temperatura_datados": 1.0128807106598985,
+  "percentual_interna_superior_datados": 72.77918781725889,
+  "estatisticas": {
+    "temperatura_interna_c": {
+      "count": 1588.0,
+      "mean": 28.113035264483628,
+      "median": 27.8,
+      "min": 15.9,
+      "max": 38.2,
+      "std": 4.866476774874606
+    },
+    "temperatura_externa_c": {
+      "count": 1588.0,
+      "mean": 27.17071788413098,
+      "median": 26.4,
+      "min": 12.9,
+      "max": 44.6,
+      "std": 6.689103158093538
+    },
+    "umidade_interna_pct": {
+      "count": 1588.0,
+      "mean": 46.233060453400505,
+      "median": 48.6,
+      "min": 10.0,
+      "max": 94.0,
+      "std": 20.18567770292902
+    },
+    "umidade_externa_pct": {
+      "count": 1588.0,
+      "mean": 45.86429471032746,
+      "median": 46.8,
+      "min": 10.0,
+      "max": 100.0,
+      "std": 25.536092123728103
+    },
+    "audio_dbfs": {
+      "count": 1588.0,
+      "mean": -38.268198992443324,
+      "median": -40.0,
+      "min": -43.8,
+      "max": -19.4,
+      "std": 4.634523203519013
+    },
+    "audio_rms": {
+      "count": 1588.0,
+      "mean": 0.014972477959697734,
+      "median": 0.010023,
+      "min": 0.006442,
+      "max": 0.10706,
+      "std": 0.014046526004195252
+    },
+    "audio_cruzamentos_zero_hz": {
+      "count": 1588.0,
+      "mean": 18.46416876574307,
+      "median": 1.8,
+      "min": 0.2,
+      "max": 978.1,
+      "std": 80.47290859519819
+    },
+    "tensao_bateria_v": {
+      "count": 1588.0,
+      "mean": 3.825527078085642,
+      "median": 3.9314999999999998,
+      "min": 2.578,
+      "max": 4.183,
+      "std": 0.3033710015966103
+    },
+    "tempo_ativo_ms": {
+      "count": 1588.0,
+      "mean": 5787.698362720403,
+      "median": 5788.0,
+      "min": 5771.0,
+      "max": 5805.0,
+      "std": 8.701176351931872
+    },
+    "carga_bateria_pct_estimada": {
+      "count": 1588.0,
+      "mean": 68.52783375314861,
+      "median": 77.0,
+      "min": 0.0,
+      "max": 100.0,
+      "std": 23.463791163098545
+    }
+  },
+  "tokens": {
+    "n_total": "1.588",
+    "n_dated": "1.576",
+    "n_undated": "12",
+    "date_range": "15 de agosto a 17 de setembro de 2026",
+    "first_datetime": "15/08/2026 às 10h37",
+    "last_datetime": "17/09/2026 às 09h54",
+    "temp_in_mean": "28,11",
+    "temp_out_mean": "27,17",
+    "temp_higher_count": "1.148",
+    "temp_higher_pct": "72,3",
+    "temp_diff_mean": "0,94",
+    "temp_in_range": "22,3",
+    "temp_out_range": "31,7",
+    "audio_samples": "48.128",
+    "audio_duration": "3,008",
+    "n_audio": "1.588",
+    "dbfs_mean": "−38,27",
+    "dbfs_min": "−43,8",
+    "dbfs_max": "−19,4",
+    "rms_mean": "0,01497",
+    "rms_min": "0,00644",
+    "rms_max": "0,10706",
+    "zcr_mean": "18,46",
+    "zcr_min": "0,2",
+    "zcr_max": "978,1",
+    "lid_open_count": "237",
+    "lid_open_pct": "14,9",
+    "battery_min": "2,578",
+    "battery_max": "4,183",
+    "active_seconds": "5,8",
+    "coverage_comment": "Entre 27 de agosto e 12 de setembro, há apenas 13 medições datadas, com dias sem nenhuma leitura na exportação.",
+    "humidity_comment": "A umidade de 10% se repete em 185 registros internos e 313 externos. A umidade externa também chegou a 100%, acima do limite de 95% da faixa de medição indicada no manual consultado.",
+    "lid_events_comment": "A seção de eventos contém ainda 7 mensagens específicas sobre a tampa. Elas foram contadas separadamente das leituras e não permitem determinar, sozinhas, quantas intervenções ocorreram.",
+    "battery_comment": "Na última medição datada, a tensão foi 2,824 V e a carga estimada, 0%."
+  }
+}

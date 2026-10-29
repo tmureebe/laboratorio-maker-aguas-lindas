@@ -1,0 +1,196 @@
+{
+  "consulta": "22/10/2026",
+  "manual": "Manual_Ilustrado_Ferragens_V7.pdf — revisão 05",
+  "itens": {
+    "P01": {
+      "loja": "Mixpar",
+      "produto": "Parafuso máquina panela Phillips M4 × 20 bicromatizado",
+      "link": "https://www.lojasmixpar.com.br/item/parafuso-maquina-panela-bicromatizado-m4-x-20mm",
+      "embalagem": "Selecionar Unitário (1 peça); informar a quantidade de peças",
+      "situacao": "Conforme especificação",
+      "observacao": "Rosca inteira; passo 0,7 mm. Selecionar Unitário.",
+      "evidencia_unitaria": "O seletor Quantidade anuncia Unitário junto das embalagens maiores.",
+      "estoque": "Saldo para a quantidade pedida não verificado no carrinho."
+    },
+    "P02": {
+      "loja": "Aki Tem Online",
+      "produto": "Parafuso máquina M4 × 55, cabeça panela Phillips (variação por unidade)",
+      "link": "https://akitemonline.com.br/produtos/parafuso-maquina-cabeca-chata-panela-phillips-m4-4mm/",
+      "embalagem": "Selecionar 4x55 (unidade) - cabeça panela; quantidade 8",
+      "situacao": "Cabeça e medida conforme o manual; venda unitária anunciada",
+      "observacao": "Escolher explicitamente a variação de 1 peça, não a de 10. Página exibe aviso de última peça e textos de estoque inconsistentes entre variações; saldo para 8 não confirmado. Passo e extensão da rosca não detalhados de forma confiável. Substitui o link Mixpar que só anunciava 100 peças.",
+      "evidencia_unitaria": "A lista Medida contém 4x55 (unidade) - cabeça panela e, separadamente, 4x55 (10 unidades) - cabeça panela.",
+      "estoque": "Alerta de última peça; disponibilidade da variação e saldo para 8 não confirmados."
+    },
+    "P03": {
+      "loja": "Mixpar",
+      "produto": "Parafuso Allen cilíndrico M3 × 40 DIN 912, aço liga 12.9",
+      "link": "https://www.lojasmixpar.com.br/item/parafuso-allen-cilindrica-129-m3-x-40mm-din-912",
+      "embalagem": "Selecionar Unitário (1 peça); informar a quantidade de peças",
+      "situacao": "Alternativa Allen",
+      "observacao": "Cabeça cilíndrica Allen em lugar de panela Phillips; conferir espaço para a cabeça. Rosca parcial de 18 mm; conferir posição da porca.",
+      "evidencia_unitaria": "O seletor Quantidade anuncia Unitário junto das embalagens maiores.",
+      "estoque": "Saldo para a quantidade pedida não verificado no carrinho."
+    },
+    "P04": {
+      "loja": "Mixpar",
+      "produto": "Parafuso Allen cilíndrico M3 × 35 DIN 912, aço liga 12.9",
+      "link": "https://www.lojasmixpar.com.br/item/parafuso-allen-cilindrica-129-m3-x-35mm-din-912",
+      "embalagem": "Selecionar Unitário (1 peça); informar a quantidade de peças",
+      "situacao": "Alternativa Allen",
+      "observacao": "Cabeça cilíndrica Allen em lugar de panela Phillips; conferir encaixe. Rosca parcial de 18 mm; conferir giro e travamento do eixo.",
+      "evidencia_unitaria": "O seletor Quantidade anuncia Unitário junto das embalagens maiores.",
+      "estoque": "Saldo para a quantidade pedida não verificado no carrinho."
+    },
+    "P05": {
+      "loja": "Mixpar",
+      "produto": "Parafuso máquina panela Phillips M3 × 25 bicromatizado",
+      "link": "https://www.lojasmixpar.com.br/item/parafuso-maquina-panela-bicromatizado-m3-x-25mm",
+      "embalagem": "Selecionar Unitário (1 peça); informar a quantidade de peças",
+      "situacao": "Conforme especificação",
+      "observacao": "Rosca inteira; passo 0,5 mm. Comprimento da janela sujeito à conferência de montagem indicada no manual.",
+      "evidencia_unitaria": "O seletor Quantidade anuncia Unitário junto das embalagens maiores.",
+      "estoque": "Saldo para a quantidade pedida não verificado no carrinho."
+    },
+    "P06": {
+      "loja": "Mega Lojista",
+      "produto": "Parafuso cabeça chata Phillips M3 × 12 DIN 965, inox A2 — unidade",
+      "link": "https://www.megalojista.com.br/parafuso-cabeca-chata-phillips-m3-0-50-ma-x-12-din-965-inox-a2-unidade.html",
+      "embalagem": "Unidade; informar quantidade 6",
+      "situacao": "Conforme especificação; venda unitária explícita",
+      "observacao": "Cabeça chata escareada Phillips, rosca inteira M3 × 0,50; comprimento total de 12 mm incluindo a cabeça. Página anuncia em estoque; saldo de 6 não verificado no carrinho. Não colocar arruela sob a cabeça.",
+      "evidencia_unitaria": "Título termina em UNIDADE; código RMCHPH3X12A2-GR. A caixa com 500 peças é uma oferta separada.",
+      "estoque": "Página anuncia Em estoque; saldo para 6 não confirmado no carrinho."
+    },
+    "P07": {
+      "loja": "Jofepar",
+      "produto": "Parafuso inox 304 máquina chata Phillips M4 × 20, referência 9285",
+      "link": "https://www.jofepar.com.br/parafuso-inox-304-maquina-chata-phillips-m-4-x-20-p9285",
+      "embalagem": "Venda a partir de 1 peça; INDISPONÍVEL no conteúdo consultado",
+      "situacao": "Conforme especificação; compra pendente de estoque",
+      "observacao": "Tabela comercial de 1 até 99 unidades confirma venda avulsa. Cabeça chata Phillips DIN 965, rosca M4 × 0,70. A mesma página informa produto indisponível: não contar como compra imediata. Mantida a medida M4 × 20; não substituir pelo M4 × 25 da reserva.",
+      "evidencia_unitaria": "Tabela de desconto: 1 até 99 unidades, com preço por un.; não exige lote de 100.",
+      "estoque": "INDISPONÍVEL segundo a mensagem da página; aguardar reposição ou comprar avulso no balcão."
+    },
+    "P08": {
+      "loja": "Mega Lojista",
+      "produto": "Parafuso cabeça chata Phillips M4 × 25 DIN 965, inox A2 — unidade",
+      "link": "https://www.megalojista.com.br/parafuso-cabeca-chata-phillips-m4-0-70-ma-x-25-din-965-inox-a2-unidade.html",
+      "embalagem": "Unidade; informar quantidade 8",
+      "situacao": "Conforme especificação; venda unitária explícita",
+      "observacao": "Reserva do P07, sem uso adicional. Cabeça chata escareada Phillips, rosca inteira M4 × 0,70. Página anuncia em estoque; saldo de 8 não verificado no carrinho. Conferir folga inferior antes de usar.",
+      "evidencia_unitaria": "Título termina em UNIDADE; código RMCHPH4X25A2-GR. A caixa com 500 peças é uma oferta separada.",
+      "estoque": "Página anuncia Em estoque; saldo para 8 não confirmado no carrinho."
+    },
+    "P09": {
+      "loja": "Mixpar",
+      "produto": "Parafuso máquina panela Phillips M4 × 25 bicromatizado",
+      "link": "https://www.lojasmixpar.com.br/item/parafuso-maquina-panela-bicromatizado-m4-x-25mm",
+      "embalagem": "Selecionar Unitário (1 peça); informar a quantidade de peças",
+      "situacao": "Conforme especificação",
+      "observacao": "Reserva do P01. Rosca inteira; passo 0,7 mm.",
+      "evidencia_unitaria": "O seletor Quantidade anuncia Unitário junto das embalagens maiores.",
+      "estoque": "Saldo para a quantidade pedida não verificado no carrinho."
+    },
+    "P10": {
+      "loja": "Mixpar",
+      "produto": "Parafuso máquina panela Phillips M4 × 30 bicromatizado",
+      "link": "https://www.lojasmixpar.com.br/item/Parafuso-Maquina-Panela-Bicromatizado-M4-x-30MM.html",
+      "embalagem": "Selecionar Unitário (1 peça); informar a quantidade de peças",
+      "situacao": "Conforme especificação; opção Unitário reconferida",
+      "observacao": "Reserva do P01. Cabeça panela Phillips, rosca inteira M4 × 0,70. Selecionar Unitário antes de informar 10 peças.",
+      "evidencia_unitaria": "O seletor Quantidade anuncia Unitário junto das embalagens maiores.",
+      "estoque": "Saldo para a quantidade pedida não verificado no carrinho."
+    },
+    "P11": {
+      "loja": "Mixpar",
+      "produto": "Parafuso Allen cilíndrico M4 × 60 DIN 912, aço liga 12.9",
+      "link": "https://www.lojasmixpar.com.br/item/Parafuso-Allen-Cilindrica-12.9-M4-x-60MM-Din-912.html",
+      "embalagem": "Selecionar Unitário (1 peça); informar a quantidade de peças",
+      "situacao": "Alternativa Allen",
+      "observacao": "Reserva do P02. Cabeça cilíndrica Allen em lugar de panela Phillips. Rosca parcial de 20 mm; não substituir automaticamente o M4 × 55.",
+      "evidencia_unitaria": "O seletor Quantidade anuncia Unitário junto das embalagens maiores.",
+      "estoque": "Saldo para a quantidade pedida não verificado no carrinho."
+    },
+    "P12": {
+      "loja": "Mixpar",
+      "produto": "Parafuso máquina panela Phillips M3 × 30 bicromatizado",
+      "link": "https://www.lojasmixpar.com.br/item/parafuso-maquina-panela-bicromatizado-m3-x-30mm",
+      "embalagem": "Selecionar Unitário (1 peça); informar a quantidade de peças",
+      "situacao": "Conforme especificação",
+      "observacao": "Reserva do P05. Rosca inteira; passo 0,5 mm.",
+      "evidencia_unitaria": "O seletor Quantidade anuncia Unitário junto das embalagens maiores.",
+      "estoque": "Saldo para a quantidade pedida não verificado no carrinho."
+    },
+    "C4-30": {
+      "loja": "Mixpar",
+      "produto": "Parafuso Allen cilíndrico M4 × 30 DIN 912, inox 304 A2",
+      "link": "https://www.lojasmixpar.com.br/item/parafuso-allen-cilindrica-inox-a2-m4-x-30-ma",
+      "embalagem": "Selecionar Unitário (1 peça); informar a quantidade de peças",
+      "situacao": "Conforme especificação adotada",
+      "observacao": "Somente 2 unidades para o lado fixo da célula. Passo 0,7 mm; rosca parcial de 20 mm. Uma arruela A04 sob cada cabeça; sem porca.",
+      "evidencia_unitaria": "O seletor Quantidade anuncia Unitário junto das embalagens maiores.",
+      "estoque": "Saldo para a quantidade pedida não verificado no carrinho."
+    },
+    "C4-20": {
+      "loja": "Mixpar",
+      "produto": "Parafuso Allen cilíndrico M4 × 20 DIN 912, inox 304 A2",
+      "link": "https://www.lojasmixpar.com.br/item/Parafuso-Allen-Cilindrica-Inox-A2-M4-x-20-MA.html",
+      "embalagem": "Selecionar Unitário (1 peça); informar a quantidade de peças",
+      "situacao": "Conforme especificação adotada",
+      "observacao": "Somente 2 unidades para o lado móvel da célula. Passo 0,7 mm; rosca inteira. Uma arruela A04 sob cada cabeça; sem porca.",
+      "evidencia_unitaria": "O seletor Quantidade anuncia Unitário junto das embalagens maiores.",
+      "estoque": "Saldo para a quantidade pedida não verificado no carrinho."
+    },
+    "N03": {
+      "loja": "Mixpar",
+      "produto": "Porca sextavada M3, passo 0,5 mm, DIN 934, inox 304 A2",
+      "link": "https://www.lojasmixpar.com.br/item/Porca-Sextavada-MA-3-%252d-0.50-Inox-304%7B47%7DA2.html",
+      "embalagem": "Selecionar Unitário (1 peça); informar a quantidade de peças",
+      "situacao": "Conforme especificação",
+      "observacao": "Porca comum, sem nylon. O uso de 13 inclui duas porcas na retenção da alavanca.",
+      "evidencia_unitaria": "O seletor Quantidade anuncia Unitário junto das embalagens maiores.",
+      "estoque": "Saldo para a quantidade pedida não verificado no carrinho."
+    },
+    "N04": {
+      "loja": "Mixpar",
+      "produto": "Porca sextavada M4, passo 0,7 mm, DIN 934, inox 304 A2",
+      "link": "https://www.lojasmixpar.com.br/item/porca-sextavada-ma-4-070-inox-304a2",
+      "embalagem": "Selecionar Unitário (1 peça); informar a quantidade de peças",
+      "situacao": "Conforme especificação",
+      "observacao": "Porca comum, sem nylon. Inclui quatro porcas da base bipartida. A célula não usa porcas.",
+      "evidencia_unitaria": "O seletor Quantidade anuncia Unitário junto das embalagens maiores.",
+      "estoque": "Saldo para a quantidade pedida não verificado no carrinho."
+    },
+    "A03": {
+      "loja": "Mixpar",
+      "produto": "Arruela lisa M3 DIN 125, inox 304 A2",
+      "link": "https://www.lojasmixpar.com.br/item/Arruela-Lisa-3-%28-3.2-x-6.64-x-0.45-%29-Inox-304%7B47%7DA2.html",
+      "embalagem": "Selecionar Unitário (1 peça); informar a quantidade de peças",
+      "situacao": "Conforme especificação",
+      "observacao": "Para parafuso M3. Nos escareados, usar somente do lado da porca.",
+      "evidencia_unitaria": "O seletor Quantidade anuncia Unitário junto das embalagens maiores.",
+      "estoque": "Saldo para a quantidade pedida não verificado no carrinho."
+    },
+    "A04": {
+      "loja": "Mixpar",
+      "produto": "Arruela lisa M4 DIN 125, inox 304 A2",
+      "link": "https://www.lojasmixpar.com.br/item/Arruela-Lisa-4-%28-4.3-x-8.64-x-0.70-%29-Inox-304%7B47%7DA2.html",
+      "embalagem": "Selecionar Unitário (1 peça); informar a quantidade de peças",
+      "situacao": "Conforme especificação",
+      "observacao": "Para parafuso M4; espessura anunciada de 0,70 a 0,90 mm. O uso de 49 já inclui quatro para a célula e quatro para as talas.",
+      "evidencia_unitaria": "O seletor Quantidade anuncia Unitário junto das embalagens maiores.",
+      "estoque": "Saldo para a quantidade pedida não verificado no carrinho."
+    },
+    "A12": {
+      "loja": "Bassotto",
+      "produto": "Arruela lisa M4 aba larga DIN 9021, inox 304 A2",
+      "link": "https://bassottosuprimentos.corpsuite.com.br/arruela-lisa-m4-aba-larga-inox-aisi-304-a2",
+      "embalagem": "PENDENTE: venda por unidade não confirmada",
+      "situacao": "Conforme especificação",
+      "observacao": "Furo 4,3 mm; externo 12 mm; espessura 1 mm. Usar 1; comprar 4. Venda avulsa ainda não comprovada; não tratar este link como compra unitária confirmada. Não substituir pela arruela comum A04.",
+      "evidencia_unitaria": "Página confirma as dimensões, mas a variação de embalagem não ficou legível. Preço baixo e campo de quantidade não comprovam venda avulsa.",
+      "estoque": "Saldo e embalagem não confirmados."
+    }
+  }
+}

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600mm" height="400mm" viewBox="0 0 600 400">
+<title>Corte MDF V7: mm, escala 1:1, contornos nominais</title>
+<g id="G19" transform="translate(5.0 5.0)" fill="none" stroke="#ff0000" stroke-width="0.1">
+<polygon points="0.0000,0.0000 24.0000,0.0000 24.0000,180.0000 0.0000,180.0000"/>
+<circle cx="12" cy="7" r="2.25"/>
+<circle cx="12" cy="173" r="2.25"/>
+</g>
+<g id="G13" transform="translate(34.0 5.0)" fill="none" stroke="#ff0000" stroke-width="0.1">
+<polygon points="0.0000,0.0000 24.0000,0.0000 24.0000,160.0000 0.0000,160.0000"/>
+<circle cx="12" cy="7" r="2.25"/>
+<circle cx="12" cy="153" r="2.25"/>
+</g>
+<g id="M01" transform="translate(63.0 5.0)" fill="none" stroke="#ff0000" stroke-width="0.1">
+<polygon points="0.0000,0.0000 200.0000,0.0000 200.0000,126.0000 0.0000,126.0000"/>
+</g>
+<g id="M01" transform="translate(268.0 5.0)" fill="none" stroke="#ff0000" stroke-width="0.1">
+<polygon points="0.0000,0.0000 200.0000,0.0000 200.0000,126.0000 0.0000,126.0000"/>
+</g>
+<g id="M03" transform="translate(5.0 190.0)" fill="none" stroke="#ff0000" stroke-width="0.1">
+<polygon points="0.0000,0.0000 200.0000,0.0000 200.0000,126.0000 0.0000,126.0000"/>
+</g>
+<g id="M03" transform="translate(210.0 190.0)" fill="none" stroke="#ff0000" stroke-width="0.1">
+<polygon points="0.0000,0.0000 200.0000,0.0000 200.0000,126.0000 0.0000,126.0000"/>
+</g>
+</svg>
