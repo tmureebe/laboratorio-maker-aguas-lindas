@@ -1,0 +1,19 @@
+{
+  "fontes_locais": {
+    "modelos_3D/caixa_com_tampas.scad": "c4ecd0442bf4db2186b857383a723b5007c6b4a843fd4b4ad518131c94097245",
+    "modelos_3D/Stevenson_geometrico/stevenson_geometrico.scad": "b56d22ed400e08dd4319b4efac93ce94d6f710d148c73889b5b0b638b5f9548f"
+  },
+  "modelo": "estacao_integrada.scad",
+  "dimensoes_corpo_caixa_mm": [
+    120,
+    80,
+    50
+  ],
+  "diametro_abrigo_mm": 140,
+  "altura_montada_mm": 195.4,
+  "numero_aletas": 5,
+  "integracao": "Tampa com duas linguetas; baioneta com tres pinos, giro de 30 graus e assento de 1,2 mm; pratos com tres pinos bipartidos por uniao.",
+  "revisao": "R2",
+  "relatorio_revisao": "REVISAO_MEDIDAS_R2.md",
+  "sha256_scad": "577cb53da6562f6fdcecbe413f4b6fba5b4dd6c769ce3d53fd5f84df1723cf95"
+}
