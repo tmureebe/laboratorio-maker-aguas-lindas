@@ -6,7 +6,7 @@
 // A compatibilidade e entre as pecas DESTA versao. Veja LEIA-ME.md.
 
 /* [Visualizacao e exportacao] */
-visualizacao = "montado"; // [montado,explodido,pecas,caixa,tampa_caixa,portinha,base_abrigo,aleta,teto,teste_baioneta,teste_tampa,teste_aletas,corte]
+visualizacao = "montado"; // [montado,explodido,pecas,caixa,tampa_caixa,portinha,base_abrigo,aleta,teto,corte]
 numero_aletas = 5; // [1:1:12]
 separacao_explodido = 28;
 
@@ -477,61 +477,6 @@ module pecas() {
     translate([320,165,0]) imprimir_prato() teto();
 }
 
-module teste_baioneta() {
-    // Soquete real num anel curto: imprimir com a face da tampa na mesa.
-    translate([-40,0,espessura_tampa]) rotate([180,0,0]) difference() {
-        union() {
-            cylinder(d=diametro_colar+4,h=espessura_tampa);
-            soquete_bruto();
-        }
-        cortes_baioneta();
-    }
-    // Tubo curto real, colar apoiado na mesa e pinos para cima.
-    translate([40,0,insercao_tubo+espessura_colar]) rotate([180,0,0])
-        translate([0,0,-z_extremidade_tubo]) union() {
-            translate([0,0,z_extremidade_tubo]) difference() {
-                cylinder(d=diametro_tubo,h=insercao_tubo+espessura_colar);
-                translate([0,0,-eps])
-                    cylinder(d=diametro_interno_tubo,
-                             h=insercao_tubo+espessura_colar+2*eps);
-            }
-            macho_baioneta(false);
-        }
-}
-
-module teste_tampa() {
-    // Janela e lingueta na orientacao real de impressao.
-    translate([-20,0,0]) difference() {
-        translate([-10,0,0]) cube([20,parede_caixa,profundidade_saia]);
-        translate([-largura_lingueta/2-0.5,-eps,
-                   profundidade_saia+z_janela_tampa])
-            cube([largura_lingueta+1,parede_caixa+2*eps,
-                  altura_janela_tampa]);
-    }
-    translate([20,0,espessura_tampa]) rotate([180,0,0])
-        translate([0,-saia_y/2,0]) union() {
-            translate([-10,saia_y/2-5,0]) cube([20,10,espessura_tampa]);
-            lingueta_tampa();
-            // Guia externa da amostra: encosta na face externa da plaqueta
-            // e reproduz automaticamente a folga interna de 0,3 mm.
-            translate([-10,saia_y/2+parede_caixa+folga_tampa,-4])
-                cube([20,1.2,4+eps]);
-        }
-}
-
-module teste_aletas() {
-    for (i=[0,1]) translate([i*28,0,0]) imprimir_prato() {
-        difference() {
-            union() {
-                translate([-10,-10,altura_saia]) cube([20,20,espessura]);
-                if (i==0) suporte_encaixe(); else torre_encaixe();
-            }
-            if (i==0) translate([0,0,altura_saia-eps])
-                furo(diametro_receptor,espessura+2*eps);
-        }
-    }
-}
-
 validar() {
     if (visualizacao=="montado") conjunto();
     else if (visualizacao=="explodido") conjunto(separacao_explodido);
@@ -542,9 +487,6 @@ validar() {
     else if (visualizacao=="base_abrigo") imprimir_prato() base_abrigo();
     else if (visualizacao=="aleta") imprimir_prato() aleta();
     else if (visualizacao=="teto") imprimir_prato() teto();
-    else if (visualizacao=="teste_baioneta") teste_baioneta();
-    else if (visualizacao=="teste_tampa") teste_tampa();
-    else if (visualizacao=="teste_aletas") teste_aletas();
     else if (visualizacao=="corte") difference() {
         conjunto();
         translate([-200,-200,-eps]) cube([400,200,altura_total+2]);

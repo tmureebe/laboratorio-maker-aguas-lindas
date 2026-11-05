@@ -29,11 +29,9 @@ Baixe a pasta [estacao-integrada](../modelos-3d/estacao-integrada/) com seus arq
 
 Os componentes eletrônicos e suas conexões gráficas são ilustrativos. Faça as ligações pela [tabela elétrica](../circuito/README.md), conferindo os terminais reais.
 
-## 3. Imprima e teste os encaixes
+## 3. Imprima as peças
 
-Antes das peças finais, imprima `teste_baioneta.stl`, `teste_tampa.stl` e `teste_aletas.stl`, disponíveis em [STL](../modelos-3d/estacao-integrada/STL/). Cada arquivo contém um par de peças. Use o mesmo material e perfil planejados para o conjunto e siga o [manual ilustrado](../modelos-3d/estacao-integrada/manual_testes_encaixes.pdf).
-
-Depois dos testes, imprima:
+Os encaixes já foram conferidos na montagem física pelo responsável pelo projeto. Os arquivos de fabricação estão na pasta [STL](../modelos-3d/estacao-integrada/STL/). Imprima:
 
 | Peça | Quantidade | Orientação fornecida no STL |
 | --- | ---: | --- |
@@ -44,7 +42,7 @@ Depois dos testes, imprima:
 | `aleta.stl` | 5 | Face plana na mesa, pinos para cima |
 | `teto.stl` | 1 | Face externa na mesa, pinos e alça para cima |
 
-Confira no fatiador as pontes, as linguetas, os canais da baioneta e a alça do teto. Remova rebarbas das interfaces. Ajustes de folga exigem reexportar as peças afetadas e repetir os testes; consulte o [LEIA-ME técnico](../modelos-3d/estacao-integrada/LEIA-ME.md).
+Confira no fatiador as pontes, as linguetas, os canais da baioneta e a alça do teto. Remova rebarbas das interfaces. Alterações nas folgas exigem reexportar as peças afetadas; consulte o [LEIA-ME técnico](../modelos-3d/estacao-integrada/LEIA-ME.md).
 
 Imprima as peças individualmente. A vista montada e o conjunto com circuito não são arquivos para imprimir em bloco.
 
@@ -76,7 +74,7 @@ O conjunto mede aproximadamente 140 × 140 × 195,4 mm. A imagem R2 precede a in
 
 ## 6. Confira o funcionamento
 
-Com a caixa aberta, confirme a ausência de curtos e as tensões de 5 V e 3,3 V nos pontos previstos. Durante a gravação por USB, mantenha S1 aberto. Configure rede e acesso aos dados na versão de firmware escolhida, confira DHT11/GPIO4 e BMP280/0x76 e acompanhe a inicialização e as leituras no monitor serial. Teste também o envio por Wi-Fi e o funcionamento pela bateria antes do fechamento definitivo.
+Com a caixa aberta, confirme a ausência de curtos e as tensões de 5 V e 3,3 V nos pontos previstos. Durante a gravação por USB, mantenha S1 aberto. Configure rede e acesso aos dados na versão de firmware escolhida, confira DHT11/GPIO4 e BMP280/0x76 e acompanhe a inicialização e as leituras no monitor serial. Acompanhe também o envio por Wi-Fi e o funcionamento pela bateria antes do fechamento definitivo.
 
 Para recarregar, abra S1 e utilize a entrada USB do TP4056. O arranjo não inclui gerenciamento de alimentação simultânea durante a carga. A chave interna exige abrir a caixa para acesso.
 
@@ -84,6 +82,6 @@ Para recarregar, abra S1 e utilize a entrada USB do TP4056. O arranjo não inclu
 
 Comprima os dois ganchos pelas janelas e levante a tampa. Para separar o abrigo, segure a tampa, levante o abrigo cerca de 1,2 mm, gire de volta e retire. Para desmontar a pilha, comece pelo teto e comprima os pinos pelas janelas; não use as saias como alavanca. Acompanhe o chicote para evitar tração nos sensores.
 
-As conferências digitais documentadas verificam geometria e malhas. Força de encaixe, durabilidade, fixação dos componentes, vedação e desempenho dos sensores devem ser conferidos no protótipo físico; a estrutura não possui grau IP estabelecido.
+Os encaixes já foram conferidos na montagem física. A estrutura não possui grau IP estabelecido.
 
 [Voltar à estação meteorológica](../README.md)

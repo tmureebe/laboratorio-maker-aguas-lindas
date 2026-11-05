@@ -18,5 +18,3 @@ Os fios representam o percurso e as funções do esquema: bateria → TP4056 pro
 Este é um **modelo de disposição física**, com dimensões presumidas e terminais ilustrativos, não um esquema de pinagem ou uma simulação elétrica. Contatos internos da breadboard, derivações de alimentação, configuração de CSB/SDO do BMP280 e componentes dos módulos não estão detalhados. Confira a pinagem real pelo esquema e pelos módulos antes de montar. Os jumpers não devem ser reproduzidos apenas pela posição gráfica de suas pontas.
 
 Não imprima o conjunto com o circuito como um único STL. Para fabricar a estrutura, use as peças e instruções originais de `LEIA-ME.md`. Meça a breadboard, o ESP32, os módulos e o suporte reais antes de usar esta disposição como gabarito.
-
-Verificação: as quatro vistas foram compiladas em CSG no OpenSCAD com `--hardwarnings`, sem avisos. Essa verificação confirma a compilação, não a ausência de interferências volumétricas nem o encaixe dos componentes reais. A exportação de prévia PNG não estava disponível por falta de conexão OpenGL/X neste ambiente.

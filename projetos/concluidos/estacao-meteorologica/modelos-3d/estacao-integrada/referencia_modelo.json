@@ -14,6 +14,5 @@
   "numero_aletas": 5,
   "integracao": "Tampa com duas linguetas; baioneta com tres pinos, giro de 30 graus e assento de 1,2 mm; pratos com tres pinos bipartidos por uniao.",
   "revisao": "R2",
-  "relatorio_revisao": "REVISAO_MEDIDAS_R2.md",
-  "sha256_scad": "577cb53da6562f6fdcecbe413f4b6fba5b4dd6c769ce3d53fd5f84df1723cf95"
+  "sha256_scad": "54dafe39171da1875605297fe93a1c7544f40af32f059d0c2ae689001f895b12"
 }
