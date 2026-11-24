@@ -10,5 +10,6 @@ O placar eletrônico foi validado em bancada. A turma estudou visão computacion
 
 - [Relatório de execução do projeto de ensino](documentos/relatorio-execucao-air-hockey.pdf)
 - [Fotos do curso e da demonstração final](fotos/)
+- [Vídeos do curso e da demonstração final](videos/)
 
 [Voltar ao índice geral](../../../README.md)
