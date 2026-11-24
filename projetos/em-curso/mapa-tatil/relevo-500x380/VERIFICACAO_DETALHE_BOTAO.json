@@ -1,0 +1,140 @@
+{
+  "cavidade_inferior_xy_mm": [
+    15.3,
+    12.5
+  ],
+  "espessura_assento_mm": 1.2,
+  "parede_minima_mm": 1.2,
+  "furo_central_impresso": false,
+  "diametro_furo_mdf_mm": 2.6,
+  "furos_mdf_por_botao": 4,
+  "fio_isolado_mm": 1.4,
+  "solda_envelope_mm": [
+    2,
+    2,
+    1.6
+  ],
+  "ferro_envelope": {
+    "diametro_ponta_mm": 3,
+    "inclinacao_graus": 15,
+    "terminais_conferidos_por_botao": 4,
+    "mdf_removido": true
+  },
+  "verificacao_cgal": [
+    {
+      "botao": 1,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.515
+    },
+    {
+      "botao": 2,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.515
+    },
+    {
+      "botao": 3,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.515
+    },
+    {
+      "botao": 4,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.518
+    },
+    {
+      "botao": 5,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.518
+    },
+    {
+      "botao": 6,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.518
+    },
+    {
+      "botao": 7,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.518
+    },
+    {
+      "botao": 8,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.518
+    },
+    {
+      "botao": 9,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.518
+    },
+    {
+      "botao": 10,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.518
+    },
+    {
+      "botao": 11,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.523
+    },
+    {
+      "botao": 12,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.513
+    },
+    {
+      "botao": 13,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.518
+    },
+    {
+      "botao": 14,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.518
+    },
+    {
+      "botao": 15,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.518
+    },
+    {
+      "botao": 16,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.518
+    },
+    {
+      "botao": 17,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.518
+    },
+    {
+      "botao": 18,
+      "interferencia_solda_fio_com_pecas": false,
+      "interferencia_ferro_com_impresso": false,
+      "area_apoio_corpo_mm2": 130.518
+    }
+  ],
+  "resultado": "18 alojamentos com acesso inferior aos quatro terminais, sem interferencias nos envelopes nominais e com assento preservado",
+  "processo": "soldar pela face inferior antes de fixar o relevo ao MDF, ou soldar fora antes de encaixar",
+  "fontes_sha256": {
+    "construcoes_vista_aerea.scad": "3414dab52d9af4c1ed3334157441883d63aa4c4b9909fdbece7a595e52b5a6ba",
+    "Detalhe_encaixe_botao_e_fios.scad": "16a477b4da73e2e9e911ca6abeb891af8818eb4d696451b4c67cad7cd6a7212e",
+    "validar_encaixe_botao.py": "776f4a0abcce5543a997c7af5a8cae21df9ad44d37627621305a037f6a5b2772"
+  }
+}

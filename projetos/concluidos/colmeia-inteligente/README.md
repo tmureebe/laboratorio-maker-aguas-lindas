@@ -20,4 +20,6 @@ O repositório específico do projeto é https://github.com/joaquimoliveira26/co
 - [Fotos](fotos/)
 - [Videos](videos/)
 
+A equipe também apresentou o projeto em comunicação oral na [XII SECITEC do Câmpus Águas Lindas](../../../eventos/concluidos/secitec-2026/).
+
 [Voltar ao índice geral](../../../README.md)

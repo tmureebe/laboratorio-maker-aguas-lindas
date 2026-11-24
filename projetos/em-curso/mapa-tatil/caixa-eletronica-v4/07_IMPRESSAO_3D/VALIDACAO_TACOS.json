@@ -1,0 +1,146 @@
+{
+  "unidade": "mm",
+  "ensaio_fisico_realizado": false,
+  "1un": {
+    "triangulos": 268,
+    "componentes": 1,
+    "dimensoes_na_impressao_mm": [
+      20.0,
+      44.0,
+      20.0
+    ],
+    "malha_fechada": true,
+    "orientacao_consistente": true,
+    "volumes_solidos_mm3": [
+      17489.3426
+    ],
+    "furo_cego_diametro_mm": 2.8,
+    "profundidade_furo_mm": 18
+  },
+  "8un": {
+    "triangulos": 2144,
+    "componentes": 8,
+    "dimensoes_na_impressao_mm": [
+      98.0,
+      94.0,
+      20.0
+    ],
+    "malha_fechada": true,
+    "orientacao_consistente": true,
+    "volumes_solidos_mm3": [
+      17489.3426,
+      17489.3425,
+      17489.3426,
+      17489.3425,
+      17489.3426,
+      17489.3425,
+      17489.3426,
+      17489.3425
+    ],
+    "furo_cego_diametro_mm": 2.8,
+    "profundidade_furo_mm": 18
+  },
+  "posicoes_compativeis_com_as_paredes": [
+    {
+      "centro_x_s": [
+        30,
+        13
+      ],
+      "eixo_furo_caixa": [
+        30,
+        3,
+        35
+      ],
+      "face_colagem_z": 47
+    },
+    {
+      "centro_x_s": [
+        150,
+        13
+      ],
+      "eixo_furo_caixa": [
+        150,
+        3,
+        35
+      ],
+      "face_colagem_z": 47
+    },
+    {
+      "centro_x_s": [
+        400,
+        13
+      ],
+      "eixo_furo_caixa": [
+        400,
+        3,
+        35
+      ],
+      "face_colagem_z": 47
+    },
+    {
+      "centro_x_s": [
+        470,
+        13
+      ],
+      "eixo_furo_caixa": [
+        470,
+        3,
+        35
+      ],
+      "face_colagem_z": 47
+    },
+    {
+      "centro_x_s": [
+        30,
+        367
+      ],
+      "eixo_furo_caixa": [
+        30,
+        377,
+        35
+      ],
+      "face_colagem_z": 47
+    },
+    {
+      "centro_x_s": [
+        150,
+        367
+      ],
+      "eixo_furo_caixa": [
+        150,
+        377,
+        35
+      ],
+      "face_colagem_z": 47
+    },
+    {
+      "centro_x_s": [
+        270,
+        367
+      ],
+      "eixo_furo_caixa": [
+        270,
+        377,
+        35
+      ],
+      "face_colagem_z": 47
+    },
+    {
+      "centro_x_s": [
+        470,
+        367
+      ],
+      "eixo_furo_caixa": [
+        470,
+        377,
+        35
+      ],
+      "face_colagem_z": 47
+    }
+  ],
+  "sha256": {
+    "04_MODELO_3D/Taco_impressao_3D.scad": "3be7c24ff02f300e6cb918eb65fb691463f259dac0fb5081b2d9cbe8c7a76deb",
+    "07_IMPRESSAO_3D/Taco_20x20x44_1un.stl": "a46c94214087a733350a9f5afde770254f32d1c8696a73e836ac965c2569a11c",
+    "07_IMPRESSAO_3D/Tacos_20x20x44_8un.stl": "35bd67ccc49fb88da8fb36b9bd8213642b847c0a1a7578b117c621b9a5836135"
+  }
+}

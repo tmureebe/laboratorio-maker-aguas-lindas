@@ -1,0 +1,27 @@
+{
+  "anatomia": {
+    "comprimento_mm": 210.0,
+    "largura_proximal_mm": 84.0,
+    "altura_relevo_mm": 29.0,
+    "base_mm": 4.0,
+    "lesao_centro_mm": [2.0, -5.0],
+    "lesao_largura_mm": 39.0,
+    "lesao_comprimento_mm": 80.0,
+    "lesao_profundidade_mm": 2.8,
+    "borda_irregularidade": 0.10,
+    "transicao_borda_mm": 4.0
+  },
+  "texturas": {
+    "granulacao_altura_mm": 0.65,
+    "granulacao_diametro_mm": [1.8, 3.5],
+    "granulacao_espacamento_mm": 2.9,
+    "fibrina_altura_mm": 0.38,
+    "fibrina_prega_largura_mm": 1.6,
+    "fibrina_ilhas": [[-10, 18, 7, 13], [10, -19, 6, 15], [-7, -29, 8, 6]],
+    "pele_perilesional_altura_mm": 0.32,
+    "pele_integra_altura_mm": 0.055
+  },
+  "ampliacao_tatil": {"anatomica": 1.0, "tatil": 1.75},
+  "malha": {"passo_maximo_mm": 0.28, "semente": 417},
+  "render": {"resolucao": 1400, "amostras": 32}
+}

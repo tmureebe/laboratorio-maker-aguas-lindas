@@ -6,6 +6,17 @@ Construímos uma estação com ESP32, DHT11 e BMP280 para acompanhar temperatura
 
 **Atualização de novembro de 2026:** esquema elétrico por módulos, modelos integrados com e sem circuito e guia de montagem. Os encaixes da estrutura integrada já foram conferidos na montagem física pelo responsável pelo projeto.
 
+Em novembro, a equipe apresentou o projeto em comunicação oral na [XII SECITEC do Câmpus Águas Lindas](../../../eventos/concluidos/secitec-2026/).
+
+## Firmware V2
+
+- [Código da versão 2](codigo/estacao_meteorologica_v2/estacao_meteorologica_v2.ino), com parâmetros de Wi-Fi e Firebase para preencher antes do uso.
+- [Comparação didática das versões](guias/comparacao-firmware-v2.pdf), com as mudanças no armazenamento local, na confirmação de envio e na recuperação após falhas.
+
+## Abrigo do sensor
+
+- [Análise da pingadeira](guias/analise-pingadeira.md), com uma proposta de aba para comparar em ensaio de chuva e avaliar o efeito sobre a ventilação.
+
 ## Circuito e montagem
 
 - [Guia de montagem da estação integrada](guias/montagem-integrada.md): materiais, impressão, encaixes, ligações e conferência inicial.

@@ -1,0 +1,13 @@
+{
+  "anatomia": {
+    "comprimento_mm": 192, "largura_mm": 78, "altura_mm": 36, "base_mm": 3.5,
+    "centro_lesao_fracao": [0.035, 0.178], "largura_lesao_mm": 36, "comprimento_lesao_mm": 40,
+    "rebaixo_visivel_mm": 1.6, "transicao_mm": 2.8, "irregularidade_borda": 0.095
+  },
+  "texturas": {
+    "altura_escara_mm": 0.63, "largura_sulcos_mm": 1.6, "altura_borda_mm": 0.65,
+    "rugosidade_perilesional_mm": 0.32, "rugosidade_pele_mm": 0.06
+  },
+  "ampliacao_tatil": {"anatomica": 1.0, "tatil": 1.7},
+  "malha": {"passo_mm": 0.30, "semente": 4071}
+}

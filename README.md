@@ -44,4 +44,4 @@ Materiais de terceiros mantêm suas licenças e atribuições próprias, que dev
 
 ---
 
-Situação das atividades descrita em outubro de 2026.
+Situação das atividades descrita em novembro de 2026.

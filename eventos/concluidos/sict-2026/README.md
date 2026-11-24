@@ -11,5 +11,6 @@ Veja o [resumo da colmeia](trabalhos/resumo-colmeia-inteligente.pdf) e os [arqui
 ## Arquivos
 
 - [Trabalhos](trabalhos/)
+- [Certificado da comunicação oral sobre a colmeia](documentos/certificado-colmeia-inteligente.pdf)
 
 [Voltar ao índice geral](../../../README.md)

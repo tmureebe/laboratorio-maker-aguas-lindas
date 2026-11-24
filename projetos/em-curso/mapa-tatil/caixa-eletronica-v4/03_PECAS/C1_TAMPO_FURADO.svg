@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="500mm" height="380mm" viewBox="0 0 500 380" overflow="visible">
+<title>Corte em mm, escala 1:1; sem compensação de feixe</title>
+<desc>Contornos pretos de 0,35 mm para visualização. Cortar pelos eixos vetoriais, sem converter o traço em contorno. Contornos internos são cortes passantes; marcações são fornecidas em PDF separado.</desc>
+<g id="CORTE">
+<path id="C1_TAMPO_FURADO_0" d="M 0.000000,380.000000 L 500.000000,380.000000 L 500.000000,0.000000 L 0.000000,0.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_1" cx="147.417000" cy="337.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_2" cx="147.417000" cy="332.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_3" cx="159.917000" cy="337.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_4" cx="159.917000" cy="332.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_5" cx="102.417000" cy="290.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_6" cx="102.417000" cy="285.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_7" cx="114.917000" cy="290.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_8" cx="114.917000" cy="285.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_9" cx="210.750000" cy="290.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_10" cx="210.750000" cy="285.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_11" cx="223.250000" cy="290.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_12" cx="223.250000" cy="285.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_13" cx="199.083000" cy="247.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_14" cx="199.083000" cy="242.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_15" cx="211.583000" cy="247.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_16" cx="211.583000" cy="242.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_17" cx="230.750000" cy="260.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_18" cx="230.750000" cy="255.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_19" cx="243.250000" cy="260.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_20" cx="243.250000" cy="255.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_21" cx="149.083000" cy="243.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_22" cx="149.083000" cy="238.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_23" cx="161.583000" cy="243.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_24" cx="161.583000" cy="238.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_25" cx="127.417000" cy="243.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_26" cx="127.417000" cy="238.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_27" cx="139.917000" cy="243.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_28" cx="139.917000" cy="238.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_29" cx="105.750000" cy="243.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_30" cx="105.750000" cy="238.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_31" cx="118.250000" cy="243.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_32" cx="118.250000" cy="238.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_33" cx="84.083000" cy="243.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_34" cx="84.083000" cy="238.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_35" cx="96.583000" cy="243.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_36" cx="96.583000" cy="238.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_37" cx="110.750000" cy="260.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_38" cx="110.750000" cy="255.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_39" cx="123.250000" cy="260.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_40" cx="123.250000" cy="255.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_41" cx="309.083000" cy="182.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_42" cx="309.083000" cy="177.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_43" cx="321.583000" cy="182.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_44" cx="321.583000" cy="177.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_45" cx="112.917000" cy="98.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_46" cx="112.917000" cy="93.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_47" cx="125.417000" cy="98.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_48" cx="125.417000" cy="93.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_49" cx="175.750000" cy="123.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_50" cx="175.750000" cy="118.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_51" cx="188.250000" cy="123.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_52" cx="188.250000" cy="118.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_53" cx="182.250000" cy="92.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_54" cx="182.250000" cy="87.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_55" cx="194.750000" cy="92.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_56" cx="194.750000" cy="87.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_57" cx="165.750000" cy="92.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_58" cx="165.750000" cy="87.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_59" cx="178.250000" cy="92.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_60" cx="178.250000" cy="87.167000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_61" cx="184.083000" cy="53.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_62" cx="184.083000" cy="48.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_63" cx="196.583000" cy="53.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_64" cx="196.583000" cy="48.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_65" cx="166.583000" cy="53.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_66" cx="166.583000" cy="48.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_67" cx="179.083000" cy="53.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_68" cx="179.083000" cy="48.833000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_69" cx="174.917000" cy="40.000000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_70" cx="174.917000" cy="35.000000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_71" cx="187.417000" cy="40.000000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C1_TAMPO_FURADO_72" cx="187.417000" cy="35.000000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+</g>
+</svg>

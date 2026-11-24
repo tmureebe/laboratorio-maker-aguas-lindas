@@ -1,6 +1,6 @@
 # Projetos
 
-Situação das atividades em outubro de 2026.
+Situação das atividades em novembro de 2026.
 
 ## [Concluídos](concluidos/)
 
@@ -17,6 +17,7 @@ Situação das atividades em outubro de 2026.
 - [Túnel de vento](em-curso/tunel-de-vento/)
 - [Mapa tátil do câmpus](em-curso/mapa-tatil/)
 - [Materiais para os PCCs da Licenciatura em Ciências Biológicas](em-curso/materiais-pcc-biologia/)
+- [Modelos táteis de feridas](em-curso/modelos-tateis-de-feridas/)
 
 ## [Previstos](previstos/)
 

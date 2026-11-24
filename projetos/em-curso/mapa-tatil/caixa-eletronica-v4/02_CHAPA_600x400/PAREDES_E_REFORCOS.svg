@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600mm" height="400mm" viewBox="0 0 600 400" overflow="visible">
 <title>Corte em mm, escala 1:1; sem compensação de feixe</title>
-<desc>Contornos pretos de 0,35 mm para visualização. Cortar pelos eixos vetoriais, sem converter o traço em contorno. Painéis lisos contêm apenas um retângulo fechado.</desc>
+<desc>Contornos pretos de 0,35 mm para visualização. Cortar pelos eixos vetoriais, sem converter o traço em contorno. Contornos internos são cortes passantes; marcações são fornecidas em PDF separado.</desc>
 <g id="CORTE">
 <path id="C2_FRENTE_0" d="M 20.000000,380.000000 L 514.000000,380.000000 L 514.000000,336.000000 L 20.000000,336.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
 <path id="C2_FRENTE_1" d="M 323.000000,369.000000 L 325.000000,369.000000 L 325.000000,347.000000 L 323.000000,347.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
@@ -17,17 +17,17 @@
 <circle id="C2_FRENTE_11" cx="167.000000" cy="348.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
 <circle id="C2_FRENTE_12" cx="417.000000" cy="348.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
 <circle id="C2_FRENTE_13" cx="487.000000" cy="348.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
-<path id="C3_TRAS_USB_0" d="M 20.000000,328.000000 L 514.000000,328.000000 L 514.000000,284.000000 L 101.000000,284.000000 L 101.000000,298.000000 L 77.000000,298.000000 L 77.000000,284.000000 L 20.000000,284.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C3_TRAS_USB_0" d="M 20.000000,328.000000 L 514.000000,328.000000 L 514.000000,284.000000 L 363.000000,284.000000 L 363.000000,298.000000 L 339.000000,298.000000 L 339.000000,284.000000 L 20.000000,284.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
 <circle id="C3_TRAS_USB_1" cx="47.000000" cy="296.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
 <circle id="C3_TRAS_USB_2" cx="167.000000" cy="296.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
-<circle id="C3_TRAS_USB_3" cx="417.000000" cy="296.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="C3_TRAS_USB_3" cx="287.000000" cy="296.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
 <circle id="C3_TRAS_USB_4" cx="487.000000" cy="296.000000" r="1.750000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
-<path id="C3_TRAS_USB_5" d="M 117.000000,313.000000 L 120.000000,313.000000 L 120.000000,305.000000 L 117.000000,305.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
-<path id="C3_TRAS_USB_6" d="M 129.000000,313.000000 L 132.000000,313.000000 L 132.000000,305.000000 L 129.000000,305.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C3_TRAS_USB_5" d="M 379.000000,313.000000 L 382.000000,313.000000 L 382.000000,305.000000 L 379.000000,305.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C3_TRAS_USB_6" d="M 391.000000,313.000000 L 394.000000,313.000000 L 394.000000,305.000000 L 391.000000,305.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
 <path id="C4_ESQUERDA_0" d="M 20.000000,276.000000 L 400.000000,276.000000 L 400.000000,232.000000 L 20.000000,232.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
 <path id="C5_DIREITA_0" d="M 20.000000,224.000000 L 400.000000,224.000000 L 400.000000,180.000000 L 20.000000,180.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
-<path id="C6_NX1_0" d="M 20.000000,172.000000 L 514.000000,172.000000 L 514.000000,142.000000 L 268.575000,142.000000 L 268.575000,157.075000 L 265.425000,157.075000 L 265.425000,142.000000 L 20.000000,142.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
-<path id="C7_NX2_0" d="M 20.000000,134.000000 L 514.000000,134.000000 L 514.000000,104.000000 L 268.575000,104.000000 L 268.575000,119.075000 L 265.425000,119.075000 L 265.425000,104.000000 L 20.000000,104.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
-<path id="C8_NY_0" d="M 20.000000,96.000000 L 125.425000,96.000000 L 125.425000,80.925000 L 128.575000,80.925000 L 128.575000,96.000000 L 255.425000,96.000000 L 255.425000,80.925000 L 258.575000,80.925000 L 258.575000,96.000000 L 394.000000,96.000000 L 394.000000,66.000000 L 20.000000,66.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C6_NX1_0" d="M 20.000000,172.000000 L 97.000000,172.000000 L 97.000000,160.000000 L 257.000000,160.000000 L 257.000000,172.000000 L 327.000000,172.000000 L 327.000000,160.000000 L 387.000000,160.000000 L 387.000000,172.000000 L 514.000000,172.000000 L 514.000000,142.000000 L 268.575000,142.000000 L 268.575000,157.075000 L 265.425000,157.075000 L 265.425000,142.000000 L 20.000000,142.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C7_NX2_0" d="M 20.000000,134.000000 L 107.000000,134.000000 L 107.000000,122.000000 L 242.000000,122.000000 L 242.000000,134.000000 L 297.000000,134.000000 L 297.000000,122.000000 L 467.000000,122.000000 L 467.000000,134.000000 L 514.000000,134.000000 L 514.000000,104.000000 L 268.575000,104.000000 L 268.575000,119.075000 L 265.425000,119.075000 L 265.425000,104.000000 L 20.000000,104.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<path id="C8_NY_0" d="M 20.000000,96.000000 L 47.000000,96.000000 L 47.000000,84.000000 L 112.000000,84.000000 L 112.000000,96.000000 L 125.425000,96.000000 L 125.425000,80.925000 L 128.575000,80.925000 L 128.575000,96.000000 L 142.000000,96.000000 L 142.000000,84.000000 L 237.000000,84.000000 L 237.000000,96.000000 L 255.425000,96.000000 L 255.425000,80.925000 L 258.575000,80.925000 L 258.575000,96.000000 L 282.000000,96.000000 L 282.000000,84.000000 L 372.000000,84.000000 L 372.000000,96.000000 L 394.000000,96.000000 L 394.000000,66.000000 L 20.000000,66.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
 </g>
 </svg>

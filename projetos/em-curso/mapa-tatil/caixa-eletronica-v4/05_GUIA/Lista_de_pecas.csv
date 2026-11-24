@@ -1,11 +1,11 @@
-﻿identificacao;quantidade;largura_mm;altura_mm;espessura_mm;origem
-C0_BASE;1;500.0;380.0;3.0;Painel separado 500x380
-C1_TAMPO_LISO;1;500.0;380.0;3.0;Painel separado 500x380
-C2_FRENTE;1;494.0;44.0;3.0;Chapa adicional 600x400
-C3_TRAS_USB;1;494;44;3.0;Chapa adicional 600x400
-C4_ESQUERDA;1;380.0;44.0;3.0;Chapa adicional 600x400
-C5_DIREITA;1;380.0;44.0;3.0;Chapa adicional 600x400
-C6_NX1;1;494.0;30;3.0;Chapa adicional 600x400
-C7_NX2;1;494.0;30;3.0;Chapa adicional 600x400
-C8_NY;1;374.0;30;3.0;Chapa adicional 600x400
-TACO_MADEIRA;8;20;20;44;"Madeira maciça; corte fora do laser"
+﻿id;quantidade;largura_mm;altura_mm;espessura_mm;acao
+C0_BASE;1;500;380;3;REAPROVEITAR V4
+C1_TAMPO_FURADO;1;500;380;3;REFABRICAR
+C2_FRENTE;1;494;44;3;REAPROVEITAR V4
+C3_TRAS_USB;1;494;44;3;REFABRICAR
+C4_ESQUERDA;1;380;44;3;REAPROVEITAR V4
+C5_DIREITA;1;380;44;3;REAPROVEITAR V4
+C6_NX1;1;494;30;3;REFABRICAR
+C7_NX2;1;494;30;3;REFABRICAR
+C8_NY;1;374;30;3;REFABRICAR
+TACO_20x20x44;8;20;20;44;IMPRIMIR modelo com furo cego Ø2,8 × 18 mm para parafuso 3,5 × 12 ou 3,5 × 20 mm

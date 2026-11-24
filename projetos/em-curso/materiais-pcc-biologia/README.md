@@ -1,8 +1,13 @@
 # Materiais para os PCCs da Licenciatura em Ciências Biológicas
 
-**Situação em outubro de 2026:** Em curso, com impressão de materiais em andamento.
+**Situação em novembro de 2026:** Em curso, com impressão de materiais em andamento.
 
 Estamos produzindo peças em impressão 3D para apoiar atividades dos PCCs e a preparação de recursos didáticos na Licenciatura em Ciências Biológicas.
+
+## Materiais em preparação
+
+- **Anatomia vegetal.** Modelos de caule de dicotiledônea e de estruturas da folha, incluindo o parênquima lacunoso. Foram elaboradas abas removíveis para melhorar o contato das peças do parênquima com a mesa de impressão.
+- **Evolução em Ação.** Besouro didático de 30 mm, desenvolvido para atividades do PCC. Consulte o [modelo OpenSCAD](modelos-3d/besouro-30-mm/besouro_30mm.scad) e o [STL para impressão](modelos-3d/besouro-30-mm/besouro_30mm.stl).
 
 ## Como consultar
 

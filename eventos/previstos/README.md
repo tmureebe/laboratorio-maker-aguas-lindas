@@ -1,5 +1,5 @@
 # Eventos: previstos
 
-- [XII SECITEC do Câmpus Águas Lindas](secitec-2026/): Previsto, em preparação.
+Sem atividade identificada nesta situação.
 
 [Voltar à categoria](../README.md)

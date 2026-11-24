@@ -5,5 +5,6 @@
 - [1º Encontro Nacional do Mais Ciência na Escola](encontro-mais-ciencia-na-escola-2026/): Concluído, de 24 a 26 de março de 2026.
 - [Apresentação do laboratório ao CNPq](apresentacao-cnpq-2026/): Concluído, em 15 de setembro de 2026.
 - [19º Seminário de Iniciação Científica e Tecnológica do IFG](sict-2026/): Concluído, em 14 e 15 de outubro de 2026, no Câmpus Aparecida de Goiânia.
+- [XII SECITEC do Câmpus Águas Lindas](secitec-2026/): comunicações orais em 5 de novembro e painel interativo em 6 de novembro de 2026.
 
 [Voltar à categoria](../README.md)

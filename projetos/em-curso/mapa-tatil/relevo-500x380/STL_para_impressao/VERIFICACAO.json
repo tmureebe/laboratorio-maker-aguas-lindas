@@ -1,0 +1,361 @@
+{
+  "fonte": "../construcoes_vista_aerea.scad",
+  "sha256_fonte": "3414dab52d9af4c1ed3334157441883d63aa4c4b9909fdbece7a595e52b5a6ba",
+  "unidade": "mm",
+  "escala": 1,
+  "total_arquivos": 13,
+  "todas_pecas_verificadas": true,
+  "pecas": [
+    {
+      "arquivo": "01_Bloco_administrativo.stl",
+      "tipo": "edificio",
+      "numero_no_scad": 0,
+      "quantidade": 1,
+      "dimensoes_xyz_mm": [
+        175.5467,
+        36.5315,
+        16.5333
+      ],
+      "triangulos": 4284,
+      "componentes": 1,
+      "malha_fechada": true,
+      "orientacao_coerente": true,
+      "limpeza_triangulacao": {
+        "faces_colineares_removidas": 26,
+        "arestas_retrianguladas": 10
+      },
+      "volume_mm3": 69866.0544,
+      "base_z_mm": 0,
+      "translacao_aplicada_mm": [
+        1.22070304087174e-07,
+        3.3365886338287964e-06,
+        -0.0
+      ],
+      "sha256": "fe2ae39e91ae27839f9b021115d704ddeefcdea0930f1ef77b9de92a9e52a3d3"
+    },
+    {
+      "arquivo": "02_Bloco_de_ensino.stl",
+      "tipo": "edificio",
+      "numero_no_scad": 1,
+      "quantidade": 1,
+      "dimensoes_xyz_mm": [
+        36.0333,
+        111.7048,
+        16.5333
+      ],
+      "triangulos": 4368,
+      "componentes": 1,
+      "malha_fechada": true,
+      "orientacao_coerente": true,
+      "limpeza_triangulacao": {
+        "faces_colineares_removidas": 12,
+        "arestas_retrianguladas": 6
+      },
+      "volume_mm3": 37510.0721,
+      "base_z_mm": 0,
+      "translacao_aplicada_mm": [
+        0.3988337218761444,
+        3.7027994039817713e-06,
+        -0.0
+      ],
+      "sha256": "78eed6469cd61a8d64723c005b47462972ce6592b05855de7087ff122bb98f06"
+    },
+    {
+      "arquivo": "03_Restaurante.stl",
+      "tipo": "edificio",
+      "numero_no_scad": 2,
+      "quantidade": 1,
+      "dimensoes_xyz_mm": [
+        38.5018,
+        67.5538,
+        11.8667
+      ],
+      "triangulos": 720,
+      "componentes": 1,
+      "malha_fechada": true,
+      "orientacao_coerente": true,
+      "limpeza_triangulacao": {
+        "faces_colineares_removidas": 2,
+        "arestas_retrianguladas": 1
+      },
+      "volume_mm3": 23418.0874,
+      "base_z_mm": 0,
+      "translacao_aplicada_mm": [
+        8.544921911379788e-06,
+        5.289713499223581e-06,
+        -0.0
+      ],
+      "sha256": "bd2cb0590bbc0c6a270c0d18b3c9b714b2771f11b24106a6dbfc9ac21225e553"
+    },
+    {
+      "arquivo": "04_Quadra_poliesportiva.stl",
+      "tipo": "edificio",
+      "numero_no_scad": 3,
+      "quantidade": 1,
+      "dimensoes_xyz_mm": [
+        50.883,
+        79.7723,
+        19.8667
+      ],
+      "triangulos": 284,
+      "componentes": 1,
+      "malha_fechada": true,
+      "orientacao_coerente": true,
+      "limpeza_triangulacao": {
+        "faces_colineares_removidas": 2,
+        "arestas_retrianguladas": 1
+      },
+      "volume_mm3": 64756.4104,
+      "base_z_mm": 0,
+      "translacao_aplicada_mm": [
+        7.283528702828335e-06,
+        1.13932287604257e-06,
+        -0.0
+      ],
+      "sha256": "b98f0b4fb5555e1fe42fb8a473e79366da6e7ba9744a80fa65a125f671667352"
+    },
+    {
+      "arquivo": "05_Passarelas_rede_central.stl",
+      "tipo": "passagem",
+      "numero_no_scad": 0,
+      "quantidade": 1,
+      "dimensoes_xyz_mm": [
+        169.3452,
+        111.6345,
+        5.0
+      ],
+      "triangulos": 84,
+      "componentes": 1,
+      "malha_fechada": true,
+      "orientacao_coerente": true,
+      "limpeza_triangulacao": {
+        "faces_colineares_removidas": 0,
+        "arestas_retrianguladas": 0
+      },
+      "volume_mm3": 10119.4729,
+      "base_z_mm": 0,
+      "translacao_aplicada_mm": [
+        1.1311848538753111e-05,
+        -0.0033688151743263006,
+        -0.0
+      ],
+      "sha256": "34818deed05cec7483cd18442eb3b45ad9b9325e19e4a2528586f6fc390c9a1b"
+    },
+    {
+      "arquivo": "06_Passarela_continuacao_norte.stl",
+      "tipo": "passagem",
+      "numero_no_scad": 1,
+      "quantidade": 1,
+      "dimensoes_xyz_mm": [
+        5.0059,
+        97.9585,
+        5.0
+      ],
+      "triangulos": 12,
+      "componentes": 1,
+      "malha_fechada": true,
+      "orientacao_coerente": true,
+      "limpeza_triangulacao": {
+        "faces_colineares_removidas": 0,
+        "arestas_retrianguladas": 0
+      },
+      "volume_mm3": 2450.3577,
+      "base_z_mm": 0,
+      "translacao_aplicada_mm": [
+        7.202148481155746e-06,
+        1.0172526572205243e-06,
+        -0.0
+      ],
+      "sha256": "a32503e8992a1119bf2fcf3eb15ad920dce1a09a10913752db7c993c4fc706ed"
+    },
+    {
+      "arquivo": "07_Acesso_entrada.stl",
+      "tipo": "passagem",
+      "numero_no_scad": 2,
+      "quantidade": 1,
+      "dimensoes_xyz_mm": [
+        23.8441,
+        52.7699,
+        5.0
+      ],
+      "triangulos": 20,
+      "componentes": 1,
+      "malha_fechada": true,
+      "orientacao_coerente": true,
+      "limpeza_triangulacao": {
+        "faces_colineares_removidas": 0,
+        "arestas_retrianguladas": 0
+      },
+      "volume_mm3": 1931.8128,
+      "base_z_mm": 0,
+      "translacao_aplicada_mm": [
+        7.324218813664629e-07,
+        1.0172526344831567e-05,
+        -0.0
+      ],
+      "sha256": "168402657043e26715e9281b92bcf844b043330c0f17c8fb2fa4d1a465134750"
+    },
+    {
+      "arquivo": "08_Piso_entrada_principal.stl",
+      "tipo": "piso",
+      "numero_no_scad": 0,
+      "quantidade": 1,
+      "dimensoes_xyz_mm": [
+        26.6667,
+        28.3333,
+        8.5
+      ],
+      "triangulos": 216,
+      "componentes": 1,
+      "malha_fechada": true,
+      "orientacao_coerente": true,
+      "limpeza_triangulacao": {
+        "faces_colineares_removidas": 2,
+        "arestas_retrianguladas": 1
+      },
+      "volume_mm3": 1861.6338,
+      "base_z_mm": 0,
+      "translacao_aplicada_mm": [
+        3.178914482759865e-07,
+        3.178914482759865e-07,
+        -0.0
+      ],
+      "sha256": "f1f879094aa3ca42731f0cb0fe1ac68263740e491f0161f2722e4ca28a3697f9"
+    },
+    {
+      "arquivo": "09_Piso_estacionamento.stl",
+      "tipo": "piso",
+      "numero_no_scad": 1,
+      "quantidade": 1,
+      "dimensoes_xyz_mm": [
+        58.3333,
+        30.0,
+        8.5
+      ],
+      "triangulos": 720,
+      "componentes": 1,
+      "malha_fechada": true,
+      "orientacao_coerente": true,
+      "limpeza_triangulacao": {
+        "faces_colineares_removidas": 2,
+        "arestas_retrianguladas": 1
+      },
+      "volume_mm3": 3867.8815,
+      "base_z_mm": 0,
+      "translacao_aplicada_mm": [
+        6.35782896551973e-07,
+        3.178914482759865e-07,
+        -0.0
+      ],
+      "sha256": "27b24b4e58698190173ea8f0d1d5502bafd74a9447fc2a451484378c9f0becb9"
+    },
+    {
+      "arquivo": "10_Piso_bicicletario.stl",
+      "tipo": "piso",
+      "numero_no_scad": 2,
+      "quantidade": 1,
+      "dimensoes_xyz_mm": [
+        65.0,
+        30.0,
+        8.5
+      ],
+      "triangulos": 1608,
+      "componentes": 1,
+      "malha_fechada": true,
+      "orientacao_coerente": true,
+      "limpeza_triangulacao": {
+        "faces_colineares_removidas": 2,
+        "arestas_retrianguladas": 1
+      },
+      "volume_mm3": 4263.7493,
+      "base_z_mm": 0,
+      "translacao_aplicada_mm": [
+        -0.0,
+        3.178914482759865e-07,
+        -0.0
+      ],
+      "sha256": "c039a5ea2588cbbf780fcb7453cf61ba12669db0b91cdce35eabf17efcb2dbbc"
+    },
+    {
+      "arquivo": "11_Rampa.stl",
+      "tipo": "rampa",
+      "numero_no_scad": 0,
+      "quantidade": 1,
+      "dimensoes_xyz_mm": [
+        34.1667,
+        56.6667,
+        15.3333
+      ],
+      "triangulos": 88,
+      "componentes": 1,
+      "malha_fechada": true,
+      "orientacao_coerente": true,
+      "limpeza_triangulacao": {
+        "faces_colineares_removidas": 0,
+        "arestas_retrianguladas": 0
+      },
+      "volume_mm3": 6225.3401,
+      "base_z_mm": 0,
+      "translacao_aplicada_mm": [
+        3.178914482759865e-07,
+        -0.0,
+        -0.0
+      ],
+      "sha256": "81c3cfe0a3867590441e77fa21fd7928b6875e1b09018058dcf02fec4309c69b"
+    },
+    {
+      "arquivo": "12_Escada_administrativo.stl",
+      "tipo": "escada",
+      "numero_no_scad": 0,
+      "quantidade": 1,
+      "dimensoes_xyz_mm": [
+        13.3333,
+        16.6667,
+        4.0
+      ],
+      "triangulos": 44,
+      "componentes": 1,
+      "malha_fechada": true,
+      "orientacao_coerente": true,
+      "limpeza_triangulacao": {
+        "faces_colineares_removidas": 0,
+        "arestas_retrianguladas": 0
+      },
+      "volume_mm3": 622.2221,
+      "base_z_mm": 0,
+      "translacao_aplicada_mm": [
+        -0.0,
+        -0.0,
+        -0.0
+      ],
+      "sha256": "09bdc43ea99bb07fb8f5fc19ad6ca97854115496c3c37d4ac3f2161029637af7"
+    },
+    {
+      "arquivo": "13_Escada_ensino.stl",
+      "tipo": "escada",
+      "numero_no_scad": 1,
+      "quantidade": 1,
+      "dimensoes_xyz_mm": [
+        13.3333,
+        11.6667,
+        4.0
+      ],
+      "triangulos": 44,
+      "componentes": 1,
+      "malha_fechada": true,
+      "orientacao_coerente": true,
+      "limpeza_triangulacao": {
+        "faces_colineares_removidas": 0,
+        "arestas_retrianguladas": 0
+      },
+      "volume_mm3": 435.5555,
+      "base_z_mm": 0,
+      "translacao_aplicada_mm": [
+        -0.0,
+        -0.0,
+        -0.0
+      ],
+      "sha256": "31167880e92a9ae58dd607b25d7ad40c5d7d4fe4300e0f3067585d2ca9d51c1a"
+    }
+  ]
+}

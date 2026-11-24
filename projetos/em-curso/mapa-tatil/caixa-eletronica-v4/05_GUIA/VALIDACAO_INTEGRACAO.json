@@ -1,0 +1,100 @@
+{
+  "botoes": 18,
+  "furos_por_botao": 4,
+  "furos_fios": 72,
+  "diametro_furos_fios_mm": 2.6,
+  "furos_centrais": 0,
+  "rasgos_terminais": 0,
+  "contornos_tampa": 73,
+  "furos_separados": true,
+  "comparacao_com_secao_real_scad": true,
+  "erro_maximo_furacao_mm": 0.0003,
+  "resolucao_coordenadas_mm": 0.001,
+  "pares_svg_dxf_conferidos": 13,
+  "colisoes_eletronica_estrutura": [],
+  "areas_servico_livres": true,
+  "descidas_dos_18_botoes_livres": true,
+  "folga_minima_conservadora_passagens_nervuras_mm": 3.95,
+  "usb_alinhado": true,
+  "componentes_sao_modelos_nominais": true,
+  "contato_pinos_esp32_protoboard_previsto": true,
+  "pecas_mdf": [
+    {
+      "peca": "C0_BASE",
+      "triangulos": 12,
+      "malha_fechada": true,
+      "normais_coerentes": true,
+      "espessura_mm": 3
+    },
+    {
+      "peca": "C1_TAMPO_FURADO",
+      "triangulos": 18732,
+      "malha_fechada": true,
+      "normais_coerentes": true,
+      "espessura_mm": 3
+    },
+    {
+      "peca": "C2_FRENTE",
+      "triangulos": 1232,
+      "malha_fechada": true,
+      "normais_coerentes": true,
+      "espessura_mm": 3
+    },
+    {
+      "peca": "C3_TRAS_USB",
+      "triangulos": 1108,
+      "malha_fechada": true,
+      "normais_coerentes": true,
+      "espessura_mm": 3
+    },
+    {
+      "peca": "C4_ESQUERDA",
+      "triangulos": 12,
+      "malha_fechada": true,
+      "normais_coerentes": true,
+      "espessura_mm": 3
+    },
+    {
+      "peca": "C5_DIREITA",
+      "triangulos": 12,
+      "malha_fechada": true,
+      "normais_coerentes": true,
+      "espessura_mm": 3
+    },
+    {
+      "peca": "C6_NX1",
+      "triangulos": 60,
+      "malha_fechada": true,
+      "normais_coerentes": true,
+      "espessura_mm": 3
+    },
+    {
+      "peca": "C7_NX2",
+      "triangulos": 60,
+      "malha_fechada": true,
+      "normais_coerentes": true,
+      "espessura_mm": 3
+    },
+    {
+      "peca": "C8_NY",
+      "triangulos": 92,
+      "malha_fechada": true,
+      "normais_coerentes": true,
+      "espessura_mm": 3
+    }
+  ],
+  "fontes_originais_sha256": {
+    "01_mapa_tatil/construcoes_vista_aerea.scad": "ae852c95c71ced49d3da1914279d0dcb3df694f472132c24a9c012c401ad6090",
+    "01_mapa_tatil/botao_tatil_KFC-A06_12x12x4p3.scad": "b736e51bec0b46081c0a484e42faa518cf365c68720901625fca65c3b743f683",
+    "03_caixa_eletronica/06_FONTE/integrar_caixa.py": "15d0610761156e8b1f055ee7b5131df269da1fcb59f9f06d907aaa9c90ec6115",
+    "03_caixa_eletronica/04_MODELO_3D/Componentes_eletronicos.scad": "a664cc7437e952ca19357add423a4d6c3e846aeeb6df04b42a9f06b559c2d846",
+    "03_caixa_eletronica/04_MODELO_3D/Geometria_caixa.scad": "746d01cc876e04a0593904ab469394611a38f36369743a9310c4c18fcab69373"
+  },
+  "fontes_publicadas_sha256": {
+    "relevo-500x380/construcoes_vista_aerea.scad": "3414dab52d9af4c1ed3334157441883d63aa4c4b9909fdbece7a595e52b5a6ba",
+    "relevo-500x380/botao_tatil_KFC-A06_12x12x4p3.scad": "b736e51bec0b46081c0a484e42faa518cf365c68720901625fca65c3b743f683",
+    "caixa-eletronica-v4/06_FONTE/integrar_caixa.py": "930f603d5d61943a501bd27984504c396e3a0519e0882b77814344b0bdc83768",
+    "caixa-eletronica-v4/04_MODELO_3D/Componentes_eletronicos.scad": "a664cc7437e952ca19357add423a4d6c3e846aeeb6df04b42a9f06b559c2d846",
+    "caixa-eletronica-v4/04_MODELO_3D/Geometria_caixa.scad": "746d01cc876e04a0593904ab469394611a38f36369743a9310c4c18fcab69373"
+  }
+}

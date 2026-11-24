@@ -1,17 +1,20 @@
 # Mapa tátil do câmpus
 
-**Situação em outubro de 2026:** Em curso, na montagem da estrutura física.
+**Situação em novembro de 2026:** em curso, na montagem da estrutura física.
 
-Desenvolvemos um mapa em relevo do câmpus para explorar orientação espacial e acessibilidade. Pietro Oliveira Gonçalves, Izabel de Souza Dias e Elisa Bastos Dias atuam no projeto. Estamos montando o pedestal e a caixa e preparando as peças táteis e a futura integração com orientação por áudio.
+Desenvolvemos um mapa em relevo do câmpus para explorar orientação espacial e acessibilidade. Pietro Oliveira Gonçalves, Izabel de Souza Dias e Elisa Bastos Dias atuam no projeto. A orientação por áudio faz parte da integração prevista.
 
 ## Como consultar
 
-Use a sequência [pedestal](pedestal/), [caixa eletrônica V4](caixa-eletronica-v4/) e [relevo de 500 × 380 mm](relevo-500x380/). Os arquivos de 500 × 500 mm e a caixa V3 foram substituídos. O pedestal continua necessário à montagem V4. A caixa tem seus painéis lisos de fabricação e o relevo atualizado possui os 18 pontos de botões. Confira o componente físico antes de furar.
+- [Pedestal](pedestal/), com arquivos de corte e montagem.
+- [Relevo de 500 × 380 mm](relevo-500x380/), com modelos editáveis, STL para impressão e encaixes para 18 botões KFC-A06.
+- [Caixa eletrônica V4 integrada](caixa-eletronica-v4/), com tampa CNC de 72 furos de 2,6 mm, quatro por botão, e guia revisado de montagem.
 
-A adaptação V4 atualiza a referência de lastro do conjunto para pelo menos 19 kg de massa total, sob as hipóteses de cálculo do projeto. Essa atualização prevalece sobre os 17 kg indicados no manual do pedestal isolado. Veja o [guia didático](guia-didatico.pdf).
+O conjunto usa a referência de massa total de pelo menos 19 kg, conforme as hipóteses de cálculo da caixa V4. As verificações de projeto são digitais. Faça a conferência de encaixe com os botões e o material reais antes de cortar a tampa definitiva.
 
 ## Arquivos
 
+- [Guia didático](guia-didatico.pdf)
 - [Fotos](fotos/)
 
 [Voltar ao índice geral](../../../README.md)

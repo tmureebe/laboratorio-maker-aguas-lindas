@@ -1,0 +1,461 @@
+{
+  "resultado": "PASSOU",
+  "unidade": "mm",
+  "criterios": {
+    "camara_comprimento": 200,
+    "secao": [
+      120,
+      120
+    ],
+    "folga_minima": 3,
+    "eixo_global": [
+      300.0,
+      0.0,
+      104.4
+    ],
+    "faixa_angular": [
+      -20,
+      20
+    ]
+  },
+  "asa": {
+    "corda": 190,
+    "envergadura": 114,
+    "area_mm2": 21660,
+    "area_original_mm2": 3600,
+    "razao_areas": 6.016666666666667,
+    "curvatura_maxima_mm": 3.8,
+    "espessura_nominal_percentual": 8,
+    "bordo_fuga_mm": 0.8,
+    "encaixe_largura_mm": 15,
+    "furo_mm": 3.4
+  },
+  "malha_impressao": {
+    "fechada": true,
+    "componentes": 1,
+    "orientacao_consistente": true,
+    "triangulos": 2404,
+    "volume_mm3": 236275.43567275337,
+    "dimensoes_mm": [
+      190.0,
+      37.413299046326,
+      114.0
+    ],
+    "minimo_mm": [
+      0.0,
+      9.53674e-07,
+      0.0
+    ],
+    "maximo_mm": [
+      190.0,
+      37.4133,
+      114.0
+    ],
+    "sha256": "1c6f8b24ad88973fdd867b1b0c47632cd9b52c5ddd4aeca9d345a2a1a3997eb1"
+  },
+  "envelope_continuo_mm": [
+    [
+      203.28644718551593,
+      -57.0,
+      87.59477172621999
+    ],
+    [
+      396.76548971611726,
+      57.0,
+      155.76690644260455
+    ]
+  ],
+  "folgas_minimas_mm": {
+    "entrada": 3.286447185515925,
+    "saida": 3.2345102838827415,
+    "lateral": 3.0,
+    "piso": 25.19477172621999,
+    "teto_conservador": 25.03309355739546
+  },
+  "candidato_191mm_envelope": [
+    [
+      202.7950541896144,
+      -57.0,
+      87.41727362511428
+    ],
+    [
+      397.2564136702562,
+      57.0,
+      155.9482427798157
+    ]
+  ],
+  "criterio_maximo": "Maior corda inteira neste perfil e eixo central, com folga de 3 mm e rotação ±20°; envergadura = 120 - 2×3.",
+  "folga_conservadora_corpo_suporte_intervalo_completo_mm": 5.664406603236518,
+  "folga_lateral_encaixe_orelhas_mm": 0.5,
+  "erro_interpolacao_sweep_mm": 0.04222190994627399,
+  "intersecoes": [
+    {
+      "teste": "colisao_-20_camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-20_moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-20_suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-20_acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-20_U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-20_U02",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-15_camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-15_moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-15_suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-15_acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-15_U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-15_U02",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-10_camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-10_moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-10_suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-10_acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-10_U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-10_U02",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-5_camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-5_moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-5_suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-5_acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-5_U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_-5_U02",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_0_camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_0_moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_0_suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_0_acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_0_U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_0_U02",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_5_camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_5_moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_5_suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_5_acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_5_U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_5_U02",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_10_camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_10_moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_10_suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_10_acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_10_U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_10_U02",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_15_camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_15_moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_15_suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_15_acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_15_U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_15_U02",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_20_camara",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_20_moldura",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_20_suporte_asa",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_20_acrilico",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_20_U01",
+      "volume_intersecao_mm3": 0.0
+    },
+    {
+      "teste": "colisao_20_U02",
+      "volume_intersecao_mm3": 0.0
+    }
+  ],
+  "envelopes_por_angulo": [
+    {
+      "angulo_graus": -20,
+      "minimo_mm": [
+        204.48855300272749,
+        -57.0,
+        87.59477172621999
+      ],
+      "maximo_mm": [
+        383.2512444521295,
+        57.0,
+        154.18225783839924
+      ]
+    },
+    {
+      "angulo_graus": -15,
+      "minimo_mm": [
+        203.53312416285144,
+        -57.0,
+        95.64489077245476
+      ],
+      "maximo_mm": [
+        387.20773830365715,
+        57.0,
+        146.76084448845833
+      ]
+    },
+    {
+      "angulo_graus": -10,
+      "minimo_mm": [
+        203.2985214129178,
+        -57.0,
+        96.40259116124265
+      ],
+      "maximo_mm": [
+        390.50052860922176,
+        57.0,
+        139.01703953378302
+      ]
+    },
+    {
+      "angulo_graus": -5,
+      "minimo_mm": [
+        203.78777081948442,
+        -57.0,
+        96.40063804234019
+      ],
+      "maximo_mm": [
+        393.10455524635705,
+        57.0,
+        133.3896688696132
+      ]
+    },
+    {
+      "angulo_graus": 0,
+      "minimo_mm": [
+        205.0,
+        -57.0,
+        96.4
+      ],
+      "maximo_mm": [
+        395.0,
+        57.0,
+        133.813
+      ]
+    },
+    {
+      "angulo_graus": 5,
+      "minimo_mm": [
+        206.92555186988562,
+        -57.0,
+        96.40063804234019
+      ],
+      "maximo_mm": [
+        396.24216198527273,
+        57.0,
+        137.45908663102563
+      ]
+    },
+    {
+      "angulo_graus": 10,
+      "minimo_mm": [
+        209.55089769799332,
+        -57.0,
+        96.40259116124265
+      ],
+      "maximo_mm": [
+        396.75186300523126,
+        57.0,
+        142.85383231212657
+      ]
+    },
+    {
+      "angulo_graus": 15,
+      "minimo_mm": [
+        212.85234852452658,
+        -57.0,
+        96.40558811999884
+      ],
+      "maximo_mm": [
+        396.5252239273479,
+        57.0,
+        149.1615440993709
+      ]
+    },
+    {
+      "angulo_graus": 20,
+      "minimo_mm": [
+        216.80640846460142,
+        -57.0,
+        88.44667650989346
+      ],
+      "maximo_mm": [
+        395.5639696118536,
+        57.0,
+        155.76690644260455
+      ]
+    }
+  ],
+  "projecao_frontal_corpo": [
+    {
+      "angulo_graus": 0,
+      "area_projetada_corpo_mm2": 1817.2284,
+      "fracao_secao": 0.12619641666666667
+    },
+    {
+      "angulo_graus": 5,
+      "area_projetada_corpo_mm2": 2713.8294834822377,
+      "fracao_secao": 0.18846038079737762
+    },
+    {
+      "angulo_graus": 10,
+      "area_projetada_corpo_mm2": 4288.403938865595,
+      "fracao_secao": 0.2978058290878885
+    },
+    {
+      "angulo_graus": 15,
+      "area_projetada_corpo_mm2": 5967.797818402388,
+      "fracao_secao": 0.41443040405572135
+    },
+    {
+      "angulo_graus": 20,
+      "area_projetada_corpo_mm2": 7674.552961342206,
+      "fracao_secao": 0.5329550667598754
+    }
+  ],
+  "limites": [
+    "Geometria digital; sem ensaio físico, CFD ou verificação estrutural.",
+    "Os modelos da célula/ventoinha V7 são anteriores às medidas reais registradas em outubro.",
+    "Ferragens reais não modeladas. Encaixe original preservado, conferir M3 × 35 na montagem.",
+    "Área ampliada não garante força mensurável: velocidade, calibração, ruído e bloqueio precisam ser medidos."
+  ]
+}

@@ -1,0 +1,19 @@
+﻿numero;nome;x_mm;y_mm;z_base_sobre_tampa_mm
+1;Entrada principal;153.667;45.333;5.0
+2;Estacionamento;108.667;92.0;5.0
+3;Bicicletário;217.0;92.0;5.0
+4;DAA;205.333;135.333;13.033
+5;Biblioteca - 2º andar;237.0;122.0;13.033
+6;GEPEX;155.333;138.667;13.033
+7;Centro de seleção audiovisual;133.667;138.667;13.033
+8;CORAE;112.0;138.667;13.033
+9;UBS;90.333;138.667;13.033
+10;Administração - 2º andar;117.0;122.0;13.033
+11;Quadra;315.333;200.333;16.367
+12;Restaurante;119.167;283.667;8.367
+13;Bloco acadêmico / ensino;182.0;258.667;13.033
+14;Laboratórios;188.5;290.333;13.033
+15;Refeitório;172.0;290.333;13.033
+16;Pátio;190.333;328.667;13.033
+17;Auditório;172.833;328.667;13.033
+18;Saída;181.167;342.5;13.033

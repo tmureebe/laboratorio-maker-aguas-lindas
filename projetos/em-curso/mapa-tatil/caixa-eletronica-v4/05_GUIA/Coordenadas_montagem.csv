@@ -1,14 +1,17 @@
-﻿item;x_mm;s_mm;observacao
-Centro do taco 1;30.0;13.0;"Parafuso horizontal na parede frontal/traseira; eixo z=35; taco colado apenas na tampa"
-Centro do taco 2;150.0;13.0;"Parafuso horizontal na parede frontal/traseira; eixo z=35; taco colado apenas na tampa"
-Centro do taco 3;400.0;13.0;"Parafuso horizontal na parede frontal/traseira; eixo z=35; taco colado apenas na tampa"
-Centro do taco 4;470.0;13.0;"Parafuso horizontal na parede frontal/traseira; eixo z=35; taco colado apenas na tampa"
-Centro do taco 5;30.0;367.0;"Parafuso horizontal na parede frontal/traseira; eixo z=35; taco colado apenas na tampa"
-Centro do taco 6;150.0;367.0;"Parafuso horizontal na parede frontal/traseira; eixo z=35; taco colado apenas na tampa"
-Centro do taco 7;400.0;367.0;"Parafuso horizontal na parede frontal/traseira; eixo z=35; taco colado apenas na tampa"
-Centro do taco 8;470.0;367.0;"Parafuso horizontal na parede frontal/traseira; eixo z=35; taco colado apenas na tampa"
-Tampo antigo: canto dianteiro esquerdo;0;0;"500x380; lixar dentes rentes antes da colagem"
-Tampo antigo: canto traseiro direito;500;380;Sem recorte ou furação
-Nervura NX1;3;110.0;"Eixo; comprimento 494; solidária à tampa"
-Nervura NX2;3;240.0;"Eixo; comprimento 494; solidária à tampa"
-Nervura NY;250;3;"Eixo; comprimento 374; solidária à tampa"
+﻿item;x_mm;y_mm;z_mm;observacao
+Taco;30;13;3;"centro em XY; 20x20x44; furo horizontal z35; colar só à tampa"
+Taco;150;13;3;"centro em XY; 20x20x44; furo horizontal z35; colar só à tampa"
+Taco;400;13;3;"centro em XY; 20x20x44; furo horizontal z35; colar só à tampa"
+Taco;470;13;3;"centro em XY; 20x20x44; furo horizontal z35; colar só à tampa"
+Taco;30;367;3;"centro em XY; 20x20x44; furo horizontal z35; colar só à tampa"
+Taco;150;367;3;"centro em XY; 20x20x44; furo horizontal z35; colar só à tampa"
+Taco;270;367;3;"centro em XY; 20x20x44; furo horizontal z35; colar só à tampa"
+Taco;470;367;3;"centro em XY; 20x20x44; furo horizontal z35; colar só à tampa"
+Nervura NX;3;110;17;"494x30x3; face superior z47"
+Nervura NX;3;240;17;"494x30x3; face superior z47"
+Nervura NY;250;3;17;"374x30x3; face superior z47"
+Protoboard;285;270;6;limites max=[455, 340, 15.3]
+ESP32, pinos e USB;320;286;15;limites max=[348, 345.2, 29.2]
+DFPlayer, suportes e microSD;420;160;3;limites max=[445, 194, 17.6]
+Resistor 1k;376;284.5;17.5;limites max=[392, 287.5, 20.5]
+Falante;314;4;9;limites max=[346, 16, 41]

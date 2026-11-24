@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="42mm" height="42mm" viewBox="0 0 42 42" overflow="visible">
+<title>Corte em mm, escala 1:1; sem compensação de feixe</title>
+<desc>Contornos pretos de 0,35 mm para visualização. Cortar pelos eixos vetoriais, sem converter o traço em contorno. Contornos internos são cortes passantes; marcações são fornecidas em PDF separado.</desc>
+<g id="CORTE">
+<path id="CUPOM_BOTAO_KFC_A06_0" d="M 0.000000,42.000000 L 42.000000,42.000000 L 42.000000,0.000000 L 0.000000,0.000000 Z" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="CUPOM_BOTAO_KFC_A06_1" cx="14.750000" cy="23.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="CUPOM_BOTAO_KFC_A06_2" cx="14.750000" cy="18.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="CUPOM_BOTAO_KFC_A06_3" cx="27.250000" cy="23.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+<circle id="CUPOM_BOTAO_KFC_A06_4" cx="27.250000" cy="18.500000" r="1.300000" fill="none" stroke="#000000" stroke-width="0.35" stroke-linejoin="round"/>
+</g>
+</svg>
